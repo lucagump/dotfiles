@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "İndir"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "iCloud Yer İşaretleri'ni kullanmak üzere Windows için iCloud'u indirin."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Windows'taki Chrome yer işaretlerinizi iPhone'unuzdaki, iPad'inizdeki ve Mac'inizdeki Safari yer işaretleriyle güncel tutun."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud Yer İşaretleri"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Bu uzantı, Chrome'un masaüstü modunda çalışmasını gerektirir. Chrome menüsüne tıklayın ve \"Chrome'u masaüstünde yeniden başlat\" seçeneğine tıklayın."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "Tamam"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Windows için iCloud'u açın"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "iCloud Yer İşaretleri'ni kullanmak için iCloud'a giriş yapın."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Chrome yer işaretleriniz iCloud ile eşzamanlanıyor."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Yüklemeye çalıştığınız eklenti Windows 7 veya 8 üzerinde çalışacak şekilde tasarlanmış. Mac kullanıyorsanız, aygıtlarınızın tümünde iCloud'a giriş yaptığınızda Safari yer işaretleriniz iPhone'unuzla, iPad'inizle ve Mac'inizle otomatik olarak eşzamanlanacaktır."
+   }
+}

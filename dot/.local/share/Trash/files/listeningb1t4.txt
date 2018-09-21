@@ -1,0 +1,29 @@
+Test 4
+
+1B
+2B
+3C
+4A
+5A
+6B
+7C
+
+8A
+9C
+10B
+11C
+
+14 Good Living
+15 fish
+16 salads
+17 rice
+18 parties
+19 3.99 2,49
+
+20 B
+21 A
+22 A
+23 B
+24 A
+25 B
+

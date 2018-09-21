@@ -1,0 +1,1886 @@
+{
+   "checksum": "b0dfe7e24f719a9dfd365d09b0920275",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13133627275418266",
+               "id": "187",
+               "meta_info": {
+                  "last_visited_desktop": "13177355356808715"
+               },
+               "name": "My Pearson Place",
+               "sync_transaction_version": "28",
+               "type": "url",
+               "url": "https://www.pearson.it/place/prodotti_digitali"
+            }, {
+               "date_added": "13092273104317059",
+               "id": "188",
+               "meta_info": {
+                  "last_visited_desktop": "13181994401150518"
+               },
+               "name": "English | Academic Software Discounts",
+               "sync_transaction_version": "228",
+               "type": "url",
+               "url": "https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=98de0356-b3d5-e011-ae14-f04da23e67f6&vsro=8"
+            }, {
+               "date_added": "13092343777397726",
+               "id": "189",
+               "meta_info": {
+                  "last_visited_desktop": "13173929141352435"
+               },
+               "name": "Welcome to Visual Studio 2015",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://msdn.microsoft.com/en-us/library/dd831853.aspx"
+            }, {
+               "date_added": "13120257124249392",
+               "id": "190",
+               "meta_info": {
+                  "last_visited_desktop": "13173928992663665"
+               },
+               "name": "Home page di Microsoft Office",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.office.com/1/?auth=2&home=1&from=PortalLanding&client-request-id=c7258526-6c5b-48a7-aa60-30a85df440d3"
+            }, {
+               "date_added": "13132940148108774",
+               "id": "191",
+               "meta_info": {
+                  "last_visited": "13180828008070028",
+                  "last_visited_desktop": "13181323553184233"
+               },
+               "name": "Renato Lo Cigno",
+               "sync_transaction_version": "167",
+               "type": "url",
+               "url": "http://disi.unitn.it/locigno/teaching-duties/reti/"
+            }, {
+               "date_added": "13100100733050467",
+               "id": "192",
+               "meta_info": {
+                  "last_visited_desktop": "13161486848225125"
+               },
+               "name": "Drive Informatica",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://drive.google.com/a/studenti.unitn.it/folderview?id=0B7M0Vuj0hXVUN3lyZDR3OTUyLU0&usp=sharing"
+            }, {
+               "date_added": "13100101176334332",
+               "id": "193",
+               "meta_info": {
+                  "last_visited_desktop": "13181929025589282"
+               },
+               "name": "Index of /",
+               "sync_transaction_version": "223",
+               "type": "url",
+               "url": "http://socialnotes.eu/"
+            }, {
+               "date_added": "13170445085309195",
+               "id": "194",
+               "meta_info": {
+                  "last_visited_desktop": "13181929023462522"
+               },
+               "name": "B2 level English language practice tests",
+               "sync_transaction_version": "222",
+               "type": "url",
+               "url": "https://www.examenglish.com/B2/index.php"
+            }, {
+               "date_added": "13170445141874731",
+               "id": "195",
+               "meta_info": {
+                  "last_visited_desktop": "13174525021117913"
+               },
+               "name": "B2-SIM",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://claonline.unifi.it/online/course/category.php?id=14"
+            }, {
+               "date_added": "13170954235028301",
+               "id": "196",
+               "meta_info": {
+                  "last_visited": "13173733908239521",
+                  "last_visited_desktop": "13173833115244107"
+               },
+               "name": "Cambridge English Write & Improve",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://writeandimprove.com/"
+            }, {
+               "date_added": "13182038005515421",
+               "id": "237",
+               "meta_info": {
+                  "last_visited_desktop": "13182038005516715"
+               },
+               "name": "LFC - Obiettivi",
+               "sync_transaction_version": "242",
+               "type": "url",
+               "url": "https://www.esse3.unitn.it/Guide/PaginaADErogata.do;jsessionid=C5FA725D75C89FE8D736989F39D86227.esse3-unitn-prod-03?ad_er_id=2017*N0*N0*S1*40435*87758&ANNO_ACCADEMICO=2017&mostra_percorsi=S"
+            } ],
+            "date_added": "13176319997057720",
+            "date_modified": "13182038005515421",
+            "id": "10",
+            "name": "UniTn",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13130543638861455",
+               "id": "185",
+               "meta_info": {
+                  "last_visited": "13173714527542656",
+                  "last_visited_desktop": "13181230736542697"
+               },
+               "name": "Device(Sala Nuova)",
+               "sync_transaction_version": "132",
+               "type": "url",
+               "url": "http://eliomartinelli.dyndns.org:9001/"
+            }, {
+               "date_added": "13130543659932295",
+               "id": "186",
+               "meta_info": {
+                  "last_visited": "13173713936009684",
+                  "last_visited_desktop": "13173717207422428"
+               },
+               "name": "Device(Garage)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://eliomartinelli.dyndns.org:9000/"
+            } ],
+            "date_added": "13176319997058128",
+            "date_modified": "13176319997058128",
+            "id": "11",
+            "name": "CAM",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13132196468256237",
+                  "id": "176",
+                  "name": "SuiteAdoCC17",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://uploaded.net/f/9g67zc"
+               }, {
+                  "date_added": "13132194232000073",
+                  "id": "177",
+                  "name": "Video Corso Premiere Pro CC - Lezione 00 - Introduzione al Programma e Nozioni Base - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=1LwAArtCE2w"
+               }, {
+                  "date_added": "13132194052508304",
+                  "id": "178",
+                  "name": "Adobe Lightroom cc 2015 v 6.1.1 [ITA] – To the Games and Beyond",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://tothegamesandbeyond.altervista.org/adobe-lightroom/"
+               }, {
+                  "date_added": "13118425755543171",
+                  "id": "179",
+                  "name": "Tutorial PC immagini Sborricorni - Bellescritte - Cose molto Tumblr - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=hZI11Pu9nCA"
+               }, {
+                  "date_added": "13121916368079655",
+                  "id": "180",
+                  "name": "Tutorial Photoshop CS6 - Disintegration effect - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=GPsVsMOc0zc"
+               }, {
+                  "date_added": "13121916765732973",
+                  "id": "181",
+                  "name": "Photoshop Tutorial: How to Create a Powerful, Text Portrait Poster - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=fj_iwNgv8aQ"
+               }, {
+                  "date_added": "13121916368079655",
+                  "id": "182",
+                  "name": "Tutorial Photoshop CS6 - Disintegration effect - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=GPsVsMOc0zc"
+               }, {
+                  "date_added": "13121916765732973",
+                  "id": "183",
+                  "name": "Photoshop Tutorial: How to Create a Powerful, Text Portrait Poster - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=fj_iwNgv8aQ"
+               }, {
+                  "date_added": "13104543954908975",
+                  "id": "184",
+                  "name": "Photoshop Tutorials & Photography",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://phlearn.com/"
+               }, {
+                  "date_added": "13176482780953539",
+                  "id": "198",
+                  "meta_info": {
+                     "last_visited_desktop": "13176482780954209"
+                  },
+                  "name": "bin/login conifg file raspbian - Cerca con Google",
+                  "sync_transaction_version": "12",
+                  "type": "url",
+                  "url": "https://www.google.it/search?ei=zZlQW6jlOYOZkgX7741w&q=bin%2Flogin+conifg+file+raspbian&oq=bin%2Flogin+conifg+file+raspbian&gs_l=psy-ab.3...1687.3633.0.3744.9.9.0.0.0.0.109.831.7j2.9.0....0...1.1.64.psy-ab..0.7.647...33i160k1j33i21k1.0.QPYak8t-eYo"
+               } ],
+               "date_added": "13176319997071180",
+               "date_modified": "13176482780953539",
+               "id": "163",
+               "name": "Tutorial Adobe",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13118426400603444",
+               "id": "164",
+               "meta_info": {
+                  "last_visited_desktop": "13181231849114097"
+               },
+               "name": "Mecanic Sounds Flyer by dpgraphic | GraphicRiver",
+               "sync_transaction_version": "138",
+               "type": "url",
+               "url": "https://graphicriver.net/item/mecanic-sounds-flyer/17842354?ref=ilcava&ref=ilcava&clickthrough_id=789549791&redirect_back=true"
+            }, {
+               "date_added": "13118427619238819",
+               "id": "165",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224290632"
+               },
+               "name": "WallpapersWide.com | Forests HD Desktop Wallpapers for Widescreen, High Definition, Mobile | Page 1",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wallpaperswide.com/forests-desktop-wallpapers.html"
+            }, {
+               "date_added": "13118769846549664",
+               "id": "166",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224296112"
+               },
+               "name": "Full HD 1080p Minimalism Wallpapers HD, Desktop Backgrounds 1920x1080",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wallpaperscraft.com/tag/minimalism/1920x1080"
+            }, {
+               "date_added": "13119454837788933",
+               "id": "167",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224302821"
+               },
+               "name": "Free PSD Flyer Templates For Autumn Сelebration Party - icanbecreative",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://icanbecreative.com/article/free-psd-flyer-templates-autumn-party"
+            }, {
+               "date_added": "13120356726596623",
+               "id": "168",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224311132"
+               },
+               "name": "33 Free Lightroom Presets - Best Pro Lightroom Presets for Free",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://freelightroompresets.co/free-lightroom-presets/"
+            }, {
+               "date_added": "13120365619083187",
+               "id": "169",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224316871"
+               },
+               "name": "Comics Wallpapers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wallup.net/comics-wallpapers/page/20/"
+            }, {
+               "date_added": "13122854778701800",
+               "id": "170",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224330882"
+               },
+               "name": "117 Best Free Lightroom Presets That You Will Fall in Love With",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://enviragallery.com/best-free-lightroom-presets/"
+            }, {
+               "date_added": "13122854778701800",
+               "id": "171",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224330882"
+               },
+               "name": "117 Best Free Lightroom Presets That You Will Fall in Love With",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://enviragallery.com/best-free-lightroom-presets/"
+            }, {
+               "date_added": "13130813551276998",
+               "id": "172",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224336417"
+               },
+               "name": "Free PSD, +5,800 free Photoshop files",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.freepik.com/free-psd"
+            }, {
+               "date_added": "13130813628206285",
+               "id": "173",
+               "meta_info": {
+                  "last_visited": "13151064896962712",
+                  "last_visited_desktop": "13173654224343580"
+               },
+               "name": "Free PSD Flyer Templates to Download for Photoshop!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://freepsdflyer.com/"
+            }, {
+               "date_added": "13130433363469189",
+               "id": "174",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224349153"
+               },
+               "name": "100 amazing Adobe Illustrator tutorials | Creative Bloq",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.creativebloq.com/digital-art/illustrator-tutorials-1232697"
+            }, {
+               "date_added": "13146349910982480",
+               "id": "175",
+               "meta_info": {
+                  "last_visited_desktop": "13173654224356434"
+               },
+               "name": "98 Lines Transitions Presets - Premiere Pro Templates | Motion Array",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://motionarray.com/premiere-pro-templates/98-lines-transitions-presets-37145"
+            } ],
+            "date_added": "13176319997058443",
+            "date_modified": "13176319997058443",
+            "id": "12",
+            "name": "GRAFICA",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13133636075252271",
+                  "id": "152",
+                  "meta_info": {
+                     "last_visited_desktop": "13146418743447784"
+                  },
+                  "name": "How to Make Your Own USB Rubber Ducky Using a Normal USB?",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://thehacktoday.com/make-your-own-usb-rubber-ducky/"
+               }, {
+                  "date_added": "13133636108055005",
+                  "id": "153",
+                  "meta_info": {
+                     "last_visited_desktop": "13146418740395684"
+                  },
+                  "name": "Make your own USB Rubber Ducky using a normal USB stick |",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.pentestingshop.com/pentesting/make-your-own-usb-rubber-ducky-using-a-normal-usb-stick/"
+               }, {
+                  "date_added": "13133636488149059",
+                  "id": "154",
+                  "meta_info": {
+                     "last_visited_desktop": "13151011968636685"
+                  },
+                  "name": "How to Install Kali Live on a USB Drive (With Persistence, Optional) « Null Byte",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://null-byte.wonderhowto.com/how-to/install-kali-live-usb-drive-with-persistence-optional-0162253/"
+               }, {
+                  "date_added": "13133636879387532",
+                  "id": "155",
+                  "name": "Mr Robot - TheFatRat - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=krg7HUYj-dM&t=663s"
+               }, {
+                  "date_added": "13133637000855155",
+                  "id": "156",
+                  "name": "Hackeando con el USB Rubber Ducky",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.hackwise.mx/hackeando-contrasenas-con-el-usb-rubber-ducky-como-en-mr-robot/"
+               }, {
+                  "date_added": "13134248796994164",
+                  "id": "157",
+                  "name": "Come Creare una Live USB Persistente con Kali Linux",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.williamdrago.org/index.php/it/2016/03/25/creare-live-usb-persistente-kali-linux/"
+               }, {
+                  "date_added": "13134285365689638",
+                  "id": "158",
+                  "name": "Wifi Hacking - WEP - Kali Linux Aircrack-ng suite - Kali Linux Hacking Tutorials",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.kalitutorials.net/2013/08/wifi-hacking-wep-kali-linux-aircrack-ng.html?m=1"
+               }, {
+                  "date_added": "13134285494722671",
+                  "id": "159",
+                  "name": "Hack Any Android Phone : msfvenon - Metasploit payload generator - Kali Linux Hacking Tutorials",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.kalitutorials.net/2016/01/metasploit-for-future-hackers-msfvenom.html?m=1"
+               }, {
+                  "date_added": "13134318891362848",
+                  "id": "160",
+                  "name": "Sniffing del traffico HTTPS con Ettercap e SSL Strip",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.slideshare.net/mobile/mattia_reggiani/sniffing-del-traffico-https-con-ettercap-e-ssl-strip"
+               }, {
+                  "date_added": "13146289485507457",
+                  "id": "161",
+                  "meta_info": {
+                     "last_visited_desktop": "13146339371193450"
+                  },
+                  "name": "15 Great Websites To Learn Ethical Hacking From Scratch Onilne",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.techgyd.com/websites-to-learn-ethical-hacking/5673/"
+               }, {
+                  "date_added": "13146339505793861",
+                  "id": "162",
+                  "meta_info": {
+                     "last_visited_desktop": "13146339505793943"
+                  },
+                  "name": "Wonder How To » Fresh Hacks For a Changing World",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.wonderhowto.com/"
+               } ],
+               "date_added": "13176319997069434",
+               "date_modified": "13176319997069434",
+               "id": "140",
+               "name": "Kali",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13092765001842753",
+               "id": "141",
+               "name": "SONY EU | Support - Istruzioni per l'aggiornamento a Windows 10 dei PC Sony VAIO",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://sony-eur-eu-en-web--eur.custhelp.com/app/answers/detail/a_id/107872/session/L2F2LzEvdGltZS8xNDQ4MjkxMjUxL3NpZC93ZU5KSWRDbQ%3D%3D"
+            }, {
+               "date_added": "13093555134821929",
+               "id": "142",
+               "name": "Creazione e ripristino di un immagine del sistema in Windows 8.1 e - Microsoft Community",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://answers.microsoft.com/it-it/windows/wiki/windows8_1-update/creazione-e-ripristino-di-un-immagine-del-sistema/7ec81386-cf14-4cf6-b78d-5edb704ba19b"
+            }, {
+               "date_added": "13094929748097972",
+               "id": "143",
+               "name": "Notes for Pebble",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://notesforpebble.com/demo-new.php"
+            }, {
+               "date_added": "13095450540757221",
+               "id": "144",
+               "name": "Come si installa Ubuntu in dual Boot con Windows 8 (UEFI e Secure Boot)? - Chiedi",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://chiedi.ubuntu-it.org/questions/12182/come-si-installa-ubuntu-in-dual-boot-con-windows-8-uefi-e-secure-boot"
+            }, {
+               "date_added": "13095453354169619",
+               "id": "145",
+               "meta_info": {
+                  "last_visited_desktop": "13167862879241646"
+               },
+               "name": "Dual Boot Windows 10 and Ubuntu - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=mOtMOws7GJg"
+            }, {
+               "date_added": "13134162313868696",
+               "id": "146",
+               "name": "Avvio avanzato in Windows 10 e 8.1 | Pom-HeyWEB!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.navigaweb.net/2013/04/windows-8-col-menu-avanzato-di-avvio.html"
+            }, {
+               "date_added": "13097285490836348",
+               "id": "147",
+               "name": "Hardware/DispositiviPartizioni/PartizionamentoManuale - Wiki di ubuntu-it",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wiki.ubuntu-it.org/Hardware/DispositiviPartizioni/PartizionamentoManuale"
+            }, {
+               "date_added": "13135264354109656",
+               "id": "148",
+               "meta_info": {
+                  "last_visited_desktop": "13149542992569671"
+               },
+               "name": "AmministrazioneSistema/BootRepair - Wiki di ubuntu-it",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wiki.ubuntu-it.org/AmministrazioneSistema/BootRepair"
+            }, {
+               "date_added": "13159722694453761",
+               "id": "149",
+               "meta_info": {
+                  "last_visited_desktop": "13174770834577226"
+               },
+               "name": "(31) How to remove Ubuntu from dual boot windows 10 - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=T-syEhjw-B0"
+            }, {
+               "date_added": "13160189778706342",
+               "id": "150",
+               "meta_info": {
+                  "last_visited_desktop": "13173452952498099"
+               },
+               "name": "How to Uninstall a Linux Dual-Boot System From Your Computer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.howtogeek.com/141818/how-to-uninstall-a-linux-dual-boot-system-from-your-computer/"
+            }, {
+               "date_added": "13165872243202197",
+               "id": "151",
+               "meta_info": {
+                  "last_visited_desktop": "13165872243202577"
+               },
+               "name": "Install Sublime Text 3 in Ubuntu 16.04 & Higher The Official Way",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tipsonubuntu.com/2017/05/30/install-sublime-text-3-ubuntu-16-04-official-way/"
+            } ],
+            "date_added": "13176319997058735",
+            "date_modified": "13176319997058735",
+            "id": "13",
+            "name": "SO",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13062477128063612",
+               "id": "129",
+               "name": "Google Edition - Sense",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.tuttoandroid.net/forum/rom-per-htc-one-m8/40029-5-0-1-lollipop-convertire-il-proprio-terminale-un-google-edition-tramite-la-ruu.html"
+            }, {
+               "date_added": "13061924314545029",
+               "id": "130",
+               "name": "OTA updates on a Rooted HTC One M8 | SAKITECH: Tips, Tricks, How-To's, & Tutorials on latest in Tech",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://sakitechonline.com/how-to-get-ota-updates-on-a-rooted-htc-one-m8/"
+            }, {
+               "date_added": "13061834861712273",
+               "id": "131",
+               "name": "stock | locked | s-on",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.tuttoandroid.net/forum/modding-htc-one-m8/39146-assistenza-return-completely-stock-locked-s.html"
+            }, {
+               "date_added": "13063410345451902",
+               "id": "132",
+               "name": "Stock Backup & OTA Collection (READ 1ST,… | HTC One (M8) | XDA Forums",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forum.xda-developers.com/showthread.php?t=2701376"
+            }, {
+               "date_added": "13065376672715889",
+               "id": "133",
+               "name": "[how to] lock/unlock your bootloader without… | HTC One (M8) | XDA Forums",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forum.xda-developers.com/showthread.php?t=2708571"
+            }, {
+               "date_added": "13100816886025171",
+               "id": "134",
+               "name": "ViperOneM8",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://venomroms.com/documentation/Get_Started/Installation"
+            }, {
+               "date_added": "13100895446315077",
+               "id": "135",
+               "name": "[ROM][20 Feb][#007] Jazz - Sense 6.12.401.4 … | HTC One (M8)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forum.xda-developers.com/htc-one-m8/development/rom-sense-6-12-401-4-mra58k-stock-t3296066"
+            }, {
+               "date_added": "13100890151753144",
+               "id": "136",
+               "name": "[tutorial] How to get back on stock with TWR… | HTC One (M8)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forum.xda-developers.com/htc-one-m8/help/tutorial-how-to-stock-stock-twrp-t3086860"
+            }, {
+               "date_added": "13100889532183530",
+               "id": "137",
+               "name": "[2016.01.17][GUIDE] Firmware Flashing [Curre… | HTC One (M8)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forum.xda-developers.com/htc-one-m8/development/progress-fuu-m8-t2813792"
+            }, {
+               "date_added": "13100892362369017",
+               "id": "138",
+               "name": "HTC One (M8) AT&T - News & download - Support | HTC United States",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.htc.com/us/support/htc-one-m8-att/news/"
+            }, {
+               "date_added": "13150231647844972",
+               "id": "139",
+               "meta_info": {
+                  "last_visited_desktop": "13169000260671101"
+               },
+               "name": "How to Root the Nexus 6P or Nexus 5X on Windows, Mac, or Linux—The Foolproof Guide « Android :: Gadget Hacks",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://android.gadgethacks.com/how-to/root-nexus-6p-nexus-5x-windows-mac-linux-the-foolproof-guide-0166128/"
+            } ],
+            "date_added": "13176319997059011",
+            "date_modified": "13176319997059011",
+            "id": "14",
+            "name": "Android",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13180739830470790",
+                  "id": "212",
+                  "meta_info": {
+                     "last_visited_desktop": "13181315679259432"
+                  },
+                  "name": "Installing MQTT Broker(Mosquitto) on Raspberry Pi : 4 Steps",
+                  "sync_transaction_version": "160",
+                  "type": "url",
+                  "url": "https://www.instructables.com/id/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/"
+               }, {
+                  "date_added": "13180740717040862",
+                  "id": "213",
+                  "meta_info": {
+                     "last_visited_desktop": "13181232593491899"
+                  },
+                  "name": "server mqtt con raspberry Pi 3 | Idea Robot-Domestici",
+                  "sync_transaction_version": "139",
+                  "type": "url",
+                  "url": "http://www.robot-domestici.it/idea/?p=252"
+               }, {
+                  "date_added": "13180741009521869",
+                  "id": "214",
+                  "meta_info": {
+                     "last_visited_desktop": "13181309213472405"
+                  },
+                  "name": "How to Send data as JSON objects over to MQTT broker - Stack Overflow",
+                  "sync_transaction_version": "152",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/23947779/how-to-send-data-as-json-objects-over-to-mqtt-broker"
+               }, {
+                  "date_added": "13181139324368079",
+                  "id": "216",
+                  "meta_info": {
+                     "last_visited_desktop": "13181309213469421"
+                  },
+                  "name": "How tinstall Mosquitto MQTT Messaging Broker on Ubuntu 16.04 | DigitalOcean",
+                  "sync_transaction_version": "151",
+                  "type": "url",
+                  "url": "https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04"
+               }, {
+                  "date_added": "13181142531163632",
+                  "id": "217",
+                  "meta_info": {
+                     "last_visited_desktop": "13181143152946654"
+                  },
+                  "name": "HOWTO: ipw3945 connecting to a University Network (802.1x / PEAP)",
+                  "sync_transaction_version": "106",
+                  "type": "url",
+                  "url": "https://ubuntuforums.org/showthread.php?t=249654"
+               }, {
+                  "date_added": "13181143973403141",
+                  "id": "218",
+                  "meta_info": {
+                     "last_visited_desktop": "13181233954688769"
+                  },
+                  "name": "How to connect a Raspberry Pi to eduroam network – GranaSAT",
+                  "sync_transaction_version": "141",
+                  "type": "url",
+                  "url": "https://granasat.ugr.es/2017/02/14/how-to-connect-a-raspberry-pi-to-eduroam-network/"
+               }, {
+                  "date_added": "13181146704066286",
+                  "id": "219",
+                  "meta_info": {
+                     "last_visited_desktop": "13181765797753546"
+                  },
+                  "name": "Mi faccio una IoT: Usare MQTT per comunicare con Rasberry",
+                  "sync_transaction_version": "205",
+                  "type": "url",
+                  "url": "http://mifacciounaiot.blogspot.com/p/utilizzare-mqtt.html"
+               }, {
+                  "date_added": "13181147862987235",
+                  "id": "220",
+                  "meta_info": {
+                     "last_visited_desktop": "13181909995191457"
+                  },
+                  "name": "GitHub - dockcross/dockcross: Cross compiling toolchains in Docker images",
+                  "sync_transaction_version": "216",
+                  "type": "url",
+                  "url": "https://github.com/dockcross/dockcross"
+               }, {
+                  "date_added": "13181314841857064",
+                  "id": "222",
+                  "meta_info": {
+                     "last_visited_desktop": "13181314841857562"
+                  },
+                  "name": "GitHub - OpenSensorsIO/raspberry-pi-mqtt: A raspberry pi interface for mqtt & OSIO",
+                  "sync_transaction_version": "159",
+                  "type": "url",
+                  "url": "https://github.com/OpenSensorsIO/raspberry-pi-mqtt"
+               }, {
+                  "date_added": "13181322060455383",
+                  "id": "223",
+                  "meta_info": {
+                     "last_visited_desktop": "13181323202901607"
+                  },
+                  "name": "(2) How-To Get Started with Mosquitto MQTT Broker on a Raspberry Pi - YouTube",
+                  "sync_transaction_version": "166",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=AsDHEDbyLfg"
+               }, {
+                  "date_added": "13181328165247434",
+                  "id": "224",
+                  "meta_info": {
+                     "last_visited_desktop": "13181848574101595"
+                  },
+                  "name": "Save your data using nodejs-mqtt-mongodb - Stories - Labs",
+                  "sync_transaction_version": "214",
+                  "type": "url",
+                  "url": "https://www.thethingsnetwork.org/labs/story/save-your-data-using-nodejs-mqtt-mongodb"
+               }, {
+                  "date_added": "13181328207709999",
+                  "id": "225",
+                  "meta_info": {
+                     "last_visited_desktop": "13181767766815904"
+                  },
+                  "name": "GitHub - dennisdegreef/mqtt-mongo-recorder: This NodeJS application listens to MQTT messages and records them to MongoDB",
+                  "sync_transaction_version": "212",
+                  "type": "url",
+                  "url": "https://github.com/dennisdegreef/mqtt-mongo-recorder"
+               }, {
+                  "date_added": "13181328281717393",
+                  "id": "226",
+                  "meta_info": {
+                     "last_visited_desktop": "13181329484592195"
+                  },
+                  "name": "A simple MQTT to MongoDB bridge for Node · GitHub",
+                  "sync_transaction_version": "188",
+                  "type": "url",
+                  "url": "https://gist.github.com/codepope/8847630"
+               }, {
+                  "date_added": "13181328815267133",
+                  "id": "227",
+                  "meta_info": {
+                     "last_visited_desktop": "13181760913823317"
+                  },
+                  "name": "NodeJS + MongoDB Web Server Raspberry Pi Tutorial – Raspberry Pi Tutorials",
+                  "sync_transaction_version": "204",
+                  "type": "url",
+                  "url": "http://raspberrypituts.com/nodejs-mongodb-web-server-raspberry-pi-tutorial/"
+               }, {
+                  "date_added": "13181329059541340",
+                  "id": "228",
+                  "meta_info": {
+                     "last_visited_desktop": "13181329059541684"
+                  },
+                  "name": "Building MongoDB Into Your Internet of Things: A Tutorial - Compose Articles",
+                  "sync_transaction_version": "187",
+                  "type": "url",
+                  "url": "https://www.compose.com/articles/building-mongodb-into-your-internet-of-things-a-tutorial/"
+               }, {
+                  "date_added": "13181399639598982",
+                  "id": "231",
+                  "meta_info": {
+                     "last_visited_desktop": "13181399639600058"
+                  },
+                  "name": "(6) Node Red MQTT on the Raspberry Pi - YouTube",
+                  "sync_transaction_version": "199",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=WxUTYzxIDns"
+               }, {
+                  "date_added": "13181766917275898",
+                  "id": "233",
+                  "meta_info": {
+                     "last_visited_desktop": "13181766917276834"
+                  },
+                  "name": "JCube001/socketcan-demo: Contains a set of example programs which highlight how to make use of SocketCAN on Linux",
+                  "sync_transaction_version": "211",
+                  "type": "url",
+                  "url": "https://github.com/JCube001/socketcan-demo"
+               } ],
+               "date_added": "13176319997063877",
+               "date_modified": "13181912437068191",
+               "id": "49",
+               "name": "MURETTO",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13160189914235827",
+                  "id": "106",
+                  "meta_info": {
+                     "last_visited_desktop": "13176768579819926"
+                  },
+                  "name": "How to cross compile QT for Raspberry Pi 3 on Linux (Ubuntu) for Beginners!",
+                  "sync_transaction_version": "13",
+                  "type": "url",
+                  "url": "https://medium.com/@amirmann/how-to-cross-compile-qt-for-raspberry-pi-3-on-linux-ubuntu-for-beginners-75acf2a078c"
+               }, {
+                  "date_added": "13160189914236481",
+                  "id": "107",
+                  "meta_info": {
+                     "last_visited_desktop": "13157509347497609"
+                  },
+                  "name": "qt/qtquickcontrols2: Qt Quick Controls 2",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/qt/qtquickcontrols2"
+               }, {
+                  "date_added": "13160189914236962",
+                  "id": "108",
+                  "meta_info": {
+                     "last_visited_desktop": "13160243755541122"
+                  },
+                  "name": "Sending a data to Arduino through serial port using Qt | Qt Forum",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://forum.qt.io/topic/64696/sending-a-data-to-arduino-through-serial-port-using-qt/6"
+               }, {
+                  "date_added": "13160241315136118",
+                  "id": "109",
+                  "meta_info": {
+                     "last_visited_desktop": "13160337653755561"
+                  },
+                  "name": "Qt Serial Port - Qt Wiki",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://wiki.qt.io/Qt_Serial_Port"
+               }, {
+                  "date_added": "13160244062505653",
+                  "id": "110",
+                  "meta_info": {
+                     "last_visited_desktop": "13160244062505897"
+                  },
+                  "name": "Sending data line by line from a file to a serial port using QT - Stack Overflow",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/46783832/sending-data-line-by-line-from-a-file-to-a-serial-port-using-qt"
+               }, {
+                  "date_added": "13160244751452712",
+                  "id": "111",
+                  "meta_info": {
+                     "last_visited_desktop": "13160425217722134"
+                  },
+                  "name": "Blocking Master Example | Qt Serial Port 5.10",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://doc.qt.io/qt-5/qtserialport-blockingmaster-example.html"
+               }, {
+                  "date_added": "13161055045419384",
+                  "id": "112",
+                  "meta_info": {
+                     "last_visited_desktop": "13161104647299083"
+                  },
+                  "name": "(11) Connecting C++ witth Qml part 2, Using Connections - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=nB4YScnYpOE&list=PLfkTJXI2Tk-e6Px7PRXvMxT6tH8e7rQ9i&index=2"
+               }, {
+                  "date_added": "13161779649055021",
+                  "id": "113",
+                  "meta_info": {
+                     "last_visited_desktop": "13161779649055565"
+                  },
+                  "name": "qt - How to insert ListElement in a QML ListModel using C++? - Stack Overflow",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/9118699/how-to-insert-listelement-in-a-qml-listmodel-using-c"
+               }, {
+                  "date_added": "13162326202482792",
+                  "id": "114",
+                  "meta_info": {
+                     "last_visited_desktop": "13162683628122881"
+                  },
+                  "name": "[Xenomai] Raspberry Pi Xenomai Linux + Minimal Raspian Net Install Guide",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://xenomai.org/pipermail/xenomai/2014-March/030413.html"
+               } ],
+               "date_added": "13176319997063885",
+               "date_modified": "13176840439764374",
+               "id": "50",
+               "name": "QT",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13160189914237728",
+                  "id": "100",
+                  "meta_info": {
+                     "last_visited_desktop": "13153060716963686"
+                  },
+                  "name": "(27) Using Sphinx to Document Python Code - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=LQ6pFgQXQ0Q&t=553"
+               }, {
+                  "date_added": "13160189914237991",
+                  "id": "101",
+                  "meta_info": {
+                     "last_visited_desktop": "13152987013365089"
+                  },
+                  "name": "(26) How to create documentation with sphinx - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ouHVkMo3gwE"
+               }, {
+                  "date_added": "13160189914238128",
+                  "id": "102",
+                  "name": "rtfd/sphinx_rtd_theme: Sphinx theme for readthedocs.org",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/rtfd/sphinx_rtd_theme"
+               }, {
+                  "date_added": "13160189914238231",
+                  "id": "103",
+                  "meta_info": {
+                     "last_visited_desktop": "13153326750420471"
+                  },
+                  "name": "(30) How to Host your Webpage on GitHub in less than 5 minutes - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=rRGrT0wsJxI"
+               }, {
+                  "date_added": "13160189914238339",
+                  "id": "104",
+                  "meta_info": {
+                     "last_visited": "13153596231454886",
+                     "last_visited_desktop": "13154108656428338"
+                  },
+                  "name": "Publishing sphinx-generated docs on github — sphinxdoc-test v0.1 documentation",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://daler.github.io/sphinxdoc-test/includeme.html#set-up-main-repository"
+               }, {
+                  "date_added": "13160189914238459",
+                  "id": "105",
+                  "meta_info": {
+                     "last_visited_desktop": "13178904513508771"
+                  },
+                  "name": "reStructuredText - Wikipedia",
+                  "sync_transaction_version": "31",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/ReStructuredText"
+               } ],
+               "date_added": "13176319997063891",
+               "date_modified": "13176319997063891",
+               "id": "51",
+               "name": "SPHINX",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13168095810913008",
+                  "id": "95",
+                  "meta_info": {
+                     "last_visited_desktop": "13175302066028306"
+                  },
+                  "name": "Race Up",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/raceup"
+               }, {
+                  "date_added": "13168096164152107",
+                  "id": "96",
+                  "meta_info": {
+                     "last_visited_desktop": "13168097122141107"
+                  },
+                  "name": "UniBo Motorsport",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/UniBoMotorsport"
+               }, {
+                  "date_added": "13168096304617491",
+                  "id": "97",
+                  "meta_info": {
+                     "last_visited_desktop": "13168100758846676"
+                  },
+                  "name": "Polimarche Racing Team",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/PolimarcheRacingTeam"
+               }, {
+                  "date_added": "13168096469934992",
+                  "id": "98",
+                  "meta_info": {
+                     "last_visited_desktop": "13168100640779921"
+                  },
+                  "name": "Poliba Corse",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/polibacorse"
+               }, {
+                  "date_added": "13168097011350522",
+                  "id": "99",
+                  "meta_info": {
+                     "last_visited_desktop": "13175302522341871"
+                  },
+                  "name": "Fast Charge",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/FastChargeSAE"
+               } ],
+               "date_added": "13176319997063896",
+               "date_modified": "13176319997063896",
+               "id": "52",
+               "name": "gitTeam",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13171642290350760",
+                  "id": "90",
+                  "meta_info": {
+                     "last_visited_desktop": "13171642760665646"
+                  },
+                  "name": "Qt Creator to cross compile - Embedded Linux",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://developer.toradex.com/knowledge-base/how-to-set-up-qt-creator-to-cross-compile-for-embedded-linux"
+               }, {
+                  "date_added": "13171642296122078",
+                  "id": "91",
+                  "meta_info": {
+                     "last_visited_desktop": "13171642296122682"
+                  },
+                  "name": "Tutorial: Deploying Your First Project with Boot to Qt | Qt 5.11.0 for Device Creation",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://doc.qt.io/QtForDeviceCreation/b2qt-tutorial-deploying.html"
+               }, {
+                  "date_added": "13171642396404017",
+                  "id": "92",
+                  "meta_info": {
+                     "last_visited_desktop": "13171642396404579"
+                  },
+                  "name": "LM006 LM TECHNOLOGIES - Adattatore Wi-Fi 150Mbps micro USB, Facile Plug & Play USB 2.0 per Reti Wireless, Farnell IT",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://it.farnell.com/lm-technologies/lm006/adattat-wifi-usb-nano-150mbps/dp/1790361"
+               }, {
+                  "date_added": "13172253677387110",
+                  "id": "93",
+                  "meta_info": {
+                     "last_visited_desktop": "13172253677387688"
+                  },
+                  "name": "billw2/rpi-clone: A shell script to clone a booted disk.",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/billw2/rpi-clone"
+               }, {
+                  "date_added": "13172254304148873",
+                  "id": "94",
+                  "meta_info": {
+                     "last_visited_desktop": "13172254304149270"
+                  },
+                  "name": "Backing up and Restoring your Raspberry Pi's SD Card – The Pi Hut",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://thepihut.com/blogs/raspberry-pi-tutorials/17789160-backing-up-and-restoring-your-raspberry-pis-sd-card"
+               } ],
+               "date_added": "13176319997063902",
+               "date_modified": "13176319997063902",
+               "id": "53",
+               "name": "VOLANTE-TORADEX",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13129779615921173",
+                  "id": "67",
+                  "meta_info": {
+                     "last_visited_desktop": "13171413337015807"
+                  },
+                  "name": "3.2inch RPi LCD (B) - Waveshare Wiki",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.waveshare.com/wiki/3.2inch_RPi_LCD_(B)#Image"
+               }, {
+                  "date_added": "13130813868813347",
+                  "id": "68",
+                  "name": "Setting up a PS3 controller · RetroPie/RetroPie-Setup Wiki · GitHub",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/retropie/retropie-setup/wiki/Setting-up-a-PS3-controller"
+               }, {
+                  "date_added": "13130813886883318",
+                  "id": "69",
+                  "name": "First Installation · RetroPie/RetroPie-Setup Wiki · GitHub",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/retropie/retropie-setup/wiki/First-Installation"
+               }, {
+                  "date_added": "13137208803536744",
+                  "id": "70",
+                  "meta_info": {
+                     "last_visited_desktop": "13152905284346293"
+                  },
+                  "name": "Connecting to Pi from Laptop's Ethernet Port",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://carbonstone.blogspot.it/2014/02/connecting-to-pi-from-laptops-ethernet.html"
+               }, {
+                  "date_added": "13137209224183435",
+                  "id": "71",
+                  "name": "Pimoroni Four Letter pHAT for Raspberry Pi Zero ID: 3475 - $10.50 : Adafruit Industries, Unique & fun DIY electronics and kits",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.adafruit.com/product/3475"
+               }, {
+                  "date_added": "13137209523349965",
+                  "id": "72",
+                  "name": "31. Arduino Timer Display 4 cifre - PROGETTI ARDUINO",
+                  "sync_transaction_version": "206",
+                  "type": "url",
+                  "url": "http://www.progettiarduino.com/31-arduino-timer-display-4-cifre.html"
+               }, {
+                  "date_added": "13137214108159424",
+                  "id": "73",
+                  "name": "Arduino simple countdown timer with 7 segment displaycountdown timer with setup buttons - Ardumotive Arduino Greek Playground",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.ardumotive.com/countdown-timer-en.html"
+               }, {
+                  "date_added": "13137214579815249",
+                  "id": "74",
+                  "name": "Adafruit 0.56 4-Digit 7-Segment Display w/I2C Backpack - Yellow ID: 879 - $9.95 : Adafruit Industries, Unique & fun DIY electronics and kits",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.adafruit.com/product/879"
+               }, {
+                  "date_added": "13137698474665749",
+                  "id": "75",
+                  "name": "Raspberry Pi • View topic - Arduino Screen shield",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.raspberrypi.org/forums/viewtopic.php?f=32&t=128109"
+               }, {
+                  "date_added": "13137701083175339",
+                  "id": "76",
+                  "name": "LCD KeyPad Shield For Arduino SKU: DFR0009 - Robot Wiki",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.dfrobot.com/wiki/index.php/LCD_KeyPad_Shield_For_Arduino_SKU:_DFR0009"
+               }, {
+                  "date_added": "13137703343054034",
+                  "id": "77",
+                  "name": "How to drive a 7 segment display directly on Raspberry Pi in Python – RasPi.TV",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://raspi.tv/2015/how-to-drive-a-7-segment-display-directly-on-raspberry-pi-in-python"
+               }, {
+                  "date_added": "13137703776980578",
+                  "id": "78",
+                  "name": "7 segment display Python Raspberry Pi – countdown ticker – RasPi.TV",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://raspi.tv/2015/7-segment-display-python-raspberry-pi-countdown-ticker"
+               }, {
+                  "date_added": "13137944918248164",
+                  "id": "79",
+                  "name": "Connect a 7 segment LED to a Raspberry Pi 2 with Windows 10 - Hackster.io",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.hackster.io/leonardomachado/windows-10-iot-raspberry-pi-21-0e0ce3"
+               }, {
+                  "date_added": "13138379421684324",
+                  "id": "80",
+                  "meta_info": {
+                     "last_visited_desktop": "13152901371662540"
+                  },
+                  "name": "Raspberry Pi • View topic - SSH Direct connection between Pi and Putty ie no router.",
+                  "sync_transaction_version": "13",
+                  "type": "url",
+                  "url": "https://www.raspberrypi.org/forums/viewtopic.php?f=26&t=18927"
+               }, {
+                  "date_added": "13138411392966260",
+                  "id": "81",
+                  "meta_info": {
+                     "last_visited_desktop": "13152901429838310"
+                  },
+                  "name": "ssh - Hook up Raspberry Pi via ethernet to laptop without router? - Stack Overflow",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/16040128/hook-up-raspberry-pi-via-ethernet-to-laptop-without-router"
+               }, {
+                  "date_added": "13138559011218308",
+                  "id": "82",
+                  "meta_info": {
+                     "last_visited_desktop": "13176949942992122"
+                  },
+                  "name": "Raspberry Pi | Wiring | Download & Install | Wiring Pi",
+                  "sync_transaction_version": "21",
+                  "type": "url",
+                  "url": "http://wiringpi.com/download-and-install/"
+               }, {
+                  "date_added": "13138932821888343",
+                  "id": "83",
+                  "name": "Shift Register: 74x595 | Wiring Pi",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://wiringpi.com/extensions/shift-register-74x595/"
+               }, {
+                  "date_added": "13140783084524688",
+                  "id": "84",
+                  "name": "Direct Raspberry Pi to computer Ethernet control - huffHacks",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://huffhacks.com/direct-raspberry-pi-control"
+               }, {
+                  "date_added": "13140961830308318",
+                  "id": "85",
+                  "name": "How to safely shutdown or reboot your raspberry pi – RasPi.TV",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://raspi.tv/2012/how-to-safely-shutdown-or-reboot-your-raspberry-pi"
+               }, {
+                  "date_added": "13152387134075980",
+                  "id": "86",
+                  "meta_info": {
+                     "last_visited_desktop": "13152387134076288"
+                  },
+                  "name": "(17) mintyPi Build Guide - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ux9lXBexw0o"
+               }, {
+                  "date_added": "13162405351907488",
+                  "id": "87",
+                  "meta_info": {
+                     "last_visited_desktop": "13162667903110698"
+                  },
+                  "name": "GPIO interrupts – Raspberry Pi Projects",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.raspberry-projects.com/pi/programming-in-c/io-pins/gpio-interrupts"
+               }, {
+                  "date_added": "13162568955827156",
+                  "id": "88",
+                  "meta_info": {
+                     "last_visited_desktop": "13175534270386234"
+                  },
+                  "name": "Setting up a Raspberry Pi as an access point in a standalone network - Raspberry Pi Documentation",
+                  "sync_transaction_version": "13",
+                  "type": "url",
+                  "url": "https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md"
+               }, {
+                  "date_added": "13162494300650617",
+                  "id": "89",
+                  "meta_info": {
+                     "last_visited_desktop": "13165513605703009"
+                  },
+                  "name": "Raspberry Pi image for the Pi zero,1,2,3 with Xenomai 3.0.5 on Raspbian linux 4.1.y Debian 8 jessie",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.cs.kun.nl/lab/xenomai/raspberrypi.html"
+               } ],
+               "date_added": "13176319997063908",
+               "date_modified": "13178901537810410",
+               "id": "54",
+               "name": "RPI",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13170877909141285",
+               "id": "55",
+               "meta_info": {
+                  "last_visited_desktop": "13175641001395249"
+               },
+               "name": "Date QML Type | Qt QML 5.10",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://doc.qt.io/qt-5/qml-qtqml-date.html"
+            }, {
+               "date_added": "13160189914238568",
+               "id": "56",
+               "meta_info": {
+                  "last_visited_desktop": "13176295074562635"
+               },
+               "name": "giacomoalbe/EagleSensors",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/giacomoalbe/EagleSensors"
+            }, {
+               "date_added": "13162405175961393",
+               "id": "57",
+               "meta_info": {
+                  "last_visited_desktop": "13165513599969055"
+               },
+               "name": "[Xenomai] Porting Xenomai 3 cobalt to Raspberry Pi 3",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.xenomai.org/pipermail/xenomai/2017-July/037515.html"
+            }, {
+               "date_added": "13162405396033328",
+               "id": "58",
+               "meta_info": {
+                  "last_visited_desktop": "13162405396033536"
+               },
+               "name": "Tutorial: Interrupt-Driven Event-Counter on the Raspberry Pi - dftwiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.science.smith.edu/dftwiki/index.php/Tutorial:_Interrupt-Driven_Event-Counter_on_the_Raspberry_Pi"
+            }, {
+               "date_added": "13162493014172759",
+               "id": "59",
+               "meta_info": {
+                  "last_visited_desktop": "13163002831446243"
+               },
+               "name": "harcokuppens/xenomai3_rpi_gpio: handling gpio input,read and interrupts on the raspberry pi 1/zero, 2, 3",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/harcokuppens/xenomai3_rpi_gpio"
+            }, {
+               "date_added": "13162493862449479",
+               "id": "60",
+               "meta_info": {
+                  "last_visited_desktop": "13175297730135174"
+               },
+               "name": "eagle-webplatform/UtilizzoPiattaforma.rst at master · eagletrt/eagle-webplatform",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/eagletrt/eagle-webplatform/blob/master/app/documentation/UtilizzoPiattaforma.rst"
+            }, {
+               "date_added": "13162939535090107",
+               "id": "61",
+               "meta_info": {
+                  "last_visited_desktop": "13162939535090791"
+               },
+               "name": "ssh rsa",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.howtogeek.com/66776/how-to-remotely-copy-files-over-ssh-without-entering-your-password/"
+            }, {
+               "date_added": "13163702177755202",
+               "id": "62",
+               "meta_info": {
+                  "last_visited_desktop": "13176476385729115"
+               },
+               "name": "formula 1 user interfaces",
+               "sync_transaction_version": "71",
+               "type": "url",
+               "url": "http://www.oobject.com/category/formula-1-user-interfaces/"
+            }, {
+               "date_added": "13163702740330456",
+               "id": "63",
+               "meta_info": {
+                  "last_visited_desktop": "13163782266362217"
+               },
+               "name": "Steering wheel",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.formula1.com/en/championship/inside-f1/understanding-f1-racing/Steering_wheel.html"
+            }, {
+               "date_added": "13163703047907305",
+               "id": "64",
+               "meta_info": {
+                  "last_visited_desktop": "13163703047907843"
+               },
+               "name": "Building an F1 style steering wheel for simulator use - F1technical.net",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.f1technical.net/forum/viewtopic.php?t=19394"
+            }, {
+               "date_added": "13163703180691221",
+               "id": "65",
+               "meta_info": {
+                  "last_visited_desktop": "13163703208140407"
+               },
+               "name": "Arm Community",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://community.arm.com/iot/embedded/b/embedded-blog/posts/creating-the-future-driving-experience-demo"
+            }, {
+               "date_added": "13165335669327449",
+               "id": "66",
+               "meta_info": {
+                  "last_visited": "13165923780230231",
+                  "last_visited_desktop": "13182037085826996"
+               },
+               "name": "Google Drive",
+               "sync_transaction_version": "238",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/1/folders/1pcMtXIT1C7BuHLpwhYHRXFW2igd2SGu5"
+            } ],
+            "date_added": "13176319997059540",
+            "date_modified": "13176319997059540",
+            "id": "16",
+            "name": "FSAE",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13152904796526993",
+                  "id": "36",
+                  "meta_info": {
+                     "last_visited_desktop": "13161286343513682"
+                  },
+                  "name": "Bootstrap Templates",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/bootstrap/bootstrap_templates.asp"
+               }, {
+                  "date_added": "13150825837510801",
+                  "id": "37",
+                  "meta_info": {
+                     "last_visited": "13158959612007069",
+                     "last_visited_desktop": "13181171904927243"
+                  },
+                  "name": "git",
+                  "sync_transaction_version": "128",
+                  "type": "url",
+                  "url": "https://github.com/Beppolt/Guappo"
+               }, {
+                  "date_added": "13150858105857838",
+                  "id": "38",
+                  "meta_info": {
+                     "last_visited_desktop": "13152025910711320"
+                  },
+                  "name": "Privacy & Cookie Policy Generator - for Websites and Apps | iubenda",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.iubenda.com/en?ims=pkagh&utm_campaign=Google+Searc+ENh&utm_source=adwords&utm_medium=ppc&utm_content=keyword+campaign&utm_term=privacy%20policy&creative=67267702285&gclid=CjwKCAjw0qLOBRBUEiwAMG5xMCjR-0r-qP1bAnXZNcooyG89lZcglfMbwMhfd56yUWXSAgAB810vlBoCRnUQAvD_BwE"
+               }, {
+                  "date_added": "13150858284618150",
+                  "id": "39",
+                  "meta_info": {
+                     "last_visited_desktop": "13152904739064967"
+                  },
+                  "name": "Striped | HTML5 UP",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://html5up.net/striped"
+               }, {
+                  "date_added": "13151458132108135",
+                  "id": "40",
+                  "meta_info": {
+                     "last_visited_desktop": "13152025927932716"
+                  },
+                  "name": "Installing and using Git and GitHub on Ubuntu: A beginner's guide",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu-14.04/"
+               }, {
+                  "date_added": "13151581797538075",
+                  "id": "41",
+                  "meta_info": {
+                     "last_visited_desktop": "13153071383210268"
+                  },
+                  "name": "www.lffl.org",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.lffl.org/2014/03/oracle-java-8-rilasciato-le-novita-e.html"
+               }, {
+                  "date_added": "13151584839238142",
+                  "id": "42",
+                  "meta_info": {
+                     "last_visited_desktop": "13151584839238416"
+                  },
+                  "name": "Grid by Example - Usage examples of CSS Grid Layout",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://gridbyexample.com/examples/"
+               }, {
+                  "date_added": "13151584848757801",
+                  "id": "43",
+                  "meta_info": {
+                     "last_visited_desktop": "13151584848758022"
+                  },
+                  "name": "Bootstrap List Grid View",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://codepen.io/ajaypatelaj/pen/zIBjJ"
+               }, {
+                  "date_added": "13152205433669441",
+                  "id": "44",
+                  "meta_info": {
+                     "last_visited_desktop": "13152894630932953"
+                  },
+                  "name": "Prototyping tool for web and mobile apps - Justinmind",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.justinmind.com/"
+               }, {
+                  "date_added": "13152736246110167",
+                  "id": "45",
+                  "meta_info": {
+                     "last_visited_desktop": "13154623741583705"
+                  },
+                  "name": "Projects - InVision",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://projects.invisionapp.com/d/main#/projects"
+               }, {
+                  "date_added": "13152904743074033",
+                  "id": "46",
+                  "meta_info": {
+                     "last_visited_desktop": "13153070597357868"
+                  },
+                  "name": "AZMIND - WordPress Themes, Bootstrap Templates & Web Design Resources",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://azmind.com/"
+               }, {
+                  "date_added": "13155398385526928",
+                  "id": "47",
+                  "meta_info": {
+                     "last_visited_desktop": "13159128188121967"
+                  },
+                  "name": "(69) #6 - Creare un template da 0 a 100 con Materialize - Maps + Collections - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=zujghXhJ0mY"
+               }, {
+                  "date_added": "13155398508426048",
+                  "id": "48",
+                  "meta_info": {
+                     "last_visited_desktop": "13155398508426238"
+                  },
+                  "name": "25+ Best Free Material Design Admin Templates » CSS Author",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://cssauthor.com/material-design-admin-templates/"
+               } ],
+               "date_added": "13176319997062433",
+               "date_modified": "13176319997062433",
+               "id": "30",
+               "name": "WEB",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13160785149633953",
+                  "id": "34",
+                  "meta_info": {
+                     "last_visited_desktop": "13162759648006846"
+                  },
+                  "name": "Ingegneria e informatica non sono facoltà per femmine - Info Data",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.infodata.ilsole24ore.com/2016/07/22/ingegneria-e-informatica-non-sono-facolta-per-femmine/?refresh_ce=1"
+               }, {
+                  "date_added": "13160785509429483",
+                  "id": "35",
+                  "meta_info": {
+                     "last_visited_desktop": "13162759659520537"
+                  },
+                  "name": "Una donna informatica ogni 7 uominiObiettivo parità in Italia entro il 2015 | La ventisettesima ora",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://27esimaora.corriere.it/articolo/una-donna-informatica-ogni-7-uominiobiettivo-parita-in-italia-entro-il-2015/?refresh_ce-cp"
+               } ],
+               "date_added": "13176319997062441",
+               "date_modified": "13176319997062441",
+               "id": "31",
+               "name": "HCI",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13160071750909545",
+               "id": "32",
+               "meta_info": {
+                  "last_visited_desktop": "13181170015603065"
+               },
+               "name": "Guida visuale a Git",
+               "sync_transaction_version": "121",
+               "type": "url",
+               "url": "https://marklodato.github.io/visual-git-guide/index-it.html"
+            }, {
+               "date_added": "13155822016951272",
+               "id": "33",
+               "meta_info": {
+                  "last_visited_desktop": "13181170082558065"
+               },
+               "name": "git - la guida tascabile - niente di complicato!",
+               "sync_transaction_version": "122",
+               "type": "url",
+               "url": "http://rogerdudler.github.io/git-guide/index.it.html"
+            } ],
+            "date_added": "13176319997059819",
+            "date_modified": "13176319997059819",
+            "id": "17",
+            "name": "PROJ",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13167522893550595",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13167776069424987"
+               },
+               "name": "Trackpad | eBay",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.ebay.it/itm/NEW-THINKPAD-T460-T540P-T460P-T450-Touchpad-Trackpad-With-Three-3-Buttons-Key/252151102914?_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D20170831090034%26meid%3Df2e30b4163b2439ab51b019a0e89bdc6%26pid%3D100005%26rk%3D3%26rkt%3D6%26mehot%3Dag%26sd%3D302425278292%26itm%3D252151102914&_trksid=p2047675.c100005.m1851"
+            }, {
+               "date_added": "13167523351188433",
+               "id": "25",
+               "meta_info": {
+                  "last_visited_desktop": "13173725368680971"
+               },
+               "name": "Lenovo Backlit Keyboard for ThinkPad T431s/T440/T440s/T440p/T450/T450s/T460 - UK | eBay",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.ebay.it/itm/Lenovo-Backlit-Keyboard-for-ThinkPad-T431s-T440-T440s-T440p-T450-T450s-T460-UK/302616386181?hash=item4675579a85:g:Xx8AAOSwM79aqOMW"
+            }, {
+               "date_added": "13167524343699246",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13177353002973169"
+               },
+               "name": "THINKPAD Tastiera IT ITA Italiano T440 T431s T440p T450 T450S T460 04Y0841 | eBay",
+               "sync_transaction_version": "28",
+               "type": "url",
+               "url": "https://www.ebay.it/itm/THINKPAD-Tastiera-IT-ITA-Italiano-T440-T431s-T440p-T450-T450S-T460-04Y0841/263540422420?hash=item3d5c3bb714:g:W7MAAOSwT6pVujc1"
+            }, {
+               "date_added": "13167675606589846",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13173725459309469"
+               },
+               "name": "Original US Tastiera Retroilluminata Per ThinkPad L440 L450 L460 T440 T440P T431S T440S T450 T450S T460 04X0101 04X0139 00HW837 01AX310 in Original US Tastiera Retroilluminata Per ThinkPad L440 L450 L460 T440 T440P T431S T440S T450 T450S T460 04X0101 04X0",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://it.aliexpress.com/item/New-Original-For-Lenovo-ThinkPad-T440-T440P-T440S-T431S-E431-E440-T450-T450S-L450-US-Backlit/32779538402.html?spm=a2g0y.search0104.3.22.315d1918GIXIu9&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10068_10342_10343_10340_5722611_10341_10697_10696_5722911_5722811_10084_5722711_10083_10618_10304_10307_10302_10059_10184_10534_308_100031_10103_441_10624_10623_10622_10621_10620_5723011_5722511,searchweb201603_25,ppcSwitch_5&algo_expid=f0bf3cbf-60ff-4c3c-b912-1f222975508b-3&algo_pvid=f0bf3cbf-60ff-4c3c-b912-1f222975508b&priceBeautifyAB=0"
+            }, {
+               "date_added": "13167675753140147",
+               "id": "28",
+               "meta_info": {
+                  "last_visited_desktop": "13173725537728702"
+               },
+               "name": "100% di Prova NUOVO Per Lenovo ThinkPad T440P T440 T440S T450 T540P 3 Tasti del Touchpad Trackpad in 100% di Prova NUOVO Per Lenovo ThinkPad T440P T440 T440S T450 T540P 3 Tasti del Touchpad Trackpadda Tastiere di ricambio su AliExpress.com | Gruppo Alibab",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://it.aliexpress.com/item/100-Test-NEW-For-Lenovo-ThinkPad-T440-T440P-T440S-T450-T540P-3-Button-Touchpad-Trackpad/32810715210.html?spm=a2g0y.search0104.3.1.933a7ee8C8tKfn&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10068_10342_10343_10340_5722611_10341_10697_10696_5722911_5722811_10084_5722711_10083_10618_10304_10307_10302_10059_10184_10534_308_100031_10103_441_10624_10623_10622_10621_10620_5723011_5722511,searchweb201603_25,ppcSwitch_5&algo_expid=cfe780f2-1d2e-4667-b496-cd060cf364bc-0&algo_pvid=cfe780f2-1d2e-4667-b496-cd060cf364bc&priceBeautifyAB=0"
+            }, {
+               "date_added": "13173727056417860",
+               "id": "29",
+               "meta_info": {
+                  "last_visited_desktop": "13173727056418357"
+               },
+               "name": "Lenovo ThinkPad Ultra Dock 40A2 00HM917 T440 T440s T450s T540T550 ohne Schlüssel | eBay",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.ebay.it/itm/Lenovo-ThinkPad-Ultra-Dock-40A2-00HM917-T440-T440s-T450s-T540T550-ohne-Schlussel/112781509740?hash=item1a424d446c:g:YUIAAOSwfjRaJlRy"
+            } ],
+            "date_added": "13176319997060067",
+            "date_modified": "13178751077477699",
+            "id": "18",
+            "name": "ThinkPad Ricambi",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13173631089964508",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13181230719686553"
+            },
+            "name": "Backup RPi",
+            "sync_transaction_version": "131",
+            "type": "url",
+            "url": "https://raspberrypi.stackexchange.com/questions/311/how-do-i-backup-my-raspberry-pi"
+         }, {
+            "date_added": "13176300142795848",
+            "id": "21",
+            "meta_info": {
+               "last_visited": "13176300142800110",
+               "last_visited_desktop": "13182015832597003"
+            },
+            "name": "TUTORIAL: Qt Crosscompile (Qt5.10.1) - Raspberry Pi Forums",
+            "sync_transaction_version": "229",
+            "type": "url",
+            "url": "https://www.raspberrypi.org/forums/viewtopic.php?t=204778"
+         }, {
+            "date_added": "13176300246295502",
+            "id": "22",
+            "meta_info": {
+               "last_visited_desktop": "13182020750690600"
+            },
+            "name": "RaspberryPi2EGLFS - Qt Wiki",
+            "sync_transaction_version": "233",
+            "type": "url",
+            "url": "https://wiki.qt.io/RaspberryPi2EGLFS"
+         }, {
+            "date_added": "13176303548248137",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13176915625518731"
+            },
+            "name": "Configuring Qt Creator for the Raspberry Pi",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "https://www.ics.com/blog/configuring-qt-creator-raspberry-pi"
+         }, {
+            "date_added": "13176768713659097",
+            "id": "201",
+            "meta_info": {
+               "last_visited_desktop": "13176922162196146"
+            },
+            "name": "Building Qt 5.10 for Raspberry Pi on Debian Stretch | TalOrg",
+            "sync_transaction_version": "22",
+            "type": "url",
+            "url": "http://www.tal.org/tutorials/building-qt-510-raspberry-pi-debian-stretch"
+         }, {
+            "date_added": "13177181558934087",
+            "id": "203",
+            "meta_info": {
+               "last_visited_desktop": "13177258285482692"
+            },
+            "name": "QPA_EGLFS_PHYSICAL",
+            "sync_transaction_version": "28",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/18518280/raspberry-pi-qt5-set-physical-screen-size"
+         }, {
+            "date_added": "13178901537810410",
+            "id": "205",
+            "meta_info": {
+               "last_visited_desktop": "13178901537810756"
+            },
+            "name": "reStructuredText Primer — Sphinx 1.7.6 documentation",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://www.sphinx-doc.org/en/stable/rest.html#rst-primer"
+         }, {
+            "date_added": "13179512260422567",
+            "id": "207",
+            "meta_info": {
+               "last_visited_desktop": "13179689956778339"
+            },
+            "name": "flooding",
+            "sync_transaction_version": "43",
+            "type": "url",
+            "url": "http://disi.unitn.it/locigno/teaching-duties/reti/aa16-17/2017-05-31_DryRun.pdf"
+         }, {
+            "date_added": "13180629816076361",
+            "id": "209",
+            "meta_info": {
+               "last_visited_desktop": "13180629816076632"
+            },
+            "name": "GitHub - help-14/mechanical-keyboard: Open source mechanical keyboard and where to find them",
+            "sync_transaction_version": "52",
+            "type": "url",
+            "url": "https://github.com/help-14/mechanical-keyboard"
+         }, {
+            "date_added": "13180630948106546",
+            "id": "210",
+            "meta_info": {
+               "last_visited_desktop": "13180630948107118"
+            },
+            "name": "Digital Training",
+            "sync_transaction_version": "57",
+            "type": "url",
+            "url": "https://learndigital.withgoogle.com/digitaltraining/topic-library"
+         }, {
+            "date_added": "13181329743938065",
+            "id": "229",
+            "meta_info": {
+               "last_visited_desktop": "13181329743938448"
+            },
+            "name": "Docker Compose | Docker Documentation",
+            "sync_transaction_version": "194",
+            "type": "url",
+            "url": "https://docs.docker.com/compose/"
+         }, {
+            "date_added": "13181912437068191",
+            "id": "235",
+            "meta_info": {
+               "last_visited_desktop": "13181912437068686"
+            },
+            "name": "deadc0de6/dotdrop: Save your dotfiles once, deploy them everywhere",
+            "sync_transaction_version": "221",
+            "type": "url",
+            "url": "https://github.com/deadc0de6/dotdrop"
+         } ],
+         "date_added": "13176319953425192",
+         "date_modified": "13181912440406948",
+         "id": "1",
+         "name": "Barra dei Preferiti",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13176319953425196",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Altri Preferiti",
+         "type": "folder"
+      },
+      "sync_transaction_version": "242",
+      "synced": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13087551406658373",
+               "id": "8",
+               "name": "DIDATTICA/prog1_2016",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://disi.unitn.it/~rseba/DIDATTICA/prog1_2016/"
+            }, {
+               "date_added": "13088526533880067",
+               "id": "9",
+               "meta_info": {
+                  "last_visited": "13174561602883194",
+                  "last_visited_desktop": "13174667625448430"
+               },
+               "name": "CLA TEST PIAZZAMENTO",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://cialsrv.unitn.it/cialweb/web-site/ShWebLogin.jsp"
+            } ],
+            "date_added": "13176319997057290",
+            "date_modified": "13176319997057291",
+            "id": "5",
+            "name": "INFO",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13102783194544857",
+            "id": "6",
+            "name": "Manutenzione MTB | MTB80 Blog: tutto sulla Mountain Bike e l'Enduro",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://mtb80.blogspot.it/p/manutenzione-mtb.html?m=0"
+         }, {
+            "date_added": "13113419979240119",
+            "id": "7",
+            "name": "Unbundling Pokémon Go — Applidium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://applidium.com/en/news/unbundling_pokemon_go/"
+         } ],
+         "date_added": "13176319953425198",
+         "date_modified": "13113419979240119",
+         "id": "3",
+         "name": "Preferiti su disp. mobili",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

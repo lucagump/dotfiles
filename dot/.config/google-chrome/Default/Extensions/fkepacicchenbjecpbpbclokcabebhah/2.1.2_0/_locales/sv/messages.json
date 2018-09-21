@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Hämta"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Hämta iCloud för Windows för att använda iCloud-bokmärken."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Håll Chrome-bokmärkena i Windows uppdaterade med Safari-bokmärkena på din iPhone, iPad och Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud-bokmärken"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Det här tillägget kräver att Chrome körs från datorn. Klicka på Chrome-menyn och välj ”Starta om Chrome på datorn”."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Öppna iCloud för Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Logga in på iCloud om du vill använda iCloud-bokmärken."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Dina Chrome-bokmärken har synkroniserats med iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Tillägget du försöker installera är utformat för användning med Windows 7 eller 8. Om du använder en Mac blir dina Safari-bokmärken automatiskt uppdaterade på din iPhone, iPad och Mac när du loggar in på iCloud med alla dina enheter."
+   }
+}

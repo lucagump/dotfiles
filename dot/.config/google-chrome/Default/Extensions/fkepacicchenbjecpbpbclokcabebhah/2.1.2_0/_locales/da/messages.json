@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Hent"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Download iCloud til Windows for at bruge iCloud-bogmærker."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Hold dine Chrome-bogmærker på Windows ajour med Safari-bogmærkerne på din iPhone, iPad og Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud-bogmærker"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Denne udvidelse kræver, at Chrome udføres i skrivebordstilstand. Klik på Chrome-menuen, og vælg “Genstart Chrome på skrivebordet”."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Åbn iCloud til Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Log ind i iCloud for at bruge iCloud-bogmærker."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Dine Chrome-bogmærker synkroniseres med iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Den udvidelse, du prøver at installere, er designet til Windows 7 eller 8. Hvis du bruger en Mac, synkroniseres Safari-bogmærkerne automatisk med din iPhone, iPad og Mac, når du logger ind i iCloud på alle dine enheder."
+   }
+}

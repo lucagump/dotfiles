@@ -1,0 +1,39 @@
+{
+   "app": {
+      "background": {
+         "persistent": false,
+         "scripts": [ "js/eventPage.js" ]
+      }
+   },
+   "author": "Betaflight Squad",
+   "default_locale": "en",
+   "description": "Crossplatform configuration tool for Betaflight flight control system",
+   "icons": {
+      "128": "images/bf_icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgmIvJr5AP6s+sjlyDEzl2t2yv6c8PKWPKX3wkQkDRsy4uryEhv84iTXL9fVRXvcszPbd4XTojIw6Qjpn7rmbAu+XVmBFaUQffN5GT2N1NCFlOU6SWN14WsvSbxDMhW3nbYTXuBulXjlgJ5LpbFRdxDo2t7VvASlTQUvAEMDE0rMtOhWc7PnmOYJVtIT8Th7E24d5GJbVspQDlgqAc2F2umVwPQiiJfzWvFSQK8kPlc/PtJ8fA++ml7Crr0gyzELxequ8O5elv830tecTJ7YZ0oSOT2wcKenC2yTO/6RbOTa6qbwBBUKKtAAN8K3VaxixcyAfY1xqGkEDBDyVLcjmFwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "38",
+   "name": "Betaflight - Configurator",
+   "offline_enabled": true,
+   "permissions": [ "https://maps.googleapis.com/*", "https://*.github.com/", "https://*.githubusercontent.com/", "http://*.baseflight.net/", "https://*.amazonaws.com/", "https://*.betaflight.tech/", "https://www.google-analytics.com/", "serial", "usb", "storage", "fileSystem", "fileSystem.write", "fileSystem.retainEntries", "notifications", "alwaysOnTopWindows", {
+      "usbDevices": [ {
+         "productId": 57105,
+         "vendorId": 1155
+      } ]
+   }, "webview", "unlimitedStorage" ],
+   "short_name": "Betaflight",
+   "sockets": {
+      "tcp": {
+         "connect": "*:*"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "10.4.1",
+   "webview": {
+      "partitions": [ {
+         "accessible_resources": [ "tabs/map.html", "js/tabs/map.js", "/images/icons/cf_icon_position.png" ],
+         "name": "map"
+      } ]
+   }
+}

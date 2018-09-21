@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Descarregar"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Transfira iCloud para Windows para utilizar os Marcadores de iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Mantenha os marcadores do Chrome no Windows actualizados com os marcadores do Safari no iPhone, iPad e Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Marcadores de iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Esta extensão requer a execução do Chrome em modo de ambiente de trabalho. Clique no menu do Chrome e seleccione \"Volte a abrir o Chrome no ambiente de trabalho\"."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Abrir iCloud para Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Inicie sessão em iCloud para utilizar os Marcadores de iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Os marcadores do Chrome estão sincronizados com iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "A extensão que está a tentar instalar foi concebida para execução no Windows 7 ou 8. Se estiver a usar um Mac, os marcadores do Safari serão automaticamente sincronizados com o seu iPhone, iPad e Mac ao iniciar sessão em iCloud nos dispositivos."
+   }
+}

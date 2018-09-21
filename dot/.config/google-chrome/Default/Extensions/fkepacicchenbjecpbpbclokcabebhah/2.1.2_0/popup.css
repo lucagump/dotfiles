@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin:     0;
+    padding:    0;
+}
+
+body {
+    position:              relative;
+    width:                 400px;
+    min-height:            60px;
+    padding:               6px 0 10px;
+    -webkit-padding-start: 70px;
+    -webkit-padding-end:   50px;
+
+    font:                  15px/22px "Segoe UI", SegoeUI, segoe ui, Tahoma, sans-serif;
+    background:            url(images/icloud-icon-128x128.png) 10px 10px no-repeat;
+    background-size:       44px 44px;
+}
+
+body.rtl {
+    direction:           rtl;
+    background-position: 97.5% 5px;
+}
+
+body.loading, .page { display: none; }
+
+.button {
+    display:          inline-block;
+    padding:          0 13px;
+    margin-top:       20px;
+
+    color:            #ffffff;
+    font-size:        13px;
+    font-weight:      600;
+    line-height:      25px;
+    text-decoration:  none;
+
+    background-color: #4988d6;
+    background-image: linear-gradient(to bottom, #5593da, #4988d6);
+    border:           1px solid #315aad;
+    border-radius:    3px;
+}
+
+.dismiss {
+    position:         absolute;
+    top:              0px;
+    right:            10px;
+
+    color:            #c4c4c4;
+    font-size:        25px
+    line-height:      25px;
+    text-decoration:  none;
+}
+
+.rtl .dismiss {
+    right: auto;
+    left:  10px;
+}

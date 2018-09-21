@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "下載"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "下載「Windows 版 iCloud」來使用「iCloud 書籤」。"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "讓 Windows 上的 Chrome 書籤與 iPhone、iPad 和 Mac 上的 Safari 書籤保持同步。"
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud 書籤"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "此延伸功能需要在桌面模式中執行 Chrome。按一下 Chrome 功能表並選擇「在桌面上重新啟動 Chrome」。"
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "確定"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "開啟「Windows 版 iCloud」"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "登入 iCloud 來使用「iCloud 書籤」。"
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "您的 Chrome 書籤已和 iCloud 同步。"
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "您嘗試安裝的延伸功能是設計於 Windows 7 或 Windows 8 上執行。若您是使用 Mac，當您在所有裝置上登入 iCloud 時，您的 Safari 書籤將會自動與 iPhone、iPad 和 Mac 同步。"
+   }
+}

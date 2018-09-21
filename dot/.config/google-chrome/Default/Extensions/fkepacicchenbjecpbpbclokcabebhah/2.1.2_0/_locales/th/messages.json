@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "ดาวน์โหลด"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "ดาวน์โหลด iCloud สำหรับ Windows เพื่อใช้ที่คั่นหน้า iCloud"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "ทำให้ที่คั่นหน้า Chrome ของคุณใน Windows อัปเดตอยู่เสมอเหมือนกับที่คั่นหน้า Safari ใน iPhone, iPad และ Mac ของคุณ"
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "ที่คั่นหน้า iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "ส่วนขยายนี้จะต้องใช้กับ Chrome ที่ทำงานอยู่ในโหมดเดสก์ท็อป คลิกเมนู Chrome และเลือก “เปิด Chrome ใหม่บนเดสก์ท็อป”"
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "ตกลง"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "เปิด iCloud สำหรับ Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "ลงชื่อเข้าใช้ iCloud เพื่อใช้ที่คั่นหน้า iCloud"
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "ที่คั่นหน้า Chrome ของคุณเชื่อมข้อมูลกับ iCloud แล้ว"
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "ส่วนขยายที่คุณกำลังพยายามติดตั้งได้รับการออกแบบมาเพื่อให้ใช้งานกับ Windows 7 หรือ 8 หากคุณกำลังใช้ Mac ที่คั่นหน้า Safari ของคุณจะเชื่อมข้อมูลโดยอัตโนมัติกับ iPhone, iPad และ Mac ของคุณเมื่อคุณลงชื่อเข้าใช้ไปยัง iCloud ในอุปกรณ์ทั้งหมดของคุณ"
+   }
+}

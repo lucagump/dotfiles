@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Pobierz"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Pobierz iCloud dla Windows, aby używać zakładek iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Aktualizuj zakładki w przeglądarce Chrome dla Windows z zakładkami w Safari na iPhonie, iPadzie oraz na Macu."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Zakładki iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "To rozszerzenie wymaga, aby przeglądarka Chrome działała w trybie Pulpitu. Kliknij menu Chrome, a następnie wybierz opcję Ponownie uruchom Chrome na pulpicie."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Otwórz iCloud dla Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Zaloguj się, aby używać Zakładek iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Twoje zakładki w przeglądarce Chrome są zsynchronizowane z iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Rozszerzenie, które chcesz zainstalować jest przeznaczone dla Windows 7 lub 8. Jeśli używasz Maca, zakładki w Safari będą automatycznie synchronizowane z iPhone'em, iPadem oraz Makiem, gdy zalogujesz się w iCloud na wszystkich swoich urządzeniach."
+   }
+}

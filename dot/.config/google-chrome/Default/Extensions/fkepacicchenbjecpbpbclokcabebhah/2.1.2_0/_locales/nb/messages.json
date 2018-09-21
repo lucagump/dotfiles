@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Last ned"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Last ned iCloud for Windows for å bruke iCloud-bokmerker."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Hold Chrome-bokmerkene dine på Windows oppdatert i forhold til Safari-bokmerkene på iPhone, iPad og Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud-bokmerker"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Dette programtillegget krever at Chrome kjører i skrivebordsmodus. Klikk på Chrome-menyen og velg Start Chrome på nytt på skrivebordet."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Åpne iCloud for Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Logg på iCloud for å bruke iCloud-bokmerker."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Chrome-bokmerkene dine er synkronisert med iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Programtillegget du prøver å installere, er laget for bruk på Windows 7 eller 8. Hvis du bruker en Mac, vil Safari-bokmerkene dine automatisk synkroniseres med iPhone, iPad og Mac når du logger på iCloud på enhetene dine."
+   }
+}

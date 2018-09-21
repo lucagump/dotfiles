@@ -1,0 +1,43 @@
+/* Spanish - Mexican (es_MX) */
+{
+  "downloadButton": {
+    "description": "Download button title",
+    "message": "Descargar"
+  },
+  "downloadMessage": {
+    "description": "Download iCloud app",
+    "message": "Descargue iCloud para Windows para usar “Marcadores de iCloud”."
+  },
+  "extDescription": {
+    "description": "Extension description",
+    "message": "Sincronice sus marcadores de Chrome en Windows con los de Safari en su iPhone, iPad y Mac."
+  },
+  "extName": {
+    "description": "iCloud Bookmarks",
+    "message": "Marcadores de iCloud"
+  },
+  "metroMessage": {
+    "description": "Message displayed when loaded in metro mode",
+    "message": "Esta extensión requiere que Chrome se ejecute en modo de escritorio. Haga clic en el menú de Chrome y seleccione “Reiniciar Chrome en el escritorio”."
+  },
+  "okButton": {
+    "description": "OK button title",
+    "message": "Aceptar"
+  },
+  "signinButton": {
+    "description": "Sign in button title",
+    "message": "Abrir iCloud para Windows"
+  },
+  "signinMessage": {
+    "description": "Sign in to iCloud app",
+    "message": "Inicie sesión en iCloud para utilizar “Marcadores de iCloud”."
+  },
+  "syncedMessage": {
+    "description": "Bookmarks are being synced",
+    "message": "Sus marcadores de Chrome se están sincronizados con iCloud."
+  },
+  "unsupportedOS": {
+    "description": "Unsupported OS",
+    "message": "La extensión que intenta instalar está diseñada para Windows 7 u 8. Si utiliza una Mac, los marcadores de Safari se sincronizarán automáticamente con su iPhone, iPad y Mac cuando inicie sesión en iCloud en todos sus dispositivos."
+  }
+}

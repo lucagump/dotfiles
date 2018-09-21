@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Scarica"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Per utilizzare i segnalibri di iCloud Bookmarks, scarica iCloud per Windows."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Mantieni aggiornati i preferiti di Chrome su Windows con quelli di Safari su iPhone, iPad e Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Preferiti iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "L'estensione richiede l'esecuzione di Chrome in modalità desktop. Fai clic sul menu di Chrome e seleziona “Riavvia Chrome sul desktop”."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Apri iCloud per Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Accedi a iCloud per utilizzare i segnalibri di iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "I segnalibri di Chrome sono sincronizzati con iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "L'estensione che stai tentando di installare è progettata per essere eseguita su Windows 7 o 8. Se utilizzi un computer Mac, i preferiti di Safari si sincronizzeranno automaticamente con iPhone, iPad e Mac quando accedi a iCloud su tutti i dispositivi."
+   }
+}

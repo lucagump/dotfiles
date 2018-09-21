@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "डाउनलोड करें"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "iCloud बुकमार्क उपयोग करने हेतु Windows के लिए iCloud डाउनलोड करें।"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "अपने iPhone, iPad और Mac पर Safari बुकमार्क से Windows पर अपने Chrome बुकमार्क को अद्यतित रखें।"
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud बुकमार्क"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "इस एक्सटेंशन के लिए आवश्यक है कि Chrome डेस्कटॉप मोड में चल रहा हो। Chrome मेनू पर क्लिक करें और \"डेस्कटॉप पर Chrome फिर से शुरू करें\" चुनें।"
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "ठीक है"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Windows के लिए iCloud खोलें"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "iCloud बुकमार्कों का उपयोग करने के लिए iCloud में साइन इन करें।"
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "आपकी क्रोम बुकमार्क iCloud के साथ सिंक हो गए हैं।"
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "जिस एक्सटेंशन को आप इंस्टॉल करने का प्रयास कर रहे हैं वह Windows 7 या 8 पर चलाने के लिए डिज़ाइन किया गया है। यदि आप Mac का उपयोग कर रहे हैं तो जब भी आप अपने सभी उपकरणों से iCloud में साइन इन करेंगे तो Safari बुकमार्क स्वचालित रूप से आपके iPhone, iPad और Mac से सिंक हो जाएगा।"
+   }
+}

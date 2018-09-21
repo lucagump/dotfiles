@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Laden"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Laden Sie iCloud für Windows, um iCloud-Lesezeichen zu verwenden."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Synchronisieren Sie Ihre Chrome-Lesezeichen unter Windows mit den Safari-Lesezeichen auf Ihrem iPhone, iPad und Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud-Lesezeichen"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Diese Erweiterung setzt voraus, dass Chrome im Desktop-Modus arbeitet. Klicken Sie auf das Menü „Chrome“ und wählen Sie „Chrome auf dem Desktop neu starten“."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "iCloud für Windows öffnen"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Melden Sie sich bei iCloud an, um iCloud-Lesezeichen zu verwenden."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Ihre Chrome-Lesezeichen werden mit iCloud synchronisiert."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Die Erweiterung, die Sie versuchen zu installieren, ist für Windows 7 oder 8 vorgesehen. Wenn Sie einen Mac verwenden, werden Ihre Safari-Lesezeichen automatisch mit Ihrem iPhone, iPad und Mac synchronisiert, wenn Sie sich mit Ihren Geräten bei iCloud anmelden."
+   }
+}

@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Descărcați"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Descărcați iCloud pentru Windows pentru a utiliza favoritele iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Păstrați-vă favoritele Chrome de pe Windows sincronizate cu favoritele Safari de pe iPhone-ul, iPad-ul și Mac-ul dvs."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Favorite iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Această extensie necesită rularea Chrome în modul desktop. Faceți clic pe meniul Chrome și selectați \"Relansați Chrome pe desktop\"."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Deschideți iCloud pentru Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Autentificați-vă pe iCloud pentru a utiliza favoritele iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Favoritele dvs. Chrome sunt sincronizate cu iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Extensia pe care încercați să o instalați este concepută să ruleze pe Windows 7 sau 8. Dacă utilizați un Mac, favoritele dvs. Safari se vor sincroniza automat cu iPhone-ul, iPad-ul și Mac-ul dvs. atunci când vă autentificați pe iCloud de pe toate dispozitivele dvs."
+   }
+}

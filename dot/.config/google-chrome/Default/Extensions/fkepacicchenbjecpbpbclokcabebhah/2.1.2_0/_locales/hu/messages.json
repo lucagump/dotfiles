@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Letöltés"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Az iCloud-könyvjelzők használatához töltse le az iCloud Windowshoz alkalmazást."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Tartsa naprakészen a Windows rendszeren lévő Chrome-könyvjelzőit az iPhone-ján, iPadjén és Mac gépén lévő Safari-könyvjelzőivel."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud-könyvjelzők"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Ennek a bővítménynek a használatához a Chrome böngészőt asztali módban kell futtatni. Kattintson a Chrome menüjére, és jelölje ki „A Chrome újraindítása az asztalon” lehetőséget."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Az iCloud Windowshoz megnyitása"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Az iCloud-könyvjelzők használatához jelentkezzen be az iCloudba."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "A Chrome-könyvjelzői szinkronizálva vannak az iClouddal."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "A telepíteni próbált bővítmény Windows 7 vagy 8 rendszeren történő futtatásra lett tervezve. Ha Mac gépet használ, a Safari-könyvjelzői automatikusan szinkronizálva lesznek az iPhone-jával, iPadjével és Mac gépével, amikor bejelentkezik az iCloudba az eszközein."
+   }
+}

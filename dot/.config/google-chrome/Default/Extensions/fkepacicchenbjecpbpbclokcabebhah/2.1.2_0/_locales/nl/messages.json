@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Downloaden"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "iCloud voor Windows downloaden om iCloud-bladwijzers te gebruiken."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "U kunt uw Chrome-bladwijzers in Windows synchroon houden met de Safari-bladwijzers op uw iPhone, iPad en Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud-bladwijzers"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Voor deze extensie moet Chrome in de bureaubladmodus worden uitgevoerd. Klik op het Chrome-menu en selecteer 'Chrome opnieuw opstarten op het bureaublad'."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "iCloud voor Windows openen"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Log in op iCloud om iCloud-bladwijzers te gebruiken."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Uw Chrome-bladwijzers zijn gesynchroniseerd met iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "De extensie die u wilt installeren, is bedoeld voor Windows 7 of 8. Als u een Mac gebruikt, worden uw Safari-bladwijzers automatisch gesynchroniseerd met uw iPhone, iPad en Mac wanneer u op al uw apparaten op iCloud bent ingelogd."
+   }
+}

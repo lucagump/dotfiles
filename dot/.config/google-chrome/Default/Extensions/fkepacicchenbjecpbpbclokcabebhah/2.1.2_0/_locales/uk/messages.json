@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Завантажити"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Викачайте iCloud для Windows, щоб використовувати закладки iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Синхронізуйте закладки у Chrome на Windows із закладками у Safari на ваших iPhone, iPad та комп’ютері Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Закладки iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Для роботи цього розширення потрібно, щоб Chrome працював у режимі робочого столу. Відкрийте меню Chrome і натисніть «Перезапустити Chrome на робочому столі»."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Відкрити iCloud для Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Увійдіть в iCloud, щоб користуватися Закладками iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Ваші закладки Chrome синхронізуються через iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Розширення, яке ви намагаєтесь інсталювати, призначене для Windows 7 чи 8. На комп’ютері Mac закладки Safari автоматично синхронізуватимуться з вашими iPhone, iPad та Mac під час входу в iCloud на цих пристроях."
+   }
+}

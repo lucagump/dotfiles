@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Muat turun"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Muat turun iCloud untuk Windows bagi menggunakan Penanda Buku iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Pastikan penanda buku Chrome anda pada Windows dikemas kini dengan penanda buku Safari anda pada iPhone, iPad dan Mac anda."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Penanda Buku iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Sambungan ini memerlukan Chrome dijalankan dalam mod desktop. Klik menu Chrome dan pilih “Lancarkan semula Chrome pada desktop”."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Buka iCloud untuk Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Daftar masuk ke iCloud untuk menggunakan Penanda Buku iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Penanda buku Chrome anda diselaraskan dengan iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Sambungan yang anda cuba pasang direka bentuk untuk berjalan pada Windows 7 atau 8. Jika anda menggunakan Mac, penanda buku Safari anda akan diselaraskan secara automatik dengan iPhone, iPad dan Mac anda apabila anda mendaftar masuk ke iCloud pada semua peranti anda."
+   }
+}

@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Tải về"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Tải về iCloud cho Windows để sử dụng Dấu trang iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Giữ cho dấu trang Chrome của bạn trên Windows được cập nhật với dấu trang Safari trên iPhone, iPad và máy Mac của bạn."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Dấu trang iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Tiện ích mở rộng này yêu cầu Chrome đang chạy ở chế độ máy để bàn. Bấm menu Chrome và chọn \"Khởi chạy lại Chrome trên máy để bàn\"."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Mở iCloud cho Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Đăng nhập vào iCloud để sử dụng Dấu trang iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Dấu trang Chrome của bạn được đồng bộ hóa với iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Tiện ích mở rộng bạn đang cố gắng cài đặt được thiết kế để chạy trên Windows 7 hoặc 8. Nếu bạn đang sử dụng máy Mac, thì dấu trang Safari sẽ tự động đồng bộ hóa với iPhone, iPad và máy Mac của bạn khi bạn đăng nhập vào iCloud trên tất cả các thiết bị của mình."
+   }
+}

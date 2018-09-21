@@ -1,0 +1,13 @@
+{
+  "remoteParents": {
+    "github": {
+      "eagletrt": {
+        "eagle-telemetria": {
+          "hostingServiceType": "github",
+          "owner": "eagletrt",
+          "name": "eagle-telemetria"
+        }
+      }
+    }
+  }
+}

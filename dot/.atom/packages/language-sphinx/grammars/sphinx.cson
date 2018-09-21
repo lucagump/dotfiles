@@ -1,0 +1,256 @@
+name: "Sphinx"
+scopeName: "text.sphinx"
+fileTypes: ["rst"]
+
+patterns: [
+  {
+    begin: '^([ \\t]*)(?=\\S)'
+    contentName: 'meta.paragraph.sphinx'
+    end: '^(?!\\1)'
+    patterns: [
+      {
+        include: '#all'
+      }
+    ]
+  }
+]
+repository:
+  all:
+    patterns: [
+      {
+        comment: 'Directives'
+        begin: '\\.\\.\\s[A-z][-A-z0-9_]+::(\\s*$|\\s+(.+?)\\s*$)'
+        beginCaptures:
+          1: name: 'markup.constant.directive.block.sphinx'
+        end: '^(?=\\S)'
+        name: 'markup.keyword.directive.block.sphinx'
+        patterns: [
+          {
+            match: '.+'
+            name: 'markup.raw.directive.block.sphinx'
+          }
+        ]
+      }
+      {
+        comment: 'Literal Blocks'
+        begin: '(::)$'
+        name: 'markup.keyword.literal.block.sphinx'
+        end: '^(?=\\S)'
+        patterns: [
+          {
+            match: '.+'
+            name: 'markup.raw.literal.block.sphinx'
+          }
+        ]
+      }
+      {
+        begin: '\\*\\*(?=[^\\*\\s])'
+        end:   '\\*\\*|^(?=\\s*$)'
+        name:  'markup.bold.sphinx'
+      }
+      {
+        begin: '(?<!\\\\)\\*(?=[^\\*\\s])'
+        end:   '(?<!\\\\)\\*|^(?=\\s*$)'
+        name:  'markup.italic.sphinx'
+      }
+      {
+        begin: '``'
+        end: '``((?=[^`\\w\\d])|$)'
+        name: 'markup.raw.literal.inline.sphinx'
+      }
+      { include: '#link-targets' }
+      {
+        comment: 'Substitutions: |name|'
+        captures:
+          1: name: 'punctuation.substitution.sphinx'
+          2: name: 'markup.keyword.sphinx'
+          3: name: 'punctuation.substitution.sphinx'
+        match: '(?<!\\\\)(\\|)([^|]+)(?<!\\\\)(\\|_{0,2})'
+        name: 'meta.link.substitution.sphinx'
+      }
+      {
+        comment: 'Intepreted text: `Title Reference`'
+        match: '`[^`]+`(?![_`])'
+        name: 'markup.keyword.sphinx'
+      }
+      {
+        comment: 'Anonymous target: __ https://www.python.org'
+        captures:
+          1: name: 'punctuation.link.sphinx'
+          2: name: 'markup.underline.link.sphinx'
+        match: '^\\s*(__)\\s+(.+)'
+        name: 'meta.link.sphinx'
+      }
+      {
+        comment: 'Inline markup'
+        begin: ':[-A-z0-9_.]*:`'
+        end:   '(?<!\\\\)`'
+        contentName: 'string.sphinx'
+        name: 'markup.keyword.sphinx'
+      }
+      {
+        comment: 'Inline internal link: Label_'
+        captures:
+          1: name: 'string.other.link.title.sphinx'
+          2: name: 'punctuation.definition.link.sphinx'
+        match: '\\b([-.:+_\\d\\w]+)(_)\\b'
+        name: 'meta.link.reference'
+      }
+      {
+        comment: 'Inline external web link: `Link text <https://domain.invalid/>`_'
+        captures:
+          1: name: 'punctuation.definition.link.sphinx'
+          2: name: 'string.other.link.title.sphinx'
+          3: name: 'punctuation.definition.location.sphinx'
+          4: name: 'markup.underline.link.sphinx'
+          5: name: 'punctuation.definition.location.sphinx'
+          6: name: 'punctuation.definition.link.sphinx'
+        match: '(`)([^<`]+)\\s+(<)(.*?)(>)(`_)'
+        name: 'meta.link.inline.sphinx'
+      }
+      {
+        comment: 'Inline internal link: `My Label`_'
+        captures:
+          1: name: 'punctuation.definition.link.sphinx'
+          2: name: 'string.other.link.title.sphinx'
+          3: name: 'punctuation.definition.link.sphinx'
+        match: '(`)([^`]+)(`_{1,2})'
+        name: 'meta.link.reference'
+      }
+      { include: '#footnotes' }
+      { include: '#citations' }
+      { include: '#tags' }
+      { include: '#tables' }
+      {
+        begin: '(^(=|-|~|`|#|"|\\^|\\+|\\*|\\:|\\.|\'|_){3,}$){1,1}?'
+        end:   '^\\s*$'
+        name: 'punctuation.definition.heading.sphinx'
+      }
+      {
+        begin: '^\\.\\. '
+        end:   '^[\\s]*$\\n?'
+        name:  'comment.sphinx'
+      }
+    ]
+  citations:
+    patterns: [
+      {
+        comment: 'Citation target: .. [ref]'
+        captures:
+          1: name: 'punctuation.definition.link.sphinx'
+          2: name: 'constant.other.citation.link.sphinx'
+          3: name: 'punctuation.definition.constant.sphinx'
+          4: name: 'punctuation.definition.constant.sphinx'
+          5: name: 'punctuation.definition.constant.sphinx'
+          6: name: 'string.other.citation.sphinx'
+        match: '^(\\.\\.)\\s+((\\[)[A-z][A-z0-9]*(\\]))(_)\\s+(.*)'
+        name: 'meta.link.citation.def.sphinx'
+      }
+      {
+        comment: 'Citation reference: [ref]_'
+        captures:
+          1: name: 'constant.other.citation.link.sphinx'
+          2: name: 'punctuation.definition.constant.sphinx'
+          3: name: 'punctuation.definition.constant.sphinx'
+          4: name: 'punctuation.definition.constant.sphinx'
+        match: '((\\[)[A-z][A-z0-9_-]*(\\]))(_)'
+        name: 'meta.link.citation.sphinx'
+      }
+    ]
+  footnotes:
+    patterns: [
+      {
+        comment: 'Footnote target: .. [#f1] Text of the first footnote.'
+        captures:
+          1: name: 'punctuation.definition.link.sphinx'
+          2: name: 'constant.other.footnote.link.sphinx'
+          3: name: 'punctuation.definition.constant.sphinx'
+          6: name: 'punctuation.definition.constant.sphinx'
+          7: name: 'punctuation.definition.constant.sphinx'
+          8: name: 'string.other.footnote.sphinx'
+        comment: 'replacement'
+        match: '^(\\.\\.)\\s+((\\[)(((#?)[^]]*?)|\\*)(\\]))\\s+(.*)'
+        name: 'meta.link.footnote.def.sphinx'
+      }
+      {
+        comment: 'Footnote reference: [0]_'
+        captures:
+          1: name: 'constant.other.footnote.link'
+          2: name: 'punctuation.definition.constant.sphinx'
+          3: name: 'punctuation.definition.constant.sphinx'
+          4: name: 'punctuation.definition.constant.sphinx'
+        match: '((\\[)[0-9]+(\\]))(_)'
+        name: 'meta.link.footnote.numeric.sphinx'
+      }
+      {
+        comment: 'Footnote reference: [#]_ or [#foo]_'
+        captures:
+          1: name: 'constant.other.footnote.link'
+          2: name: 'punctuation.definition.constant.sphinx'
+          3: name: 'punctuation.definition.constant.sphinx'
+          4: name: 'punctuation.definition.constant.sphinx'
+        match: '((\\[#)[A-z0-9_]*(\\]))(_)'
+        name: 'meta.link.footnote.auto.sphinx'
+      }
+      {
+        comment: 'Footnote reference: [*]_'
+        captures:
+          1: name: 'constant.other.footnote.link.sphinx'
+          2: name: 'punctuation.definition.constant.sphinx'
+          3: name: 'punctuation.definition.constant.sphinx'
+          4: name: 'punctuation.definition.constant.sphinx'
+        match: '((\\[)\\*(\\]))(_)'
+        name: 'meta.link.footnote.symbol.auto.sphinx'
+      }
+    ]
+  'link-targets':
+    patterns: [
+      {
+        comment: 'Link: .. _hyperlink/with a slash: http://example.com'
+        captures:
+          1: name: 'punctuation.definition.link.sphinx'
+          2: name: 'punctuation.definition.string.sphinx'
+          3: name: 'string.other.link.title.sphinx'
+          4: name: 'punctuation.separator.key-value.sphinx'
+          5: name: 'markup.underline.link.sphinx'
+        match: '(\\.\\.)\\s+(_)([-.\\d\\w\\s()/]+)(:)\\s+(.*)'
+        name: 'meta.link.reference.def.sphinx'
+      }
+      {
+        comment: 'Link: .. _`hyperlink with backtick a slash`: http://example.com'
+        captures:
+          1: name: 'punctuation.definition.link.sphinx'
+          2: name: 'punctuation.definition.string.sphinx'
+          3: name: 'string.other.link.title.sphinx'
+          4: name: 'punctuation.separator.key-value.sphinx'
+          5: name: 'markup.underline.link.sphinx'
+        match: '(\\.\\.)\\s+(_`)([^`]+)(`:)\\s+(.*)'
+        name: 'meta.link.reference.def.sphinx'
+      }
+    ]
+  tables:
+    patterns: [
+      {
+        captures:
+          0: name: 'punctuation.definition.table.sphinx'
+        match: '\\+-[+-]+'
+        name: 'markup.other.table.sphinx'
+      }
+      {
+        captures:
+          0: name: 'punctuation.definition.table.sphinx'
+        match: '\\+=[+=]+'
+        name: 'markup.other.table.sphinx'
+      }
+    ]
+  tags:
+    patterns: [
+      {
+        captures:
+          1: name: 'punctuation.definition.field.sphinx'
+          2: name: 'punctuation.definition.field.sphinx'
+        comment: 'tags and field lists'
+        match: '(:)[A-z][A-z0-9  =\\s\\t_.]*(:)'
+        name: 'entity.name.tag.sphinx'
+      }
+    ]

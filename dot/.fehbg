@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale '/home/lucamartinelli/Immagini/2.jpg' 

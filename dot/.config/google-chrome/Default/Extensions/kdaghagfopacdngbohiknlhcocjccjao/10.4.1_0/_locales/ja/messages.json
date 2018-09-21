@@ -1,0 +1,3723 @@
+{
+   "adjustmentsColumnEnable": {
+      "message": "有効 / 無効"
+   },
+   "adjustmentsColumnIsInRange": {
+      "message": "有効範囲"
+   },
+   "adjustmentsColumnThenApplyFunction": {
+      "message": "適用設定"
+   },
+   "adjustmentsColumnUsingSlot": {
+      "message": "使用スロット"
+   },
+   "adjustmentsColumnViaChannel": {
+      "message": "チャンネル"
+   },
+   "adjustmentsColumnWhenChannel": {
+      "message": "チャンネル"
+   },
+   "adjustmentsEepromSaved": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "adjustmentsExample1": {
+      "message": "AUX1のスロット1と3ポジションスイッチを使用し、ピッチ / ロール、PIDの設定を、AUX2の別の3ポジションスイッチを選択し、上下することで値を増減させます。"
+   },
+   "adjustmentsExample2": {
+      "message": "AUX4のスロット2と3ポジションスイッチを選択し、かつ同じチャンネルの3ポジションスイッチを使用することでRateprofile変更を有効にすることができます。"
+   },
+   "adjustmentsExamples": {
+      "message": "例"
+   },
+   "adjustmentsFunction0": {
+      "message": "変更しない"
+   },
+   "adjustmentsFunction1": {
+      "message": "RCレート調整"
+   },
+   "adjustmentsFunction10": {
+      "message": "ヨー I値 調整"
+   },
+   "adjustmentsFunction11": {
+      "message": "ヨー D値 調整"
+   },
+   "adjustmentsFunction12": {
+      "message": "Rateprofile選択"
+   },
+   "adjustmentsFunction13": {
+      "message": "ピッチレート"
+   },
+   "adjustmentsFunction14": {
+      "message": "ロールレート"
+   },
+   "adjustmentsFunction15": {
+      "message": "ピッチ P値 調整"
+   },
+   "adjustmentsFunction16": {
+      "message": "ピッチ I値 調整"
+   },
+   "adjustmentsFunction17": {
+      "message": "ピッチ D値 調整"
+   },
+   "adjustmentsFunction18": {
+      "message": "ロール P値 調整"
+   },
+   "adjustmentsFunction19": {
+      "message": "ロール I値 調整"
+   },
+   "adjustmentsFunction2": {
+      "message": "RC Expo調整"
+   },
+   "adjustmentsFunction20": {
+      "message": "ロール D値 調整"
+   },
+   "adjustmentsFunction21": {
+      "message": "RCレート ヨー"
+   },
+   "adjustmentsFunction22": {
+      "message": "D値 セットポイント"
+   },
+   "adjustmentsFunction22_2": {
+      "message": "ピッチ・ロール F 調整"
+   },
+   "adjustmentsFunction23": {
+      "message": "D値 セットポイント 遷移"
+   },
+   "adjustmentsFunction23_2": {
+      "message": "フィードフォワード遷移"
+   },
+   "adjustmentsFunction24": {
+      "message": "ホライゾン 強度調整"
+   },
+   "adjustmentsFunction25": {
+      "message": "PID-Audioを選択"
+   },
+   "adjustmentsFunction26": {
+      "message": "ピッチ F値 調整"
+   },
+   "adjustmentsFunction27": {
+      "message": "ロール F値 調整"
+   },
+   "adjustmentsFunction28": {
+      "message": "ヨー F値 調整"
+   },
+   "adjustmentsFunction3": {
+      "message": "スロットルExpo調整"
+   },
+   "adjustmentsFunction4": {
+      "message": "ピッチ・ロールレート調整"
+   },
+   "adjustmentsFunction5": {
+      "message": "ヨーレート調整"
+   },
+   "adjustmentsFunction6": {
+      "message": "ピッチ・ロール P 調整"
+   },
+   "adjustmentsFunction7": {
+      "message": "ピッチ・ロール I 調整"
+   },
+   "adjustmentsFunction8": {
+      "message": "ピッチ・ロール D 調整"
+   },
+   "adjustmentsFunction9": {
+      "message": "ヨー P値 調整"
+   },
+   "adjustmentsHelp": {
+      "message": "調整スイッチを構成します。詳細については、マニュアルの [In-flight Adjustment] を参照して下さい。調整の変更は自動的には保存されません。 4つのスロットがありますが、調整を同時に行うために使用される各スイッチは、スロットを排他的に使用する必要があります。"
+   },
+   "adjustmentsMax": {
+      "message": "最大"
+   },
+   "adjustmentsMin": {
+      "message": "最小"
+   },
+   "adjustmentsSave": {
+      "message": "保存"
+   },
+   "adjustmentsSlot0": {
+      "message": "スロット1"
+   },
+   "adjustmentsSlot1": {
+      "message": "スロット2"
+   },
+   "adjustmentsSlot2": {
+      "message": "スロット3"
+   },
+   "adjustmentsSlot3": {
+      "message": "スロット4"
+   },
+   "analyticsOptOut": {
+      "message": "匿名の統計データ収集を無効"
+   },
+   "apiVersionReceived": {
+      "message": "MultiWii APIバージョン: \u003Cstrong>$1\u003C/strong>"
+   },
+   "armingDisabled": {
+      "message": "\u003Cstrong>アーミング無効\u003C/strong>"
+   },
+   "armingEnabled": {
+      "message": "\u003Cstrong>アーミング有効\u003C/strong>"
+   },
+   "autoConnect": {
+      "message": "自動接続"
+   },
+   "autoConnectDisabled": {
+      "message": "自動接続: 無効 - ユーザが正しいシリアル ポートを選択し、別途 [接続] ボタンをクリックする必要があります。"
+   },
+   "autoConnectEnabled": {
+      "message": "自動接続: 有効 - Configuratorは自動的に新しいポートが検出されたときに接続を試みます。"
+   },
+   "auxiliaryAddRange": {
+      "message": "範囲追加"
+   },
+   "auxiliaryAutoChannelSelect": {
+      "message": "自動"
+   },
+   "auxiliaryButtonSave": {
+      "message": "保存"
+   },
+   "auxiliaryEepromSaved": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "auxiliaryHelp": {
+      "message": "範囲を追加および設定をし、送信機側スイッチと対応するモードの割り当てを定義します。最小 / 最大値の範囲内で設定した受信チャンネルにてモードが有効となります。 [保存] ボタンを使用して設定を保存することを忘れないで下さい。"
+   },
+   "auxiliaryMax": {
+      "message": "最大"
+   },
+   "auxiliaryMin": {
+      "message": "最小"
+   },
+   "auxiliaryToggleUnused": {
+      "message": "未使用モードの表示/非表示"
+   },
+   "backupFileIncompatible": {
+      "message": "申し訳ありませんが、指定されたバックアップファイルは以前のバージョンで作成されているため、このバージョンと互換性がありません。"
+   },
+   "backupFileUnmigratable": {
+      "message": "申し訳ありませんが、指定されたバックアップファイルは以前のバージョンで作成されているため、移行できません。"
+   },
+   "beeperACC_CALIBRATION": {
+      "message": "水平 キャリブレーションの完了確認時のビープ音"
+   },
+   "beeperACC_CALIBRATION_FAIL": {
+      "message": "水平 キャリブレーションに失敗したときのビープ音"
+   },
+   "beeperARMED": {
+      "message": "アイドル時にモーターがオフになっているときの警告ビープ音 (FCボードが無効、またはスロットルが上がるまでリピート)"
+   },
+   "beeperARMING": {
+      "message": "フライトコントローラをアーミングしたときのビープ音"
+   },
+   "beeperARMING_GPS_FIX": {
+      "message": "FCボードを作動させGPSを修正したときの特別なビープ音"
+   },
+   "beeperBAT_CRIT_LOW": {
+      "message": "バッテリーが非常に少ないときの、より長い警告ビープ音 (リピート)"
+   },
+   "beeperBAT_LOW": {
+      "message": "バッテリーが少ないときの警告ビープ音 (リピート)"
+   },
+   "beeperBLACKBOX_ERASE": {
+      "message": "ブラックボックスログ消去が完了したときのビープ音"
+   },
+   "beeperCAM_CONNECTION_CLOSE": {
+      "message": "5つのキーによるカメラ操作を終了したときのビープ音"
+   },
+   "beeperCAM_CONNECTION_OPEN": {
+      "message": "5つのキーによるカメラ操作を実行したときのビープ音"
+   },
+   "beeperCRASH_FLIP": {
+      "message": "クラッシュフリップモードをオンしたときのビープ音"
+   },
+   "beeperDISARMING": {
+      "message": "フライトコントローラをディスアームしたときのビープ音"
+   },
+   "beeperDISARM_REPEAT": {
+      "message": "スティックが無効位置にあるときのビープ音"
+   },
+   "beeperGPS_STATUS": {
+      "message": "ビープ回数でGPS衛星の検出数を示す"
+   },
+   "beeperGYRO_CALIBRATED": {
+      "message": "Gyroキャリブレーションしたときのビープ音"
+   },
+   "beeperREADY_BEEP": {
+      "message": "GPSの捕捉と準備ができたときのトーン音"
+   },
+   "beeperRX_LOST": {
+      "message": "送信機がオフ、または信号消失時のビープ音 (正常になるまでリピート)"
+   },
+   "beeperRX_LOST_LANDING": {
+      "message": "アーム時に送信機がオフ、または信号消失時のSOSビープ音 (自動着陸 / 自動ディスアーム)"
+   },
+   "beeperRX_SET": {
+      "message": "ビープをAUXチャンネルに設定しているときのビープ音"
+   },
+   "beeperSYSTEM_INIT": {
+      "message": "FCボードに電源が入ったときの初期ビープ音"
+   },
+   "beeperUSB": {
+      "message": "フライトコントローラがUSBから給電されたときのビープ音 (機体作成時に鳴らしたくない場合はオフにする)"
+   },
+   "blackboxButtonSave": {
+      "message": "保存して再起動"
+   },
+   "blackboxConfiguration": {
+      "message": "ブラックボックス設定"
+   },
+   "blackboxLoggingFlash": {
+      "message": "オンボードメモリ"
+   },
+   "blackboxLoggingNone": {
+      "message": "ログ無効"
+   },
+   "blackboxLoggingSdCard": {
+      "message": "SDカード"
+   },
+   "blackboxLoggingSerial": {
+      "message": "シリアルポート"
+   },
+   "blackboxMaybeSupported": {
+      "message": "このフライトコントローラのファームウェアは古すぎるか、あるいは [設定] タブでブラックボックス機能が無効になっているため、このタブは使えません。"
+   },
+   "blackboxNotSupported": {
+      "message": "このフライトコントローラのファームウェアは、ブラックボックスによるログをサポートしていません。"
+   },
+   "boardInfoReceived": {
+      "message": "FCボード: \u003Cstrong>$1\u003C/strong> バージョン: \u003Cstrong>$2\u003C/strong>"
+   },
+   "buildInfoReceived": {
+      "message": "稼働ファームウェアリリース: \u003Cstrong>$1\u003C/strong>"
+   },
+   "buildServerLoadFailed": {
+      "message": "\u003Cb>サーバからの $1 リリース情報の読込みに失敗した為、キャッシュ情報を使用します。理由：\u003Ccode>$2\u003C/code>\u003C/b>"
+   },
+   "buildServerLoaded": {
+      "message": "サーバから $1 の開発情報が読み込まれました。"
+   },
+   "buildServerUsingCached": {
+      "message": "$1 開発情報のキャッシュを参照します。"
+   },
+   "checkForConfiguratorUnstableVersions": {
+      "message": "未検証バージョンの更新通知を表示"
+   },
+   "cliEnter": {
+      "message": "CLIモード検出"
+   },
+   "cliInfo": {
+      "message": "\u003Cstrong>注:\u003C/strong> [CLI] タブから他へ切り替える、又は切断した場合はFCボードへ\u003Cstrong>自動的に\u003C/strong>\u003Cstrong>EXIT\u003C/strong>が送られます。最新のファームウェアではコントローラを\u003Cspan class=\"message-negative\">再起動\u003C/span>させ 、未保存の変更は\u003Cspan class=\"message-negative\">失われます\u003C/span>のでご注意下さい。"
+   },
+   "cliInputPlaceholder": {
+      "message": "こちらにコマンドを書いて下さい"
+   },
+   "cliReboot": {
+      "message": "CLIリブート検出"
+   },
+   "cliSaveToFileBtn": {
+      "message": "ファイルへ保存"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "colorBlack": {
+      "message": "黒色"
+   },
+   "colorBlue": {
+      "message": "青色"
+   },
+   "colorCyan": {
+      "message": "シアン"
+   },
+   "colorDarkViolet": {
+      "message": "暗紫色"
+   },
+   "colorDeepPink": {
+      "message": "濃桃"
+   },
+   "colorGreen": {
+      "message": "緑色"
+   },
+   "colorLightBlue": {
+      "message": "水色"
+   },
+   "colorLimeGreen": {
+      "message": "ライム"
+   },
+   "colorMagenta": {
+      "message": "赤紫"
+   },
+   "colorMintGreen": {
+      "message": "ミント"
+   },
+   "colorOrange": {
+      "message": "橙色"
+   },
+   "colorRed": {
+      "message": "赤色"
+   },
+   "colorWhite": {
+      "message": "白色"
+   },
+   "colorYellow": {
+      "message": "黄色"
+   },
+   "configHelp2": {
+      "message": "横向き / 下向き / 任意な回転による取付けが可能なFCボードの回転角度です。外部センサーを使用する場合は、センサーのアライメント (Gyro、Accel、コンパス) を使用して、ボードの向きから独立したセンサー位置を定義します。 "
+   },
+   "configMigratedTo": {
+      "message": "設定をConfiguratorへ移行: $1"
+   },
+   "configMigrationFrom": {
+      "message": "Configuratorによって作られた設定ファイルの移行: $1"
+   },
+   "configMigrationSuccessful": {
+      "message": "設定の移行成功、適用します: $1"
+   },
+   "configuration3d": {
+      "message": "3D ESC / モーター機能"
+   },
+   "configuration3dDeadbandHigh": {
+      "message": "3D デッドバンド 高"
+   },
+   "configuration3dDeadbandLow": {
+      "message": "3D デッドバンド 低"
+   },
+   "configuration3dDeadbandThrottle": {
+      "message": "3D デッドバンド スロットル"
+   },
+   "configuration3dNeutral": {
+      "message": "3D ナチュラル"
+   },
+   "configurationAccHardware": {
+      "message": "加速度センサー"
+   },
+   "configurationAccelTrimPitch": {
+      "message": "加速度センサー ピッチトリム"
+   },
+   "configurationAccelTrimRoll": {
+      "message": "加速度センサー ロールトリム"
+   },
+   "configurationAccelTrims": {
+      "message": "加速度センサー トリム"
+   },
+   "configurationArming": {
+      "message": "アーミング"
+   },
+   "configurationArmingHelp": {
+      "message": "アーミングオプションによっては、加速度センサーを有効にする必要があります"
+   },
+   "configurationAutoDisarmDelay": {
+      "message": "設定後にモーターをディスアーム [seconds] (MOTOR_STOP機能必須)"
+   },
+   "configurationBaroHardware": {
+      "message": "気圧センサー (サポート時)"
+   },
+   "configurationBatteryCurrent": {
+      "message": "バッテリー電流"
+   },
+   "configurationBatteryMaximum": {
+      "message": "1セルあたりの最大電圧"
+   },
+   "configurationBatteryMeterType": {
+      "message": "バッテリーメータータイプ"
+   },
+   "configurationBatteryMinimum": {
+      "message": "1セルあたりの最小電圧"
+   },
+   "configurationBatteryMultiwiiCurrent": {
+      "message": "旧式 Multiwii MSP電流出力サポートを有効にする"
+   },
+   "configurationBatteryScale": {
+      "message": "電圧補正値"
+   },
+   "configurationBatteryVoltage": {
+      "message": "バッテリー電圧"
+   },
+   "configurationBatteryWarning": {
+      "message": "1セルあたりの警告電圧"
+   },
+   "configurationBeeper": {
+      "message": "ビープ音 設定"
+   },
+   "configurationBoardAlignment": {
+      "message": "FCボード＆センサー アライメント"
+   },
+   "configurationBoardAlignmentPitch": {
+      "message": "ピッチ角度"
+   },
+   "configurationBoardAlignmentRoll": {
+      "message": "ロール角度"
+   },
+   "configurationBoardAlignmentYaw": {
+      "message": "ヨー角度"
+   },
+   "configurationButtonSave": {
+      "message": "保存して再起動"
+   },
+   "configurationCalculatedCyclesSec": {
+      "message": "サイクル / 秒 [Hz]"
+   },
+   "configurationCamera": {
+      "message": "カメラ"
+   },
+   "configurationCurrent": {
+      "message": "電流センサー"
+   },
+   "configurationCurrentMeterType": {
+      "message": "電流メーターの種類"
+   },
+   "configurationCurrentOffset": {
+      "message": "ミリボルト単位のオフセット値"
+   },
+   "configurationCurrentScale": {
+      "message": "出力電圧をミリアンペアにスケーリング表示 [1/10 mV/A]"
+   },
+   "configurationDigitalIdlePercent": {
+      "message": "モーターアイドルスロットル値 [percent]"
+   },
+   "configurationDigitalIdlePercentHelp": {
+      "message": "機体がアームし、スロットルスティックが最小位置にあるときにESCに送信される最大スロットルの [アイドル\n値] です。より安定したアイドリング速度を得るためにパーセント値を増加させて下さい。"
+   },
+   "configurationDisarmKillSwitch": {
+      "message": "スロットル値に関係なくモーターをディスアーム\u003Cbr /> (ARMが [モード] タブのAUXチャンネルで設定されている場合)"
+   },
+   "configurationDisarmKillSwitchHelp": {
+      "message": "スロットルが低位置でない場合、アーミングは常に無効となります。 飛行中にオプション有効スイッチを、誤って解除する可能性がありますので注意して下さい。"
+   },
+   "configurationDshotBeaconHelp": {
+      "message": "Dshotビーコンは、ESCおよびモーターを使用してビーコン音を生成します。これは同時に、モーターが回転しているときにDshotビーコンを使用できないことを意味します。 Betaflight 3.4以降では、Dshotビーコンが有効な状態である時にアーミングを試みると、機体がアームされる前、最後に鳴らしたDshotビーコントーンの後に2秒の遅延が起こります。これはDshotビーコン機能が、アーミング中に送信されたDshotコマンドを妨害しないようにするためです。\n\u003Cbr/>\u003Cstrong>注:\u003C/strong> Dshotビーコンは、有効な状態のときにモーターへ電流を流しているため、ビーコン強度が強すぎると過剰な熱の発生やモーター、ESCの損傷を招く場合があります。ビーコン強度を調整してテストするには、BLHeli ConfiguratorまたはBLHeli Suiteを使用して下さい。"
+   },
+   "configurationDshotBeaconTone": {
+      "message": "ビーコントーン"
+   },
+   "configurationDshotBeeper": {
+      "message": "Dshotビーコン設定"
+   },
+   "configurationEepromSaved": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "configurationEscFeatures": {
+      "message": "ESC / モーター機能"
+   },
+   "configurationEscProtocol": {
+      "message": "ESC / モータープロトコル"
+   },
+   "configurationEscProtocolHelp": {
+      "message": "モータープロトコルを選択して下さい。\u003Cbr>プロトコルがESCによってサポートされていることを確認して下さい。この情報はメーカーのWebサイトを確認して下さい。\u003Cbr> \u003Cb>DSHOT900とDSHOT1200は、現在それほど多くのESCをサポートしていないため、使用の際はご注意下さい！\u003C/b>"
+   },
+   "configurationFeatureDescription": {
+      "message": "説明"
+   },
+   "configurationFeatureEnabled": {
+      "message": "有効"
+   },
+   "configurationFeatureName": {
+      "message": "機能"
+   },
+   "configurationFeatures": {
+      "message": "その他の機能"
+   },
+   "configurationFeaturesHelp": {
+      "message": "\u003Cstrong>注:\u003C/strong> 機能の全ての組み合わせが有効な訳ではありません。 フライトコントローラファームウェアが無効な機能の組み合わせを検出すると、競合する機能が無効になります。\u003Cbr />\u003Cstrong>注:\u003C/strong> ポートを使用する機能を\u003Cspan class=\"message-negative\">有効にする前に\u003C/span>シリアルポートを設定して下さい。"
+   },
+   "configurationFpvCamAngleDegrees": {
+      "message": "FPVカメラアングル [degrees]"
+   },
+   "configurationGPS": {
+      "message": "GPS"
+   },
+   "configurationGPSAutoBaud": {
+      "message": "自動伝送速度設定"
+   },
+   "configurationGPSAutoConfig": {
+      "message": "自動設定"
+   },
+   "configurationGPSBaudrate": {
+      "message": "伝送速度"
+   },
+   "configurationGPSHelp": {
+      "message": "\u003Cstrong>注:\u003C/strong> GPSを使う場合、シリアルポート ([ポート] タブ) の設定を忘れずに行って下さい。"
+   },
+   "configurationGPSProtocol": {
+      "message": "プロトコル"
+   },
+   "configurationGPSubxSbas": {
+      "message": "地上支援タイプ"
+   },
+   "configurationGyroSyncDenom": {
+      "message": "ジャイロ 演算周波数"
+   },
+   "configurationGyroUse32kHz": {
+      "message": "ジャイロ 32KHz サンプリングモード有効"
+   },
+   "configurationGyroUse32kHzHelp": {
+      "message": "ジャイロチップがサポートしている場合のみ、ジャイロ アップデート周波数 32KHz の選択が可能です。(現在MPU6500、MPU9250、およびSPI経由で接続されている場合はICM20xxx) 不明な場合は、FCボードの仕様書を参照して下さい。"
+   },
+   "configurationLoopTime": {
+      "message": "フライトコントローラ ループタイム"
+   },
+   "configurationLoopTimeHelp": {
+      "message": "\u003Cstrong>注意:\u003C/strong>FCがこの速度で動作するか確認して下さい！CPUとサイクル時間の安定度を確認して下さい。この変更はPIDの再調整を必要とするかもしれません。TIP: パフォーマンスを上げるためには加速度センサや他センサを無効にします。"
+   },
+   "configurationMagDeclination": {
+      "message": "コンパス偏位 [deg]"
+   },
+   "configurationMagHardware": {
+      "message": "コンパス (サポート時)"
+   },
+   "configurationMixer": {
+      "message": "ミキサー"
+   },
+   "configurationOtherFeaturesHelp": {
+      "message": "\u003Cstrong>注:\u003C/strong> 全ての機能が全てのフライトコントローラでサポートされている訳ではありません。 特定の機能を有効にして [保存して再起動] した後でも無効になっている場合は、この機能がボード上でサポートされていないことを意味します。"
+   },
+   "configurationPersonalization": {
+      "message": "個人用設定"
+   },
+   "configurationPidProcessDenom": {
+      "message": "PIDループ 演算周波数"
+   },
+   "configurationPidProcessDenomHelp": {
+      "message": "PIDループの最大周波数は、選択されたESC / モータープロトコル更新信号の最大値に制限されます。"
+   },
+   "configurationRSSI": {
+      "message": "RSSI (信号強度)"
+   },
+   "configurationRSSIHelp": {
+      "message": "RSSIは信号強度の値で、機体が圏外になったときやRF干渉を受けていることを確認でき非常に有益です。"
+   },
+   "configurationReceiver": {
+      "message": "受信機"
+   },
+   "configurationReceiverMode": {
+      "message": "受信機モード"
+   },
+   "configurationReverseMotorSwitch": {
+      "message": "モーター回転方向を逆転"
+   },
+   "configurationReverseMotorSwitchHelp": {
+      "message": "このオプションは、モーター回転方向の構成を逆転させプロペラを回すよう、ミキサー設定を行います。\n\u003Cstrong>注意:\u003C/strong> これはモーターそのもののの回転方向を逆転させるわけでありません。ESC設定ツールを使用するか、ESCモーターの配線順序を切り替えて構成変更して下さい。また、プロペラを用いモーターが上図に示す方向に回転していることを確認してから、アームを解除して下さい。"
+   },
+   "configurationSensorAlignmentAcc": {
+      "message": "Accel アライメント"
+   },
+   "configurationSensorAlignmentDefaultOption": {
+      "message": "デフォルト"
+   },
+   "configurationSensorAlignmentGyro": {
+      "message": "Gyro アライメント"
+   },
+   "configurationSensorAlignmentMag": {
+      "message": "コンパス アライメント"
+   },
+   "configurationSerialRX": {
+      "message": "シリアル受信プロトコル"
+   },
+   "configurationSerialRXHelp": {
+      "message": "\u003Cstrong>注:\u003C/strong> RX_SERIALを使う場合、シリアルポート ( [ポート] タブ ) を設定し、シリアル受信プロトコルを忘れず選択して下さい。"
+   },
+   "configurationSmallAngle": {
+      "message": "アーム最大角 [degrees]"
+   },
+   "configurationSmallAngleHelp": {
+      "message": "指定された角度以上に傾斜していると機体はアームできません。 加速度センサーが有効な場合にのみ適用されます。180に設定すると有効チェックが無効になります。"
+   },
+   "configurationSpiRX": {
+      "message": "SPIバス受信プロトコル"
+   },
+   "configurationSpiRxHelp": {
+      "message": "\u003Cstrong>注:\u003C/strong> SPI受信プロトコルは、必要なハードウェアが搭載されているかSPIバスに接続されている場合にのみ動作します。"
+   },
+   "configurationSystem": {
+      "message": "システム設定"
+   },
+   "configurationThrottleMaximum": {
+      "message": "最大スロットル値 (アーム時の最大ESC値)"
+   },
+   "configurationThrottleMinimum": {
+      "message": "最小スロットル値 (アーム時の最小ESC値)"
+   },
+   "configurationThrottleMinimumCommand": {
+      "message": "最小スティック値 (ディスアーム時のESC値)"
+   },
+   "configurationThrottleMinimumCommandHelp": {
+      "message": "これは機体がディスアームされたときにESCに送信される値です。この値をモーターを停止させる値に設定して下さい。(殆どのESCは1000)"
+   },
+   "configurationThrottleMinimumHelp": {
+      "message": "機体がアームし、スロットルスティックが最小位置にあるときにESCに送信される [アイドル値] です。より安定したアイドリング速度を得るために値を増加させて下さい。また非同期の場合は値を上げて下さい！"
+   },
+   "configurationUnsyncedPWMFreq": {
+      "message": "モーターPWM 周波数"
+   },
+   "configurationUseDshotBeeper": {
+      "message": "Dshotビーコンを使用 (ディスアーム時にモーターを使ってビープ音を鳴らす)"
+   },
+   "configurationunsyndePwm": {
+      "message": "PIDからモーターPWMを分離"
+   },
+   "configuratorUpdateNotice": {
+      "message": "お使いの\u003Cb>Betaflight Configurator\u003C/b>は旧バージョンです。\u003Cbr>Version \u003Cb>$1\u003C/b> が利用可能です。\u003Ca href=\"$2\" target=\"_blank\">リリースページ\u003C/a>から修正・機能向上した最新版をダウンロードしてインストールして下さい。\u003Cbr>注: 更新する前にConfiguratorを閉じて下さい。"
+   },
+   "configuratorUpdateWebsite": {
+      "message": "リリースサイトに移動"
+   },
+   "connect": {
+      "message": "接続"
+   },
+   "connecting": {
+      "message": "接続中"
+   },
+   "controlAxisAux1": {
+      "message": "AUX 1"
+   },
+   "controlAxisAux10": {
+      "message": "AUX 10"
+   },
+   "controlAxisAux11": {
+      "message": "AUX 11"
+   },
+   "controlAxisAux12": {
+      "message": "AUX 12"
+   },
+   "controlAxisAux13": {
+      "message": "AUX 13"
+   },
+   "controlAxisAux14": {
+      "message": "AUX 14"
+   },
+   "controlAxisAux15": {
+      "message": "AUX 15"
+   },
+   "controlAxisAux16": {
+      "message": "AUX 16"
+   },
+   "controlAxisAux2": {
+      "message": "AUX 2"
+   },
+   "controlAxisAux3": {
+      "message": "AUX 3"
+   },
+   "controlAxisAux4": {
+      "message": "AUX 4"
+   },
+   "controlAxisAux5": {
+      "message": "AUX 5"
+   },
+   "controlAxisAux6": {
+      "message": "AUX 6"
+   },
+   "controlAxisAux7": {
+      "message": "AUX 7"
+   },
+   "controlAxisAux8": {
+      "message": "AUX 8"
+   },
+   "controlAxisAux9": {
+      "message": "AUX 9"
+   },
+   "controlAxisPitch": {
+      "message": "Pitch [E]"
+   },
+   "controlAxisRoll": {
+      "message": "Roll [A]"
+   },
+   "controlAxisThrottle": {
+      "message": "Throttle [T]"
+   },
+   "controlAxisYaw": {
+      "message": "Yaw [R]"
+   },
+   "craftName": {
+      "message": "機体名"
+   },
+   "craftNameReceived": {
+      "message": "機体名: \u003Cstrong>$1\u003C/strong>"
+   },
+   "dataflashButtonErase": {
+      "message": "データを消去"
+   },
+   "dataflashButtonEraseCancel": {
+      "message": "キャンセル"
+   },
+   "dataflashButtonEraseConfirm": {
+      "message": "はい、データを消去します"
+   },
+   "dataflashButtonSaveCancel": {
+      "message": "キャンセル"
+   },
+   "dataflashButtonSaveDismiss": {
+      "message": "OK"
+   },
+   "dataflashButtonSaveFile": {
+      "message": "ファイルに保存します..."
+   },
+   "dataflashConfirmEraseNote": {
+      "message": "メモリに保存されているログを含む全てのデータを消去します。消去には20秒程度必要です。実行しますか？"
+   },
+   "dataflashConfirmEraseTitle": {
+      "message": "データ消去を確認します"
+   },
+   "dataflashFileWriteFailed": {
+      "message": "選択されたファイルへの書込みが失敗しました。フォルダの管理者権限を確認するか、別の場所を選択して下さい。"
+   },
+   "dataflashFirmwareUpgradeRequired": {
+      "message": "データ書換えにはファームウェア &gt;= 1.8.0. が必要です。"
+   },
+   "dataflashFreeSpace": {
+      "message": "空き領域"
+   },
+   "dataflashLogsSpace": {
+      "message": "ログの保存領域"
+   },
+   "dataflashNotPresentNote": {
+      "message": "このフライトコントローラには使用可能なメモリが付いていません"
+   },
+   "dataflashNote": {
+      "message": "飛行ログはフライトコントローラのオンボードメモリに保存できます。"
+   },
+   "dataflashSavingNote": {
+      "message": "保存には時間がかかります。しばらくお待ち下さい。"
+   },
+   "dataflashSavingNoteAfter": {
+      "message": "保存完了！[OK] を押して下さい。"
+   },
+   "dataflashSavingTitle": {
+      "message": "ファイルに保存しています"
+   },
+   "dataflashUnavSpace": {
+      "message": "使用不可領域"
+   },
+   "dataflashUsedSpace": {
+      "message": "使用済み領域"
+   },
+   "defaultButtonFirmwareFlasher": {
+      "message": "ファームフラッシャー"
+   },
+   "defaultChangelogAction": {
+      "message": "変更履歴"
+   },
+   "defaultChangelogHead": {
+      "message": "Configurator - 変更履歴"
+   },
+   "defaultContributingHead": {
+      "message": "開発への協力・貢献"
+   },
+   "defaultContributingText": {
+      "message": "Betaflightを今後より良くするためにご協力いただける場合、以下を含むさまざまな方法でお手伝いしていただけます:\u003Cbr />\u003Cul>\u003Cli>\nフォーラムやIRCで他のユーザの質問に答える\u003C/li>\u003Cli>\nファームウェアとConfiguratorへのコードの提供 - 新機能や修正、改良\u003C/li>\u003Cli>\n\u003Ca href=\"https://github.com/Betaflight/betaflight/pulls\" target=\"_blank\">新機能のフィックス\u003C/a>、テストとフィードバックの提供\u003C/li>\u003Cli>\n\u003Ca href=\"https://github.com/betaflight/betaflight/issues\" target=\"_blank\">問題のヘルプと新機能リクエスト\u003C/a>へのコメント協力\u003C/li>\u003Cli>\n\u003Ca href=\"https://crowdin.com/project/betaflight-configurator\" target=\"_blank\">Betaflight Configuratorを母国語へ翻訳すること\u003C/a>に協力してみましょう。\u003C/li>\u003Cli>\u003C/li>\u003C/ul>"
+   },
+   "defaultDocumentation": {
+      "message": "Betaflightドキュメントは、リリースノートおよび wiki にてご利用いただけます。\u003Cbr />\u003Cbr />"
+   },
+   "defaultDocumentation1": {
+      "message": "Betaflight wiki はすばらしい情報リソースを\u003Ca href=\"https://github.com/betaflight/betafli\u003Ca href=\"https://github.com/betaflight/betaflight/wiki\" target=\"_blank\">ght/wiki\" target=\"_blank\">こちら\u003C/a>で検索・確認することができます。"
+   },
+   "defaultDocumentation2": {
+      "message": "ファームウェア リリースノートは、GitHub リリースページの\u003Ca href=\"https://github.com/Betaflight/Betaflight/releases\" target=\"_blank\">こちら\u003C/a>で確認いただけます。"
+   },
+   "defaultDocumentationHead": {
+      "message": "ドキュメント / マニュアル"
+   },
+   "defaultDonate": {
+      "message": "寄付"
+   },
+   "defaultDonateHead": {
+      "message": "オープンソース / 寄付について"
+   },
+   "defaultDonateText": {
+      "message": "\u003Cstrong>Betaflight\u003C/strong>は\u003Cstrong>オープンソース\u003C/strong>であり、すべてのユーザに対し無償かつ\u003Cstrong>無保証\u003C/strong>で提供されるフライトコントローラソフトウェアです。\u003Cbr/>もし、あなたがBetaflightやBetaflight Configuratorを非常に便利だと感じ\u003C/strong>サポートしたい！\u003C/strong>と思ったら、ぜひ寄付をご検討下さい。"
+   },
+   "defaultFacebookText": {
+      "message": "私たちは\u003Ca href=\"https://www.facebook.com/groups/betaflightgroup/\" target=\"_blank\">Facebookグループ\u003C/a>も運営しています。\u003Cbr />私たちと一緒にBetaflightについて語り合い、設定に関する質問をしたり、パイロット同士で交流してみましょう。"
+   },
+   "defaultPrivacyPolicyAction": {
+      "message": "プライバシーポリシー"
+   },
+   "defaultSponsorsHead": {
+      "message": "スポンサー"
+   },
+   "defaultSupport": {
+      "message": "サポートに関しては、最初に検索フォーラムやwiki、もしくはベンダーにお問い合わせ下さい。\u003Cbr />\u003Cbr />"
+   },
+   "defaultSupport1": {
+      "message": "\u003Ca href=\"http://www.rcgroups.com/forums/showthread.php?t=2464844&page=1\" target=\"_blank\">RC Groups スレッド\u003C/a>"
+   },
+   "defaultSupport2": {
+      "message": "\u003Ca href=\"http://betaflight.info\" target=\"_blank\">Betaflight Wiki\u003C/a>"
+   },
+   "defaultSupport3": {
+      "message": "\u003Ca href=\"https://www.youtube.com/playlist?list=PLwoDb7WF6c8kdK6yHr7vhsU9iRTr5HxP4\" target=\"_blank\">Joshua Bardwell Betaflight Videos\u003C/a>"
+   },
+   "defaultSupport4": {
+      "message": "\u003Ca href=\"https://github.com/Betaflight\" target=\"_blank\">GitHub\u003C/a>"
+   },
+   "defaultSupport5": {
+      "message": "\u003Ca href=\"https://slack.betaflight.com\" target=\"_blank\">Betaflight devs on slack\u003C/a>"
+   },
+   "defaultSupportHead": {
+      "message": "サポート"
+   },
+   "defaultSupportSubline1": {
+      "message": "開発元サポートページ"
+   },
+   "defaultSupportSubline2": {
+      "message": "開発者向けサイト"
+   },
+   "defaultWelcomeHead": {
+      "message": "ハードウェア"
+   },
+   "defaultWelcomeIntro": {
+      "message": "\u003Cstrong>Betaflight - Configurator\u003C/strong>へようこそ。\u003Cbr />このユーティリティは、フライトコントローラの設定やチューニングを簡単に更新できるよう設計されています。"
+   },
+   "defaultWelcomeText": {
+      "message": "このアプリケーションは、Betaflightを実行できるすべてのハードウェアをサポートしています。対応するハードウェアの完全なリストについては、[ファームフラッシャー] タブを確認して下さい。\u003Cbr>\u003Cbr>\u003Ca href=\"https://github.com/betaflight/blackbox-log-viewer/releases\" target=\"_blank\">Betaflight Blackbox Log Viewerをダウンロード\u003C/a>\u003Cbr />\u003Cbr />ファームウェアのソースコードのダウンロード先は\u003Ca href=\"https://github.com/betaflight/betaflight\" title=\"www.github.com\" target=\"_blank\">こちら\u003C/a>\u003Cbr />\u003Cbr />最新の\u003Ca href=\"http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx\" title=\"http://www.silabs.com\" target=\"_blank\">CP210xドライバ\u003C/a>のダウンロード先は\u003Ca href=\"http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx\" title=\"http://www.silabs.com\" target=\"_blank\">こちら\u003C/a>\u003Cbr />最新の\u003Ca href=\"http://www.st.com/web/en/catalog/tools/PF257938\" title=\"http://www.st.com\" target=\"_blank\">STM USB VCPドライバ\u003C/a>のダウンロード先は\u003Ca href=\"http://www.st.com/web/en/catalog/tools/PF257938\" title=\"http://www.st.com\" target=\"_blank\">こちら\u003C/a>\u003Cbr />最新のWindows用\u003Ca href=\"http://zadig.akeo.ie/\" title=\"http://zadig.akeo.ie\" target=\"_blank\">Zadig\u003C/a>USBドライバ インストーラのダウンロード先は\u003Ca href=\"http://zadig.akeo.ie/\" title=\"http://zadig.akeo.ie\" target=\"_blank\">こちら\u003C/a>\u003Cbr />"
+   },
+   "deviceReady": {
+      "message": "デバイス - \u003Cspan class=\"message-positive\">準備完了\u003C/span>"
+   },
+   "deviceRebooting": {
+      "message": "デバイス - \u003Cspan class=\"message-negative\">再起動中\u003C/span>"
+   },
+   "dfu_connect_message": {
+      "message": "DFUデバイスへのアクセスはファームフラッシャーを使用して下さい"
+   },
+   "dfu_device_flash_info": {
+      "message": "検出されたデバイスの合計フラッシュメモリサイズ $1 KB"
+   },
+   "dfu_erased_kilobytes": {
+      "message": "フラッシュメモリ内の$1 KBを\u003Cspan class=\"message-positive\">正常\u003C/span>に消去しました。"
+   },
+   "dfu_error_image_size": {
+      "message": "\u003Cspan class=\"message-negative\">エラー\u003C/span>: 指定した画像サイズが利用可能サイズより大きいです！画像: $1 KB, 制限値= $2 KB"
+   },
+   "dialogConfirmResetClose": {
+      "message": "キャンセル"
+   },
+   "dialogConfirmResetConfirm": {
+      "message": "リセット"
+   },
+   "dialogConfirmResetNote": {
+      "message": "警告: 本当に全ての設定を初期化しますか？"
+   },
+   "dialogConfirmResetTitle": {
+      "message": "確定"
+   },
+   "dialogCopyProfileClose": {
+      "message": "キャンセル"
+   },
+   "dialogCopyProfileConfirm": {
+      "message": "コピー"
+   },
+   "dialogCopyProfileNote": {
+      "message": "出力先のProfileは全て消去、上書きされます"
+   },
+   "dialogCopyProfileText": {
+      "message": "現在のProfileをコピー"
+   },
+   "dialogCopyProfileTitle": {
+      "message": "Profileをコピー"
+   },
+   "dialogCopyRateProfileText": {
+      "message": "現在のRateprofileをコピー"
+   },
+   "disconnect": {
+      "message": "切断"
+   },
+   "eeprom_saved_ok": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "error": {
+      "message": "エラー: {{errorMessage}}"
+   },
+   "errorTitle": {
+      "message": "エラー"
+   },
+   "expertMode": {
+      "message": "Expertモード 有効"
+   },
+   "expertModeDescription": {
+      "message": "未リリース、未検証ビルド版を表示"
+   },
+   "failsafeChannelFallbackSettingsAuto": {
+      "message": "\u003Cstrong>自動\u003C/strong>は、ロール、ピッチ、ヨーがスロットル・中央とスロットル・ローであること意味します。 \u003Cstrong>ホールド\u003C/strong>は、受信した最後の良好な値を保持することを意味します。"
+   },
+   "failsafeChannelFallbackSettingsHelp": {
+      "message": "これらの設定は、無効な個々のAUXチャンネルまたはステージ1に入るときの全てのチャンネルに適用されます。 \u003Cstrong>注意:\u003C/strong> 値は25usec単位で保存されるため、小さな変化は消失します。"
+   },
+   "failsafeChannelFallbackSettingsHold": {
+      "message": "\u003Cstrong>ホールド\u003C/strong>は、受信した最後の良好な値を保持することを意味します。\u003Cstrong>セット\u003C/strong>は、ここで指定された値が使用されることを意味します"
+   },
+   "failsafeChannelFallbackSettingsTitle": {
+      "message": "チャンネルフォールバック設定"
+   },
+   "failsafeDelayHelp": {
+      "message": "ステージ1の回復を待つための時間"
+   },
+   "failsafeDelayItem": {
+      "message": "信号損失後のステージ2 起動時保護時間 [1 = 0.1秒]"
+   },
+   "failsafeFeaturesHelpNew": {
+      "message": "フェイルセーフには２つの段階があります。\u003Cstrong>ステージ1\u003C/strong> [第1段階] は送受信間の信号が無効、もしくは不安定な場合、受信機がフェイルセーフ信号を出力した場合、または受信機からの信号が全くない場合に実行され、\u003Cspan class=\"message-negative\">全てのチャンネル\u003C/span>にチャンネルフォールバック設定が適用、復旧可能と設定した時間の中で作動します。\u003Cstrong>ステージ2\u003C/strong> [第2段階] は、機体が\u003Cspan class=\"message-negative\">アーム\u003C/span>されている際、あらかじめ設定した復旧可能時間よりも長くかかると切り替わり、却下しない限り選択された手順により、全てのチャンネルが適用されたチャンネルフォールバック設定のままとなります。\u003Cbr />\u003Cstrong>注:\u003C/strong> ステージ1が作動する前に、チャンネルフォールバック設定は無効な信号になっている個々のAUXチャンネルにも適用されます。"
+   },
+   "failsafeFeaturesHelpOld": {
+      "message": "フェイルセーフ設定が大幅に変更されました。 改善された設定パネルを有効にするには、Betaflight \u003Cstrong>v1.12.0 以上\u003C/strong> を使用して下さい。"
+   },
+   "failsafeKillSwitchHelp": {
+      "message": "このオプションを設定すると、フェイルセーフスイッチ ([モード] タブ内) で選択されたフェイルセーフの手順を省略し、直接強制停止スイッチとして機能させます。 \u003Cstrong>注:\u003C/strong> フェイルセーフ強制停止スイッチがオンの状態では、アーミングはできません。"
+   },
+   "failsafeKillSwitchItem": {
+      "message": "フェイルセーフ 強制停止スイッチ ([モード] タブでフェイルセーフを設定)"
+   },
+   "failsafeOffDelayHelp": {
+      "message": "モーターがオフになり、機体がディスアームされるまで着陸モードに留まる時間"
+   },
+   "failsafeOffDelayItem": {
+      "message": "フェイルセーフ時にモーターをオフするための遅延時間 [1 = 0.1秒]"
+   },
+   "failsafePaneTitleOld": {
+      "message": "受信機フェイルセーフ"
+   },
+   "failsafeProcedureItemSelect1": {
+      "message": "着陸"
+   },
+   "failsafeProcedureItemSelect2": {
+      "message": "落下"
+   },
+   "failsafePulsrangeHelp": {
+      "message": "最小値よりも短い、もしくは最大値よりも長いパルスは無効とし、またAUXチャンネル個々のチャンネルフォールバックの設定の適用、またはフライトチャネル ステージ1への入力をトリガーとします。"
+   },
+   "failsafePulsrangeTitle": {
+      "message": "パルス有効範囲の設定"
+   },
+   "failsafeRxMaxUsecItem": {
+      "message": "範囲 最大値"
+   },
+   "failsafeRxMinUsecItem": {
+      "message": "範囲 最小値"
+   },
+   "failsafeStageTwoSettingsTitle": {
+      "message": "ステージ2 - 設定"
+   },
+   "failsafeSubTitle1": {
+      "message": "ステージ2 - フェイル セーフ手順"
+   },
+   "failsafeSwitchModeHelp": {
+      "message": "このオプションは、フェイルセーフがAUXスイッチを介して有効となったときの動作を決定します。\u003Cbr/>\u003Cstrong>ステージ1\u003C/strong> は、ステージ1のフェイルセーフをオンにします。 これは、フェイルセーフの動作をシミュレートする場合に便利な機能です。\u003Cbr/>\u003Cstrong>ステージ2\u003C/strong> はステージ1をスキップし、すぐにステージ2をオンにします。\u003Cbr/>\u003Cstrong>強制停止\u003C/strong> は、即座にディスアームします。 (クワッドコプターは墜落してしまいます)"
+   },
+   "failsafeSwitchModeItem": {
+      "message": "フェイルセーフ スイッチ動作"
+   },
+   "failsafeSwitchOptionKill": {
+      "message": "強制停止"
+   },
+   "failsafeSwitchOptionStage1": {
+      "message": "ステージ1"
+   },
+   "failsafeSwitchOptionStage2": {
+      "message": "ステージ2"
+   },
+   "failsafeSwitchTitle": {
+      "message": "フェイルセーフ スイッチ"
+   },
+   "failsafeThrottleItem": {
+      "message": "着陸時に使用されるスロットル値"
+   },
+   "failsafeThrottleLowHelp": {
+      "message": "選択しているフェイルセーフを実行する代わりに、この時間の間スロットルが低かったとき機体をディスアームします。"
+   },
+   "failsafeThrottleLowItem": {
+      "message": "フェイルセーフ スロットル低遅延 [1 = 0.1 sec.]"
+   },
+   "fcInfoReceived": {
+      "message": "フライトコントローラ情報 ID: \u003Cstrong>$1\u003C/strong> バージョン: \u003Cstrong>$2\u003C/strong>"
+   },
+   "feature3D": {
+      "message": "3Dモード (ESC逆回転を利用)"
+   },
+   "featureAIRMODE": {
+      "message": "エアモードを常時使用"
+   },
+   "featureANTI_GRAVITY": {
+      "message": "スロットル可変時における一時的なI値のブースト"
+   },
+   "featureBLACKBOX": {
+      "message": "ブラックボックス フライトデータレコーダー"
+   },
+   "featureBLACKBOXTip": {
+      "message": "有効後 [ブラックボックス] タブで設定をして下さい。"
+   },
+   "featureCHANNEL_FORWARDING": {
+      "message": "AUXチャンネルをサーボ出力に転送"
+   },
+   "featureCURRENT_METER": {
+      "message": "バッテリー電流モニタリング"
+   },
+   "featureDISPLAY": {
+      "message": "LEDディスプレイ"
+   },
+   "featureDISPLAYTip": {
+      "message": "この機能が有効、かつディスプレイが接続されていない (またはディスプレイの電源が入っていない) 場合、フライトコントローラの再起動毎に約10秒の遅延が発生します。"
+   },
+   "featureDYNAMIC_FILTER": {
+      "message": "動的ジャイロ ノッチフィルター"
+   },
+   "featureESC_SENSOR": {
+      "message": "センサーとしてKISS/BLHeli_32 ESCを使用"
+   },
+   "featureFAILSAFE": {
+      "message": "フェイルセーフ ステージ2を有効"
+   },
+   "featureFAILSAFEOld": {
+      "message": "フェイルセーフを有効"
+   },
+   "featureFAILSAFEOldTip": {
+      "message": "受信信号損失時にフェイルセーフの設定を適用"
+   },
+   "featureFAILSAFETip": {
+      "message": "\u003Cstrong>注: \u003C/strong>ステージ2を無効にすると、全てのフライトチャンネル (ロール、ピッチ、ヨー、スロットル) のユーザ設定ではなく、フォールバック設定の\u003Cstrong>自動\u003C/strong>が適用されます。"
+   },
+   "featureGPS": {
+      "message": "ナビゲーションとテレメトリー用のGPS"
+   },
+   "featureGPSTip": {
+      "message": "最初にポートの設定をして下さい"
+   },
+   "featureINFLIGHT_ACC_CAL": {
+      "message": "フライト中の水平キャリブレーション"
+   },
+   "featureLED_STRIP": {
+      "message": "マルチカラーLEDストリップ サポート"
+   },
+   "featureMOTOR_STOP": {
+      "message": "アーム後にモーターを回転させない"
+   },
+   "featureNone": {
+      "message": "&lt;一つ選択&gt;"
+   },
+   "featureONESHOT125": {
+      "message": "ONESHOT ESCサポート"
+   },
+   "featureONESHOT125Tip": {
+      "message": "この機能を有効にする前に、必ずバッテリーとプロペラを外して下さい。"
+   },
+   "featureOSD": {
+      "message": "オンスクリーンディスプレイ"
+   },
+   "featureRSSI_ADC": {
+      "message": "アナログRSSI 入力"
+   },
+   "featureRX_MSP": {
+      "message": "MSP受信入力 (MSPポート経由制御)"
+   },
+   "featureRX_PARALLEL_PWM": {
+      "message": "PWM受信入力 (1chあたり1本)"
+   },
+   "featureRX_PPM": {
+      "message": "PPM受信入力"
+   },
+   "featureRX_SERIAL": {
+      "message": "シリアル接続受信機 (SPEKSAT、SBUS、SUMD)"
+   },
+   "featureRX_SPI": {
+      "message": "SPI受信サポート"
+   },
+   "featureSDCARD": {
+      "message": "SDカード対応 (ログ用)"
+   },
+   "featureSERVO_TILT": {
+      "message": "サーボジンバル"
+   },
+   "featureSOFTSERIAL": {
+      "message": "CPUベース シリアルポート 有効"
+   },
+   "featureSOFTSERIALTip": {
+      "message": "有効後 [ポート] タブよりポートの設定をして下さい。"
+   },
+   "featureSONAR": {
+      "message": "ソナー 超音波距離センサー"
+   },
+   "featureSUPEREXPO_RATES": {
+      "message": "Super Expo レート"
+   },
+   "featureTELEMETRY": {
+      "message": "テレメトリー出力"
+   },
+   "featureTRANSPONDER": {
+      "message": "トランスポンダー"
+   },
+   "featureTRANSPONDERTip": {
+      "message": "有効後 [トランスポンダー] タブで設定をして下さい。"
+   },
+   "featureVBAT": {
+      "message": "バッテリー電圧モニタリング"
+   },
+   "featureVTX": {
+      "message": "ビデオ送信機"
+   },
+   "firmwareFlasherBaudRate": {
+      "message": "伝送速度"
+   },
+   "firmwareFlasherButtonDownloading": {
+      "message": "ダウンロード中..."
+   },
+   "firmwareFlasherButtonLeave": {
+      "message": "ファームフラッシャーより退避"
+   },
+   "firmwareFlasherButtonLoadLocal": {
+      "message": "ファームウェアを選択 [Local]"
+   },
+   "firmwareFlasherButtonLoadOnline": {
+      "message": "ファームウェアを選択 [Online]"
+   },
+   "firmwareFlasherCommiter": {
+      "message": "コミッター:"
+   },
+   "firmwareFlasherDate": {
+      "message": "日付:"
+   },
+   "firmwareFlasherFailedToLoadOnlineFirmware": {
+      "message": "リモートファームウェアの読込みに失敗しました"
+   },
+   "firmwareFlasherFirmwareLocalLoaded": {
+      "message": "読込まれたローカル ファームウェア: ($1 bytes)"
+   },
+   "firmwareFlasherFirmwareNotLoaded": {
+      "message": "ファームウェアが読込まれていません"
+   },
+   "firmwareFlasherFlashDevelopmentFirmware": {
+      "message": "開発中のファームウェアを適用"
+   },
+   "firmwareFlasherFlashDevelopmentFirmwareDescription": {
+      "message": "最新の (未検証) 開発ファームウェアを書込みします。"
+   },
+   "firmwareFlasherFlashFirmware": {
+      "message": "ファームウェアの更新"
+   },
+   "firmwareFlasherFlashOnConnect": {
+      "message": "接続時に書込み"
+   },
+   "firmwareFlasherFlashOnConnectDescription": {
+      "message": "FCボードを自動的に点滅 (新たに検出されたシリアルポートによって起動)"
+   },
+   "firmwareFlasherFlashTrigger": {
+      "message": "検出: \u003Cstrong>$1\u003C/strong> - 接続時フラッシュをトリガーとします"
+   },
+   "firmwareFlasherFullChipErase": {
+      "message": "チップメモリの完全消去"
+   },
+   "firmwareFlasherFullChipEraseDescription": {
+      "message": "FCボードに現在保存されている全ての設定データを消去します。"
+   },
+   "firmwareFlasherGithubInfoHead": {
+      "message": "GitHub ファーム情報"
+   },
+   "firmwareFlasherHash": {
+      "message": "ハッシュ:"
+   },
+   "firmwareFlasherHexCorrupted": {
+      "message": "HEXファイルが破損しているようです"
+   },
+   "firmwareFlasherLoadFirmwareFile": {
+      "message": "ファームウェアファイルを選択して下さい"
+   },
+   "firmwareFlasherManualBaud": {
+      "message": "伝送速度の手動選択"
+   },
+   "firmwareFlasherManualBaudDescription": {
+      "message": "シリアル接続に対しデフォルト伝送速度に対応しない、またはBluetooth経由で書込みするFCボードの伝送速度を手動で選択します。\u003Cbr />\u003Cspan class=\"message-negative\">注:\u003C/span> USB DFUで書き込みさせる場合は使用しません。"
+   },
+   "firmwareFlasherManualPort": {
+      "message": "ポート"
+   },
+   "firmwareFlasherMessage": {
+      "message": "メッセージ:"
+   },
+   "firmwareFlasherNoFirmwareSelected": {
+      "message": "\u003Cb>ロードするファームウェア 未選択\u003C/b>"
+   },
+   "firmwareFlasherNoReboot": {
+      "message": "再起動シーケンスなし"
+   },
+   "firmwareFlasherNoRebootDescription": {
+      "message": "FCがBOOTモードの場合に有効とします。具体的にはブートローダーのピンをジャンパさせたり、BOOTボタンを押しながらFCの電源を入れた場合に有効とします。"
+   },
+   "firmwareFlasherNoValidPort": {
+      "message": "\u003Cspan class=\"message-negative\">有効なシリアルポートを選択して下さい\u003C/span>"
+   },
+   "firmwareFlasherOnlineSelectBoardDescription": {
+      "message": "FCボードチップセットを選択すると、オンラインでファームウェアの確認ができます - 適切なファームウェアを選択して下さい。"
+   },
+   "firmwareFlasherOnlineSelectBuildType": {
+      "message": "使用可能なFCボードを表示するには、ビルドタイプを選択します。"
+   },
+   "firmwareFlasherOnlineSelectFirmwareVersionDescription": {
+      "message": "FCボードのファームウェアバージョンを選択して下さい。"
+   },
+   "firmwareFlasherOptionLabelBuildTypeAKK3_3": {
+      "message": "3.3 AKK & RDQ VTX パッチ"
+   },
+   "firmwareFlasherOptionLabelBuildTypeAKK3_4": {
+      "message": "3.4 AKK & RDQ VTX パッチ"
+   },
+   "firmwareFlasherOptionLabelBuildTypeDevelopment": {
+      "message": "開発用"
+   },
+   "firmwareFlasherOptionLabelBuildTypeRelease": {
+      "message": "リリース"
+   },
+   "firmwareFlasherOptionLabelBuildTypeReleaseCandidate": {
+      "message": "リリースおよびRCバージョン"
+   },
+   "firmwareFlasherOptionLabelSelectBoard": {
+      "message": "FCボードを選択して下さい"
+   },
+   "firmwareFlasherOptionLabelSelectFirmware": {
+      "message": "ファームウェア / ボードを選択"
+   },
+   "firmwareFlasherOptionLabelSelectFirmwareVersion": {
+      "message": "ファームウェアバージョンを選択"
+   },
+   "firmwareFlasherOptionLabelSelectFirmwareVersionFor": {
+      "message": "ファームウェアバージョンを選択"
+   },
+   "firmwareFlasherOptionLoading": {
+      "message": "ロード中..."
+   },
+   "firmwareFlasherPath": {
+      "message": "パス:"
+   },
+   "firmwareFlasherPreviousDevice": {
+      "message": "検出: \u003Cstrong>$1\u003C/strong> - 以前のデバイスがまだ書込まれています。再接続してもう一度お試し下さい。"
+   },
+   "firmwareFlasherProgress": {
+      "message": "進捗:"
+   },
+   "firmwareFlasherRecoveryHead": {
+      "message": "\u003Cstrong>リカバリー / 通信ロスト\u003C/strong>"
+   },
+   "firmwareFlasherRecoveryText": {
+      "message": "FCボードとの通信が切断された場合は、次の手順に従って通信を復元して下さい: \u003Cul>\u003Cli>電源をオフします。\u003C/li>\u003Cli>[再起動シーケンスなし] を有効にし [チップメモリの完全消去] を有効にします。\u003C/li>\u003Cli>BOOTピンをジャンパするか、またはBOOTボタンを押し続けます。\u003C/li>\u003Cli>電源をオンします。 (正しく行われればアクティビティLEDは点滅しません) \u003C/li>\u003Cli>必要に応じて、全てのSTM32ドライバとZadigをインストールします。 (Betaflightマニュアルの [\u003Ca href=\"https://github.com/betaflight/betaflight/wiki/Installing-Betaflight\"target=\"_blank\">USB Flashing\u003C/a>] 章を参照) \u003C/li>\u003Cli>Configuratorを閉じ、全てのChromeアプリケーションを終了し、Configuratorを再起動します。\u003C/li>\u003Cli>FCのBOOTボタン1つだけであれば、BOOTボタンを放して下さい。\u003C/li>\u003Cli>正常なファームウェアをフラッシュして下さい。 (FCのマニュアルで指定されている場合は手動で伝送速度を調整して下さい) \u003C/li>\u003Cli>電源をオフします。\u003C/li>\u003Cli>BOOTピンのジャンパを取り外します。\u003C/li>\u003Cli>電源をオンします。 (アクティビティLEDが点滅するはずです) \u003C/li>\u003Cli>再度、通常通り接続して下さい。\u003C/li>\u003C/ul>"
+   },
+   "firmwareFlasherReleaseDate": {
+      "message": "日付:"
+   },
+   "firmwareFlasherReleaseFile": {
+      "message": "Binary:"
+   },
+   "firmwareFlasherReleaseFileUrl": {
+      "message": "手動でダウンロードして下さい。"
+   },
+   "firmwareFlasherReleaseName": {
+      "message": "名前 / Version:"
+   },
+   "firmwareFlasherReleaseNotes": {
+      "message": "リリースノート:"
+   },
+   "firmwareFlasherReleaseStatus": {
+      "message": "状態:"
+   },
+   "firmwareFlasherReleaseStatusReleaseCandidate": {
+      "message": "\u003Cspan class=\"message-negative\">重要: このファームウェアリリースは現在、リリース候補としてマークされています。問題があれば直ちに報告して下さい。\u003C/span>"
+   },
+   "firmwareFlasherReleaseSummaryHead": {
+      "message": "リリース情報"
+   },
+   "firmwareFlasherReleaseTarget": {
+      "message": "Target:"
+   },
+   "firmwareFlasherReleaseVersionUrl": {
+      "message": "リリースページを参照下さい。"
+   },
+   "firmwareFlasherRemoteFirmwareLoaded": {
+      "message": "\u003Cspan class=\"message-positive\">リモートファームウェアがロードされ、書換え準備ができました\u003C/span>"
+   },
+   "firmwareFlasherShowDevelopmentReleases": {
+      "message": "未検証版リリースを表示"
+   },
+   "firmwareFlasherShowDevelopmentReleasesDescription": {
+      "message": "安定版リリースに加えRC版リリースも表示"
+   },
+   "firmwareFlasherSize": {
+      "message": "サイズ:"
+   },
+   "firmwareFlasherStatus": {
+      "message": "状態:"
+   },
+   "firmwareFlasherTargetWarning": {
+      "message": "\u003Cspan class=\"message-negative\">重要:\u003C/span> チップセットに即したファームウェアを書込みするようにして下さい。間違ったファームウェアを書込みさせると、\u003Cspan class=\"message-negative\">最悪な問題\u003C/span>が起こってしまう可能性があります。"
+   },
+   "firmwareFlasherUrl": {
+      "message": "このコミットを確認するにはGitHubへ移動します..."
+   },
+   "firmwareFlasherWarningText": {
+      "message": "このファームフラッシャーで\u003Cstrong>Betaflight以外\u003C/strong>のフラッシュイメージを\u003Cspan class=\"message-negative\">書換えないで\u003C/span>下さい。\u003Cbr />書換えをしている間はボードを\u003Cstrong>取り外したり\u003C/strong>、コンピュータの\u003Cstrong>電源を切ったり\u003C/strong>\u003Cspan class=\"message-negative\">しないで\u003C/span>下さい。\u003Cbr />\u003Cbr />\u003Cstrong>注:\u003C/strong> \n STM32ブートローダーはROMに格納されており、別途生成や改修はできません。\u003Cbr />\u003Cstrong>注:\u003C/strong> ファームフラッシャーモードの間は、\u003Cspan class=\"message-negative\">自動接続\u003C/span>は常に無効になっています。\u003Cbr />\u003Cstrong>注:\u003C/strong> バックアップがあることを確認して下さい。アップグレード / ダウングレードでいくつかの設定が消去される場合があります。\u003Cbr />\u003Cstrong>注:\u003C/strong> 書換えに問題がある場合は、\u003Cstrong>FCから全てのケーブルを取り外し\u003C/strong>最初に再起動を行い、Chromeの最新アップグレード、ドライバのアップグレードをお試し下さい。\u003Cbr />\u003Cstrong>注:\u003C/strong> (大部分の最新FCボードに) 直接USBソケットを搭載しているFCボードに対してファームウェアを書換えるときは、Betaflightマニュアルの [USB Flashing] 章を読み、正しいソフトウェアとドライバをインストールして下さい。"
+   },
+   "firmwareFlasherWritePermissions": {
+      "message": "このファイルに対する\u003Cspan class=\"message-negative\">書込み権限\u003C/span>がありません"
+   },
+   "firmwareTypeNotSupported": {
+      "message": "CLIモードを除き、Cleanflight / Betaflight 以外のファームウェアは\u003Cspan class=\"message-negative\">サポートされていません\u003C/span>。"
+   },
+   "firmwareUpgradeRequired": {
+      "message": "このデバイスのファームウェアは、新しいバージョンにアップグレードする必要があります。 書換えする前にCLIを使用してバックアップして下さい。 CLIのバックアップ / リストア手順はドキュメントに記載されています。\u003Cbr />または、アップグレードする準備ができていない場合は、旧バージョンのConfiguratorをダウンロードして使用して下さい。"
+   },
+   "firmwareVersion": {
+      "message": "ファームウェア: \u003Cstrong>$1\u003C/strong>"
+   },
+   "firmwareVersionNotSupported": {
+      "message": "このファームウェアバージョンは\u003Cspan class=\"message-negative\">サポートされていません\u003C/span>。\u003Cstrong>$1\u003C/strong>以上のバージョンのAPIをサポートするファームウェアにアップグレードして下さい。書換えする前にCLIを使用してバックアップして下さい。CLIのバックアップ / リストア手順はドキュメントに記載されています。\u003Cbr />または、アップグレードする準備ができていない場合は、旧バージョンのConfiguratorをダウンロードして使用して下さい。"
+   },
+   "gps3dFix": {
+      "message": "3次元測位"
+   },
+   "gpsAltitude": {
+      "message": "高度:"
+   },
+   "gpsDistToHome": {
+      "message": "ホームまでの距離:"
+   },
+   "gpsFixFalse": {
+      "message": "\u003Cspan class=\"text\">False\u003C/span>"
+   },
+   "gpsFixTrue": {
+      "message": "\u003Cspan class=\"text\">True\u003C/span>"
+   },
+   "gpsHead": {
+      "message": "GPS"
+   },
+   "gpsLat": {
+      "message": "緯度:"
+   },
+   "gpsLon": {
+      "message": "経度:"
+   },
+   "gpsMapHead": {
+      "message": "現在のGPS測位"
+   },
+   "gpsMapMessage1": {
+      "message": "インターネット接続を確認して下さい"
+   },
+   "gpsMapMessage2": {
+      "message": "GPS 3次元測位を取得中..."
+   },
+   "gpsSats": {
+      "message": "衛星数:"
+   },
+   "gpsSignalQty": {
+      "message": "個数"
+   },
+   "gpsSignalSatId": {
+      "message": "衛星ID"
+   },
+   "gpsSignalStr": {
+      "message": "電波強度:"
+   },
+   "gpsSignalStrHead": {
+      "message": "GPS強度"
+   },
+   "gpsSpeed": {
+      "message": "速度:"
+   },
+   "infoVersions": {
+      "description": "Message that appears in the GUI log panel indicating operating system, Chrome version and Configurator version",
+      "message": "実行中 - OS: \u003Cstrong>{{operatingSystem}}\u003C/strong>, Chrome: \u003Cstrong>{{chromeVersion}}\u003C/strong>, Configurator: \u003Cstrong>{{configuratorVersion}}\u003C/strong>"
+   },
+   "initialSetupAccelCalibEnded": {
+      "message": "水平 キャリブレーション \u003Cspan class=\"message-positive\">終了\u003C/span>"
+   },
+   "initialSetupAccelCalibStarted": {
+      "message": "水平 キャリブレーション 開始"
+   },
+   "initialSetupAccelTrimsHead": {
+      "message": "加速度センサー トリム"
+   },
+   "initialSetupArmingAllowed": {
+      "message": "アーム許可"
+   },
+   "initialSetupArmingDisableFlags": {
+      "message": "アーム無効フラグ:"
+   },
+   "initialSetupArmingDisableFlagsTooltip": {
+      "message": "現在アームが許可されていない理由を示すフラグのリストです。最も重要な値は、アームが行われたときの警告ビープ音の数です。これらのフラグの詳細については、Wiki (Arming Sequence＆Safety) ページを参照して下さい。"
+   },
+   "initialSetupAttitude": {
+      "message": "$1 度"
+   },
+   "initialSetupBackupAndRestoreApiVersion": {
+      "message": "\u003Cspan class=\"message-negative\">バックアップと復元の機能が無効です。\u003C/span>ファームウェアのAPIバージョンは\u003Cspan class=\"message-negative\">$1\u003C/span>ですが、バックアップと復元には\u003Cspan class=\"message-positive\">$2\u003C/span>が必要です。バックアップにはCLIをご利用下さい。方法についてはBetaflightドキュメントを参照して下さい。"
+   },
+   "initialSetupBackupRestoreText": {
+      "message": "不測の事態に備え必ず設定の\u003Cstrong>バックアップ\u003C/strong>を行って下さい。\u003Cstrong>CLI\u003C/strong>設定は\u003Cspan class=\"message-negative\">自動バックアップされません\u003C/span>。- CLIコマンドの [diff all] をご利用下さい。"
+   },
+   "initialSetupBackupSuccess": {
+      "message": "バックアップが\u003Cspan class=\"message-positive\">正常\u003C/span>に保存されました"
+   },
+   "initialSetupBattery": {
+      "message": "バッテリー電圧:"
+   },
+   "initialSetupBatteryAValue": {
+      "message": "$1 A"
+   },
+   "initialSetupBatteryHead": {
+      "message": "バッテリー"
+   },
+   "initialSetupBatteryMahValue": {
+      "message": "$1 mAh"
+   },
+   "initialSetupBatteryValue": {
+      "message": "$1 V"
+   },
+   "initialSetupButtonBackup": {
+      "message": "バックアップ"
+   },
+   "initialSetupButtonCalibrateAccel": {
+      "message": "水平 キャリブレーション"
+   },
+   "initialSetupButtonCalibrateMag": {
+      "message": "コンパス キャリブレーション"
+   },
+   "initialSetupButtonCalibratingText": {
+      "message": "キャリブレーション中..."
+   },
+   "initialSetupButtonRebootBootloader": {
+      "message": "ブートローダー / DFU を有効化"
+   },
+   "initialSetupButtonReset": {
+      "message": "設定をリセット"
+   },
+   "initialSetupButtonResetZaxis": {
+      "message": "リセット Z 軸、オフセット: 0 度"
+   },
+   "initialSetupButtonResetZaxisValue": {
+      "message": "リセット Z 軸、オフセット: $1 度"
+   },
+   "initialSetupButtonRestore": {
+      "message": "リストア"
+   },
+   "initialSetupButtonSave": {
+      "message": "保存"
+   },
+   "initialSetupCalibrateAccelText": {
+      "message": "\u003Cstrong>水平な場所\u003C/strong>に機体を置き、キャリブレーションを実行して下さい。キャリブレーションが終了するまで動かさないで下さい。"
+   },
+   "initialSetupCalibrateMagText": {
+      "message": "マルチローター機を最低でも\u003Cstrong>360度\u003C/strong>、全ての軸にて回転させて下さい。これを行うのに30秒程度かかります。"
+   },
+   "initialSetupDeclination": {
+      "message": "偏角"
+   },
+   "initialSetupDrawing": {
+      "message": "消費電流:"
+   },
+   "initialSetupDrawn": {
+      "message": "電流容量:"
+   },
+   "initialSetupEepromSaved": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "initialSetupFailsafe": {
+      "message": "フェイルセーフ:"
+   },
+   "initialSetupGPSHead": {
+      "message": "GPS"
+   },
+   "initialSetupInfoHead": {
+      "message": "情報"
+   },
+   "initialSetupInstrumentsHead": {
+      "message": "計器"
+   },
+   "initialSetupMagCalibEnded": {
+      "message": "コンパス キャリブレーション \u003Cspan class=\"message-positive\">終了\u003C/span>"
+   },
+   "initialSetupMagCalibStarted": {
+      "message": "コンパス キャリブレーション 開始"
+   },
+   "initialSetupMagHead": {
+      "message": "コンパス"
+   },
+   "initialSetupMaxCellV": {
+      "message": "セル電圧の最大値:"
+   },
+   "initialSetupMaximum": {
+      "message": "最大値:"
+   },
+   "initialSetupMinCellV": {
+      "message": "セル電圧の最小値:"
+   },
+   "initialSetupMinCommand": {
+      "message": "最小スティック値"
+   },
+   "initialSetupMinimum": {
+      "message": "最小値:"
+   },
+   "initialSetupMixerHead": {
+      "message": "ミキサータイプ"
+   },
+   "initialSetupModel": {
+      "message": "モデル: $1"
+   },
+   "initialSetupPitch": {
+      "message": "ピッチ:"
+   },
+   "initialSetupRSSI": {
+      "message": "RSSI:"
+   },
+   "initialSetupRSSIValue": {
+      "message": "$1 %"
+   },
+   "initialSetupRebootBootloaderText": {
+      "message": "\u003Cstrong>ブートローダー / DFU\u003C/strong> モードで再起動します。"
+   },
+   "initialSetupResetText": {
+      "message": "\u003Cstrong>デフォルト\u003C/strong>設定に戻します。"
+   },
+   "initialSetupRestoreSuccess": {
+      "message": "設定のリストアが\u003Cspan class=\"message-positive\">成功\u003C/span>しました"
+   },
+   "initialSetupRoll": {
+      "message": "ロール:"
+   },
+   "initialSetupSettingsRestored": {
+      "message": "\u003Cstrong>デフォルト設定\u003C/strong>に戻す"
+   },
+   "initialSetupThrottleHead": {
+      "message": "スロットル設定"
+   },
+   "initialSetupVoltageScale": {
+      "message": "電圧スケール値:"
+   },
+   "language_default": {
+      "message": "初期値"
+   },
+   "ledStripBlinkAlwaysOverlay": {
+      "message": "常時点滅"
+   },
+   "ledStripBlinkLandingOverlay": {
+      "message": "着陸時点滅"
+   },
+   "ledStripBlinkTitle": {
+      "message": "点滅"
+   },
+   "ledStripButtonSave": {
+      "message": "保存"
+   },
+   "ledStripClearAllButton": {
+      "description": "In the LED STRIP, clear all leds",
+      "message": "全消去"
+   },
+   "ledStripClearSelectedButton": {
+      "description": "In the LED STRIP, clear selected leds",
+      "message": "選択クリア"
+   },
+   "ledStripColorModifierTitle": {
+      "message": "カラー修正"
+   },
+   "ledStripColorSetupTitle": {
+      "description": "Color setup title of the led strip",
+      "message": "色の設定"
+   },
+   "ledStripDirD": {
+      "description": "Down direction in Color Mode in Led Strip",
+      "message": "D"
+   },
+   "ledStripDirE": {
+      "description": "East direction in Color Mode in Led Strip",
+      "message": "E"
+   },
+   "ledStripDirN": {
+      "description": "North direction in Color Mode in Led Strip",
+      "message": "N"
+   },
+   "ledStripDirS": {
+      "description": "South direction in Color Mode in Led Strip",
+      "message": "S"
+   },
+   "ledStripDirU": {
+      "description": "Up direction in Color Mode in Led Strip",
+      "message": "U"
+   },
+   "ledStripDirW": {
+      "description": "West direction in Color Mode in Led Strip",
+      "message": "W"
+   },
+   "ledStripEepromSaved": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "ledStripFunctionArmOption": {
+      "description": "One of the modes of the Led Strip",
+      "message": "アーム状態"
+   },
+   "ledStripFunctionBatteryOption": {
+      "description": "One of the modes of the Led Strip",
+      "message": "バッテリー"
+   },
+   "ledStripFunctionColorOption": {
+      "description": "One of the modes of the Led Strip",
+      "message": "色"
+   },
+   "ledStripFunctionGPSOption": {
+      "description": "One of the modes of the Led Strip",
+      "message": "GPS"
+   },
+   "ledStripFunctionModesOption": {
+      "description": "One of the modes of the Led Strip",
+      "message": "モード &amp; オリエンテーション"
+   },
+   "ledStripFunctionNoneOption": {
+      "description": "One of the modes of the Led Strip",
+      "message": "なし"
+   },
+   "ledStripFunctionRSSIOption": {
+      "description": "One of the modes of the Led Strip",
+      "message": "RSSI"
+   },
+   "ledStripFunctionRingOption": {
+      "description": "One of the modes of the Led Strip",
+      "message": "着信音"
+   },
+   "ledStripFunctionSection": {
+      "message": "LED機能"
+   },
+   "ledStripFunctionTitle": {
+      "message": "機能"
+   },
+   "ledStripH": {
+      "description": "Abbreviation of Hue in HSV (Hue, Saturation, Brightness) color model",
+      "message": "H"
+   },
+   "ledStripHelp": {
+      "message": "フライトコントローラは、個々のLEDストリップの色や効果を制御できます。\u003Cbr/>グリッド上にLEDを配置、配線順序を設定し、グリッド位置に従って機体にLEDを取り付けます。 ワイヤーオーダー番号のないLEDは保存されません。\u003Cbr />HSV値を編集するには、色を選択、ダブルクリックします。"
+   },
+   "ledStripIndecatorOverlay": {
+      "message": "インジケーター (マトリクスの位置を利用)"
+   },
+   "ledStripModeColorsModeAngle": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "アングル"
+   },
+   "ledStripModeColorsModeAnimation": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "アニメーション"
+   },
+   "ledStripModeColorsModeArmed": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "アーム"
+   },
+   "ledStripModeColorsModeBaro": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "気圧センサー"
+   },
+   "ledStripModeColorsModeBlinkBg": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "背景点滅"
+   },
+   "ledStripModeColorsModeDisarmed": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "ディスアーム"
+   },
+   "ledStripModeColorsModeGPSLocked": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "GPS: 捕捉"
+   },
+   "ledStripModeColorsModeGPSNoLock": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "GPS: 捕捉なし"
+   },
+   "ledStripModeColorsModeGPSNoSats": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "GPS: 衛星なし"
+   },
+   "ledStripModeColorsModeHeadfree": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "ヘッドフリー"
+   },
+   "ledStripModeColorsModeHorizon": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "ホライゾン"
+   },
+   "ledStripModeColorsModeMag": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "コンパス"
+   },
+   "ledStripModeColorsModeOrientation": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "オリエンテーション"
+   },
+   "ledStripModeColorsTitle": {
+      "message": "モードカラー"
+   },
+   "ledStripModesOrientationTitle": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "LEDオリエンテーション (モード &amp; オリエンテーション) とカラー"
+   },
+   "ledStripModesSpecialColorsTitle": {
+      "description": "One of the modes in Color Mode in Led Strip",
+      "message": "スペシャルカラー"
+   },
+   "ledStripOverlayTitle": {
+      "message": "オーバーレイ"
+   },
+   "ledStripRemainingText": {
+      "description": "In the LED STRIP, text next the counter of leds remaining",
+      "message": "残り:"
+   },
+   "ledStripS": {
+      "description": "Abbreviation of Saturation in HSV  (Hue, Saturation, Brightness) color model",
+      "message": "S"
+   },
+   "ledStripV": {
+      "description": "Abbreviation of Brightness in HSV  (Hue, Saturation, Brightness) color model",
+      "message": "V"
+   },
+   "ledStripVtxFunction": {
+      "message": "ラーソンスキャナー"
+   },
+   "ledStripVtxOverlay": {
+      "message": "VTX (VTX周波数で色を割り当て)"
+   },
+   "ledStripWarningsOverlay": {
+      "message": "警告灯"
+   },
+   "ledStripWiring": {
+      "description": "One of the modes in Led Strip",
+      "message": "LEDストリップ配線"
+   },
+   "ledStripWiringClearAllControl": {
+      "description": "Control button in the wiring modes in Led Strip",
+      "message": "全配線をクリア"
+   },
+   "ledStripWiringClearControl": {
+      "description": "Control button in the wiring modes in Led Strip",
+      "message": "選択クリア"
+   },
+   "ledStripWiringMessage": {
+      "description": "Message in the wiring modes in Led Strip",
+      "message": "ワイヤーオーダー番号のないLEDは保存されません。"
+   },
+   "ledStripWiringMode": {
+      "description": "One of the wiring modes in Led Strip",
+      "message": "ワイヤーオーダーモード"
+   },
+   "logActionHide": {
+      "message": "ログ非表示"
+   },
+   "logActionShow": {
+      "message": "ログ表示"
+   },
+   "loggingAutomaticallyRetained": {
+      "message": "自動的に以前のログファイルをロード: \u003Cstrong>$1\u003C/strong>"
+   },
+   "loggingBack": {
+      "message": "ログの終了 / 切断"
+   },
+   "loggingButtonLogFile": {
+      "message": "ログファイルの選択"
+   },
+   "loggingErrorLogFile": {
+      "message": "ログファイルを選択して下さい"
+   },
+   "loggingErrorNotConnected": {
+      "message": "最初に\u003Cstrong>接続\u003C/strong>する必要があります"
+   },
+   "loggingErrorOneProperty": {
+      "message": "少なくとも1つのプロパティからログを選択して下さい"
+   },
+   "loggingLogSize": {
+      "message": "ログサイズ:"
+   },
+   "loggingNote": {
+      "message": "ログデータは\u003Cspan class=\"message-negative\">このタブを選択している間のみ\u003C/span>記録されます。このタブから他へ切り替えると\u003Cspan class=\"message-negative\">ログは停止\u003C/span>し、通常の\u003Cstrong>Configurator\u003C/strong>の状態に戻ります。\u003Cbr />また項目全体のログ更新期間を自由に選択できます。パフォーマンス上の理由から、\u003Cstrong>1秒\u003C/strong>ごとにログファイルにデータが書き込まれます。"
+   },
+   "loggingSamplesSaved": {
+      "message": "サンプル保存:"
+   },
+   "loggingStart": {
+      "message": "ログを開始"
+   },
+   "loggingStop": {
+      "message": "ログを停止"
+   },
+   "mainHelpArmed": {
+      "message": "モーターアーミング"
+   },
+   "mainHelpFailsafe": {
+      "message": "フェイルセーフモード"
+   },
+   "mainHelpLink": {
+      "message": "シリアル接続状態"
+   },
+   "modeCameraChangeMode": {
+      "message": "カメラ モード切替"
+   },
+   "modeCameraPower": {
+      "message": "カメラ 電源ボタン"
+   },
+   "modeCameraWifi": {
+      "message": "カメラ Wi-Fiボタン"
+   },
+   "motorNumber1": {
+      "message": "モーター - 1"
+   },
+   "motorNumber2": {
+      "message": "モーター - 2"
+   },
+   "motorNumber3": {
+      "message": "モーター - 3"
+   },
+   "motorNumber4": {
+      "message": "モーター - 4"
+   },
+   "motorNumber5": {
+      "message": "モーター - 5"
+   },
+   "motorNumber6": {
+      "message": "モーター - 6"
+   },
+   "motorNumber7": {
+      "message": "モーター - 7"
+   },
+   "motorNumber8": {
+      "message": "モーター - 8"
+   },
+   "motorsADrawing": {
+      "message": "電流:"
+   },
+   "motorsADrawingValue": {
+      "message": "$1 A"
+   },
+   "motorsEnableControl": {
+      "message": "\u003Cstrong>リスクを認識し\u003C/strong>、プロペラは全て外しました - モーター制御とアーミングを可能にし、暴走離陸防止機能を無効にします。"
+   },
+   "motorsMaster": {
+      "message": "Master"
+   },
+   "motorsNotice": {
+      "message": "\u003Cstrong>モーターテストモード / アーミングでの注意:\u003C/strong>\u003Cbr />スライダーを動かすか、又は送信機から機体をアームした場合、モーターが\u003Cstrong>回転\u003C/strong>します。\u003Cbr />事故防止のために、この機能を使用する前に\u003Cstrong class=\"message-negative\">全てのプロペラ\u003C/strong>を取り外して下さい。\u003Cbr />モーターテストモードを有効にする事により一時的に暴走離陸防止機能が無効になります。これはプロペラを外した状態でベンチテストする際に機体がディスアームするのを防止するためです。\u003Cbr />"
+   },
+   "motorsResetMaximum": {
+      "message": "オーバータイム最大値をリセット"
+   },
+   "motorsResetMaximumButton": {
+      "message": "リセット"
+   },
+   "motorsSensorAccelSelect": {
+      "message": "加速度センサー"
+   },
+   "motorsSensorGyroSelect": {
+      "message": "ジャイロ"
+   },
+   "motorsText": {
+      "message": "モーター"
+   },
+   "motorsVoltage": {
+      "message": "電圧:"
+   },
+   "motorsVoltageValue": {
+      "message": "$1 V"
+   },
+   "motorsmAhDrawn": {
+      "message": "電流消費量:"
+   },
+   "motorsmAhDrawnValue": {
+      "message": "$1 mAh"
+   },
+   "noConfigurationReceived": {
+      "message": "\u003Cspan class=\"message-negative\">10秒\u003C/span>以内に構成情報を受信できず、通信に\u003Cspan class=\"message-negative\">失敗\u003C/span>しました。"
+   },
+   "noticeTitle": {
+      "message": "通知"
+   },
+   "notifications_app_just_updated_to_version": {
+      "message": "アプリケーション更新バージョン: $1"
+   },
+   "notifications_click_here_to_start_app": {
+      "message": "アプリケーションを起動するにはここをクリック"
+   },
+   "onboardLoggingBlackbox": {
+      "message": "ブラックボックス ログデバイス"
+   },
+   "onboardLoggingEraseInProgress": {
+      "message": "消去中、しばらくお待ち下さい..."
+   },
+   "onboardLoggingFlashLogger": {
+      "message": "オンボード データチップ"
+   },
+   "onboardLoggingMsc": {
+      "message": "大容量ストレージモード"
+   },
+   "onboardLoggingMscNotReady": {
+      "message": "ストレージデバイスが準備ができていないため、大容量ストレージモードを有効化できません。"
+   },
+   "onboardLoggingMscNote": {
+      "message": "\u003Cstrong>大容量ストレージ (MSC)\u003C/strong> モードで再起動します。有効にするとFCボードのオンボードフラッシュ領域、またはSDカードがPCのストレージデバイスとして認識され、ログファイルのダウンロードが可能となります。大容量ストレージモードを終了するには、FCボードを切り離し再起動を行います。"
+   },
+   "onboardLoggingOnboardSDCard": {
+      "message": "オンボードSDカード"
+   },
+   "onboardLoggingRateOfLogging": {
+      "message": "ブラックボックス ログレート"
+   },
+   "onboardLoggingRebootMscText": {
+      "message": "大容量ストレージモードを有効化"
+   },
+   "onboardLoggingSerialLogger": {
+      "message": "オンボード シリアルログデバイス"
+   },
+   "operationNotSupported": {
+      "message": "この機能はお使いのハードウェアではサポートされていません。"
+   },
+   "options_title": {
+      "message": "オプション設定"
+   },
+   "osdButtonSaved": {
+      "message": "保存しました"
+   },
+   "osdDescAntiGravity": {
+      "message": "Anti Gravity機能がオンの時、インジケーターを有効にします。"
+   },
+   "osdDescElementAdjustmentRange": {
+      "message": "現在アクティブな調整範囲の設定と値"
+   },
+   "osdDescElementAltitude": {
+      "message": "現在の高度 (アラーム値を超えると点滅)"
+   },
+   "osdDescElementArmed": {
+      "message": "アームメッセージ"
+   },
+   "osdDescElementArmedTime": {
+      "message": "機体が最後にアームしてからの時間"
+   },
+   "osdDescElementArtificialHorizon": {
+      "message": "水平表示"
+   },
+   "osdDescElementAvgCellVoltage": {
+      "message": "セル電圧平均値 (メインバッテリー電圧 / セル数)"
+   },
+   "osdDescElementBatteryWarning": {
+      "message": "バッテリー電圧が警告しきい値を下回ったときに表示される警告テキスト"
+   },
+   "osdDescElementCompassBar": {
+      "message": "現在のヘッディングを示すグラフィカルなコンパスバー"
+   },
+   "osdDescElementCoreTemperature": {
+      "message": "STM32 MCUコア温度"
+   },
+   "osdDescElementCraftName": {
+      "message": "[設定] タブで設定した機体名"
+   },
+   "osdDescElementCrosshairs": {
+      "message": "画面中央クロスマーク"
+   },
+   "osdDescElementCurrentDraw": {
+      "message": "瞬間電流量"
+   },
+   "osdDescElementDebug": {
+      "message": "デバッグ変数"
+   },
+   "osdDescElementDisarmed": {
+      "message": "ディスアームメッセージ"
+   },
+   "osdDescElementEscRpm": {
+      "message": "回転数レポート by ESCテレメトリー"
+   },
+   "osdDescElementEscTemperature": {
+      "message": "温度レポート by ESCテレメトリー"
+   },
+   "osdDescElementFlyMode": {
+      "message": "現在のフライトモード"
+   },
+   "osdDescElementFlyTime": {
+      "message": "アーム後の経過時間 (アラーム値を超えると点滅)"
+   },
+   "osdDescElementGPSLat": {
+      "message": "GPS緯度"
+   },
+   "osdDescElementGPSLon": {
+      "message": "GPS経度"
+   },
+   "osdDescElementGPSSats": {
+      "message": "GPSの有効衛星数"
+   },
+   "osdDescElementGPSSpeed": {
+      "message": "GPSによる速度"
+   },
+   "osdDescElementHomeDirection": {
+      "message": "ホームポジション方向を示す矢印"
+   },
+   "osdDescElementHomeDistance": {
+      "message": "ホームポジションまでの距離 (設定に基づいたフィートまたはメートル表示)"
+   },
+   "osdDescElementHorizonSidebars": {
+      "message": "ピッチ表示"
+   },
+   "osdDescElementMahDrawn": {
+      "message": "使用バッテリー総容量"
+   },
+   "osdDescElementMainBattUsage": {
+      "message": "バッテリー容量の使用状況をグラフ表示"
+   },
+   "osdDescElementMainBattVoltage": {
+      "message": "瞬間メインバッテリー電圧 (アラームしきい値以下の場合は点滅)"
+   },
+   "osdDescElementNumericalHeading": {
+      "message": "ヘッディング角度値"
+   },
+   "osdDescElementNumericalVario": {
+      "message": "垂直スピード値 (設定に基づいたフィートまたはメートル表示)"
+   },
+   "osdDescElementOnTime": {
+      "message": "電源投入からの経過時間"
+   },
+   "osdDescElementPIDPitch": {
+      "message": "ピッチ軸 PIDゲイン"
+   },
+   "osdDescElementPIDRateProfile": {
+      "message": "有効PIDおよびRateprofile数値表示"
+   },
+   "osdDescElementPIDRoll": {
+      "message": "ロール軸 PIDゲイン"
+   },
+   "osdDescElementPIDYaw": {
+      "message": "ヨー軸 PIDゲイン"
+   },
+   "osdDescElementPitchAngle": {
+      "message": "ピッチ角度値"
+   },
+   "osdDescElementPower": {
+      "message": "瞬間電力消費量"
+   },
+   "osdDescElementRemaningTimeEstimate": {
+      "message": "残り飛行時間の予測"
+   },
+   "osdDescElementRollAngle": {
+      "message": "ロール角度値"
+   },
+   "osdDescElementRssiValue": {
+      "message": "瞬間RSSI値 (アラームしきい値以下の場合は点滅)"
+   },
+   "osdDescElementRtcDateTime": {
+      "message": "ハードウェアクロック 日付 / 時間"
+   },
+   "osdDescElementThrottlePosition": {
+      "message": "現在のスロットルチャンネル値"
+   },
+   "osdDescElementTimer1": {
+      "message": "タイマー1の値を表示"
+   },
+   "osdDescElementTimer2": {
+      "message": "タイマー2の値を表示"
+   },
+   "osdDescElementUnknown": {
+      "message": "不明な構成要素 (将来のリリースで追加される予定)"
+   },
+   "osdDescElementWarnings": {
+      "message": "アラート (例: 電池切れ)、警告 (例: アーミング不可理由、バッテリーが非常に低い)、ビジュアルビープ (4点滅LED)。"
+   },
+   "osdDescGForce": {
+      "message": "どのくらいのG値(加速度)が機体に負荷をかけているかを示す"
+   },
+   "osdDescStatArmedTime": {
+      "message": "機体が最後にアームしてからの時間"
+   },
+   "osdDescStatBattery": {
+      "message": "リアルタイム バッテリー電圧"
+   },
+   "osdDescStatBlackbox": {
+      "message": "ブラックボックス合計使用率"
+   },
+   "osdDescStatBlackboxLogNumber": {
+      "message": "飛行後のブラックボックスログ番号"
+   },
+   "osdDescStatEndBattery": {
+      "message": "ディスアーム時バッテリー電圧"
+   },
+   "osdDescStatFlyTime": {
+      "message": "現在の電源サイクルで機体がアームしている合計時間"
+   },
+   "osdDescStatMaxAltitude": {
+      "message": "記録された最大高度"
+   },
+   "osdDescStatMaxCurrent": {
+      "message": "記録された最大電流値"
+   },
+   "osdDescStatMaxDistance": {
+      "message": "ホームロケーションからの最大距離"
+   },
+   "osdDescStatMaxSpeed": {
+      "message": "記録された最大スピード"
+   },
+   "osdDescStatMinBattery": {
+      "message": "記録されたメインバッテリーの最小電圧"
+   },
+   "osdDescStatMinRssi": {
+      "message": "記録されたRSSI最小値"
+   },
+   "osdDescStatRtcDateTime": {
+      "message": "ハードウェアクロックからの日付と時間"
+   },
+   "osdDescStatTimer1": {
+      "message": "ディスアーム時のタイマー1の値"
+   },
+   "osdDescStatTimer2": {
+      "message": "ディスアーム時のタイマー2の値"
+   },
+   "osdDescStatUsedMah": {
+      "message": "バッテリー容量"
+   },
+   "osdSectionHelpAlarms": {
+      "message": "アラーム状態をOSDに表示させるしきい値を設定します。"
+   },
+   "osdSectionHelpElements": {
+      "message": "OSDを有効、または無効にします。"
+   },
+   "osdSectionHelpStats": {
+      "message": "フライト統計情報を画面表示させる値を設定します。"
+   },
+   "osdSectionHelpTimers": {
+      "message": "フライトタイマーを設定します。"
+   },
+   "osdSectionHelpUnits": {
+      "message": "数値に対する単位を設定します。"
+   },
+   "osdSectionHelpVideoMode": {
+      "message": "カメラのビデオモードを設定します。(通常、カメラの出力形式と一致するように設定するのが難しい場合は自動のままとして下さい。)"
+   },
+   "osdSectionHelpWarnings": {
+      "message": "WARNINGS に表示される警告を有効または無効にします。"
+   },
+   "osdSettingsSaved": {
+      "message": "OSD設定を保存しました"
+   },
+   "osdSetupAlarmsTitle": {
+      "message": "アラーム"
+   },
+   "osdSetupButtonReset": {
+      "message": "設定をリセット"
+   },
+   "osdSetupCameraConnected": {
+      "message": "カメラが接続されました"
+   },
+   "osdSetupCameraConnectedValueNo": {
+      "message": "いいえ"
+   },
+   "osdSetupCameraConnectedValueYes": {
+      "message": "はい"
+   },
+   "osdSetupCraftNameTitle": {
+      "message": "機体名"
+   },
+   "osdSetupCustomLogoColorMapError": {
+      "message": "画像に無効なピクセルが含まれています: RGB({{valueR}}, {{valueG}}, {{valueB}}) 座標 {{posX}}×{{posY}}"
+   },
+   "osdSetupCustomLogoImageSizeError": {
+      "message": "画像サイズが無効: {{width}}×{{height}} (既定サイズ $t(logoWidthPx)×$t(logoHeightPx))"
+   },
+   "osdSetupCustomLogoInfoColorMap": {
+      "message": "緑・白・黒色ピクセルで構成しなければなりません"
+   },
+   "osdSetupCustomLogoInfoImageSize": {
+      "message": "サイズは $t(logoWidthPx)×$t(logoHeightPx) ピクセルでなければなりません"
+   },
+   "osdSetupCustomLogoInfoTitle": {
+      "message": "カスタム画像:"
+   },
+   "osdSetupCustomLogoInfoUploadHint": {
+      "message": "\u003Cb>$t(osdSetupUploadFont.message)\u003C/b> をクリックしカスタムロゴを保存して下さい"
+   },
+   "osdSetupCustomLogoOpenImageButton": {
+      "message": "カスタム画像を選択&hellip;"
+   },
+   "osdSetupCustomLogoTitle": {
+      "message": "起動ロゴ:"
+   },
+   "osdSetupElementsSwitchAll": {
+      "message": "全スイッチ"
+   },
+   "osdSetupElementsTitle": {
+      "message": "構成要素"
+   },
+   "osdSetupFontManager": {
+      "message": "フォントマネージャー"
+   },
+   "osdSetupFontPresets": {
+      "message": "フォントプリセット:"
+   },
+   "osdSetupFontPresetsSelector": {
+      "message": "フォントプリセットを選択:"
+   },
+   "osdSetupFontPresetsSelectorOr": {
+      "message": "or"
+   },
+   "osdSetupHead": {
+      "message": "お知らせ"
+   },
+   "osdSetupOpenFont": {
+      "message": "フォントファイルを開く"
+   },
+   "osdSetupPreviewHelp": {
+      "message": "\u003Cstrong>注:\u003C/strong> プレビュー画面のフォントは実際のフォントと異なる場合があります。"
+   },
+   "osdSetupPreviewTitle": {
+      "message": "プレビュー (ドラッグして位置を変更)"
+   },
+   "osdSetupPreviewTitleTip": {
+      "message": "表示またはプレビューウィンドウでロゴを非表示にします。フライトコント ローラの設定は変わりません。"
+   },
+   "osdSetupResetText": {
+      "message": "OSDを初期値にリセット"
+   },
+   "osdSetupSave": {
+      "message": "保存"
+   },
+   "osdSetupStatsTitle": {
+      "message": "フライト統計情報"
+   },
+   "osdSetupTimersTitle": {
+      "message": "タイマー"
+   },
+   "osdSetupTitle": {
+      "message": "OSD"
+   },
+   "osdSetupUncheckAll": {
+      "message": "全て選択解除"
+   },
+   "osdSetupUnitsTitle": {
+      "message": "単位"
+   },
+   "osdSetupUnsupportedNote1": {
+      "message": "お使いのフライトコントローラはBetaFlight OSDに対応していないようです。"
+   },
+   "osdSetupUnsupportedNote2": {
+      "message": "いくつかのフライトコントローラにはオンボード\u003Ca href=\"https://www.youtube.com/watch?v=ikKH_6SQ-Tk\" target=\"_blank\">MinimOSD\u003C/a>があり、これを\u003Ca href=\"https://github.com/ShikOfTheRa/scarab-osd/releases/latest\" target='_blank'>scarab-osd\u003C/a>で設定および書込みができますが、MinimOSDはこのインターフェイスでは設定できません。"
+   },
+   "osdSetupUploadFont": {
+      "message": "フォントアップロード"
+   },
+   "osdSetupVideoFormatTitle": {
+      "message": "ビデオ形式"
+   },
+   "osdSetupVideoMode": {
+      "message": "ビデオモード"
+   },
+   "osdSetupVtxTitle": {
+      "message": "VTX設定"
+   },
+   "osdSetupWarningsTitle": {
+      "message": "警告"
+   },
+   "osdTimerAlarm": {
+      "message": "アラーム:"
+   },
+   "osdTimerAlarmTooltip": {
+      "message": "タイマーアラームのしきい値を分単位で選択します。時間がこの値を超えると、OSD表示にて点滅し、これを0に設定するとアラームが無効になります。"
+   },
+   "osdTimerPrecision": {
+      "message": "精度:"
+   },
+   "osdTimerPrecisionTooltip": {
+      "message": "タイマー精度を選択します。これは、時間情報がどれくらいの精度でレポートされるかを制御します。"
+   },
+   "osdTimerSource": {
+      "message": "ソース:"
+   },
+   "osdTimerSourceTooltip": {
+      "message": "タイマーソースを選択します。これはタイマー計測する期間 / イベントを制御します。"
+   },
+   "osdWarningArmingDisabled": {
+      "message": "アーミングできない最も重大な理由を報告"
+   },
+   "osdWarningBatteryCritical": {
+      "message": "バッテリー電圧が最小平均セル電圧を下回ったときの警告"
+   },
+   "osdWarningBatteryNotFull": {
+      "message": "完全に充電されていないバッテリーが接続されたときの警告"
+   },
+   "osdWarningBatteryWarning": {
+      "message": "バッテリー電圧が警告しきい値を下回ったときの警告"
+   },
+   "osdWarningCrashFlipMode": {
+      "message": "クラッシュモードを有効後、フリップすると警告"
+   },
+   "osdWarningEscFail": {
+      "message": "障害が発生しているESC / モーターリストの列挙\n (回転数または温度が設定しきい値を超過)"
+   },
+   "osdWarningVisualBeeper": {
+      "message": "ビープを可視化 (4点滅LED表示)"
+   },
+   "osdWritePermissions": {
+      "message": "このファイルに対する\u003Cspan class = \"message-negative\">書込み権限\u003C/span>がありません"
+   },
+   "permanentExpertMode": {
+      "message": "Expertモード 常時有効"
+   },
+   "pidTuningAbsoluteControlGain": {
+      "message": "絶対的な制御"
+   },
+   "pidTuningAbsoluteControlGainHelp": {
+      "message": "この機能は、I値ローテーションのいくつかの根本的な問題を解決しますが、ある時点でそれを置き換えることが望ましいでしょう。この機能は、絶対的なジャイロエラーを座標に積算し、比例補正をセットポイントに混合します。RPYのiterm_relaxを有効にする必要があります。"
+   },
+   "pidTuningAcroTrainerAngleLimit": {
+      "message": "アクロトレーナー 角度制限"
+   },
+   "pidTuningAcroTrainerAngleLimitHelp": {
+      "message": "アクロモードでの飛行を練習しているパイロットのための新しい角度制限モードを追加します。有効範囲は10-80、$t(tabAuxiliary.message)タブのスイッチで有効となります。"
+   },
+   "pidTuningAltitude": {
+      "message": "気圧センサー・ソナー / 高度"
+   },
+   "pidTuningAngle": {
+      "message": "アングル"
+   },
+   "pidTuningAntiGravityGain": {
+      "message": "Anti Gravity 反重力 強さ"
+   },
+   "pidTuningAntiGravityMode": {
+      "message": "Anti Gravity 反重力 モード"
+   },
+   "pidTuningAntiGravityModeOptionSmooth": {
+      "description": "One of the modes of anti gravity",
+      "message": "スムーズ"
+   },
+   "pidTuningAntiGravityModeOptionStep": {
+      "description": "One of the modes of anti gravity",
+      "message": "ステップ"
+   },
+   "pidTuningAntiGravityThres": {
+      "message": "Anti Gravity 反重力 しきい値"
+   },
+   "pidTuningBasic": {
+      "message": "ベーシック / アクロ"
+   },
+   "pidTuningButtonRefresh": {
+      "message": "更新"
+   },
+   "pidTuningButtonSave": {
+      "message": "保存"
+   },
+   "pidTuningControllerHead": {
+      "message": "PIDコントローラ"
+   },
+   "pidTuningCopyProfile": {
+      "message": "Profileをコピー"
+   },
+   "pidTuningCopyRateProfile": {
+      "message": "Rateprofileをコピー"
+   },
+   "pidTuningDTermLowpass2Frequency": {
+      "message": "D値 ローパス2 カットオフ周波数 [Hz]"
+   },
+   "pidTuningDTermLowpassFiltersGroup": {
+      "message": "D値 ローパスフィルター"
+   },
+   "pidTuningDTermLowpassFrequency": {
+      "message": "D値 ローパス1 カットオフ周波数 [Hz]"
+   },
+   "pidTuningDTermLowpassType": {
+      "message": "D値 ローパス1 フィルタータイプ"
+   },
+   "pidTuningDTermNotchCutoff": {
+      "message": "D値 ノッチフィルター カットオフ周波数 [Hz]"
+   },
+   "pidTuningDTermNotchFiltersGroup": {
+      "message": "D値 ノッチフィルター"
+   },
+   "pidTuningDTermNotchFrequency": {
+      "message": "D値 ノッチフィルター 中心周波数 [Hz]"
+   },
+   "pidTuningDataRefreshed": {
+      "message": "PIDデータ \u003Cstrong>更新しました\u003C/strong>"
+   },
+   "pidTuningDelta": {
+      "message": "D値 メソッド"
+   },
+   "pidTuningDeltaError": {
+      "message": "エラー"
+   },
+   "pidTuningDeltaMeasurement": {
+      "message": "測定"
+   },
+   "pidTuningDeltaTip": {
+      "message": "\u003Cb>エラー D値メソッド\u003C/b>は、より直接的なスティックレスポンスを提供し、ほぼレース向けとなります。 \u003Cbr>\u003Cbr>\u003Cb>測定 D値メソッド\u003C/b>は、よりスムーズなスティックレスポンスを提供し、フリースタイル時により有用なものとなります。"
+   },
+   "pidTuningDerivative": {
+      "message": "Derivative"
+   },
+   "pidTuningDtermSetpoint": {
+      "message": "D値 セットポイント 影響力"
+   },
+   "pidTuningDtermSetpointHelp": {
+      "message": "このパラメータは、D値におけるスティック加速効果を決定します。\u003Cbr> 0の値はD値がジャイロのみを追従した古い測定方式、1の値はジャイロとスティック操作範囲を追従した古いエラー検出方式と同一です。\u003Cbr>低い値は、ゆっくり / スムースなスティックレスポンスに、高い値はスティック加速レスポンスとなります。\u003Cbr>RC補間は、制御キックバックノイズを発生しないよう高めの値にすることを推奨します。"
+   },
+   "pidTuningDtermSetpointTransition": {
+      "message": "D値 セットポイント 遷移"
+   },
+   "pidTuningDtermSetpointTransitionHelp": {
+      "message": "このパラメータを使用すると、D値セットポイントの影響力をスティック中央近くで減らすことができ、その結果フリップおよびロール時のエンドアクションがスムーズになります。\u003Cbr> この値はスティック偏向点を表します。0-スティック中心、1-完全偏向です。スティックがその値を上回ると、設定値の影響力は一定に保たれます。スティックがその値以下に位置すると、設定値の影響力は比例して減少し、スティックの中心位置で0になります。\u003Cbr> 1の値はスムージング効果を最大にし、0の値はスティック範囲全体にわたって設定値に固定します。"
+   },
+   "pidTuningDtermSetpointTransitionWarning": {
+      "message": "\u003Cspan class=\"message-negative\">\u003Cstrong>$t(warningTitle.message):\u003C/strong> 0より大きく0.1より小さいD値セットポイントの設定はしないで下さい。スティックが中心を横切るときに不安定となり、スティック応答性が低下する可能性があります。\u003C/span>"
+   },
+   "pidTuningEepromSaved": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "pidTuningFeedforward": {
+      "message": "Feedforward"
+   },
+   "pidTuningFeedforwardTransition": {
+      "message": "フィードフォワード遷移"
+   },
+   "pidTuningFeedforwardTransitionHelp": {
+      "message": "このパラメータを使用すると、スティックの中心付近でフィードフォワードを減らすことができ、フリップとロールのエンドアクションがスムーズになります。\u003Cbr>この値は、スティック偏向点を表します。0-スティック中心、1-完全偏向です。スティックがその値を上回ると、フィードフォワードは設定された値で一定に保たれます。スティックがその値以下に位置すると、フィードフォワードは比例して減少し、スティック中心位置で0になります。\u003Cbr>1の値はスムージング効果を最大にし、0の値はスティック範囲全体にわたって設定された値にフィードフォワードを固定します。"
+   },
+   "pidTuningFilter": {
+      "message": "フィルター"
+   },
+   "pidTuningFilterFrequency": {
+      "message": "周波数"
+   },
+   "pidTuningFilterSettings": {
+      "message": "Profile毎のフィルター設定"
+   },
+   "pidTuningFilterTip": {
+      "message": "\u003Cb>ジャイロフィルター:\u003C/b> ジャイロのローパスフィルターです。より多くフィルタリングするには低い値を使用します。 \u003Cbr>\u003Cb>D値フィルター:\u003C/b> D値のローパスフィルターです。 D値のチューニングに反映されます。より多くフィルタリングするには低い値を使用します。\u003Cbr>\u003Cb>ヨーフィルター:\u003C/b> ヨー出力をフィルタリングします。ノイズの多いヨー軸設定に効果が表れます。"
+   },
+   "pidTuningGps": {
+      "message": "GPSナビゲーション"
+   },
+   "pidTuningGyroLowpass2Frequency": {
+      "message": "ジャイロ ローパス2 カットオフ周波数 [Hz]"
+   },
+   "pidTuningGyroLowpass2Type": {
+      "message": "ジャイロ ローパス2 フィルタータイプ"
+   },
+   "pidTuningGyroLowpassFiltersGroup": {
+      "message": "ジャイロ ローパスフィルター"
+   },
+   "pidTuningGyroLowpassFrequency": {
+      "message": "ジャイロ ローパス1 カットオフ周波数 [Hz]"
+   },
+   "pidTuningGyroLowpassType": {
+      "message": "ジャイロ ローパス1 フィルタータイプ"
+   },
+   "pidTuningGyroNotch1Cutoff": {
+      "message": "ジャイロ ノッチフィルター1 カットオフ周波数 [Hz]"
+   },
+   "pidTuningGyroNotch1Frequency": {
+      "message": "ジャイロ ノッチフィルター1 中心周波数 [Hz]"
+   },
+   "pidTuningGyroNotch2Cutoff": {
+      "message": "ジャイロ ノッチフィルター2 カットオフ周波数 [Hz]"
+   },
+   "pidTuningGyroNotch2Frequency": {
+      "message": "ジャイロ ノッチフィルター2 中心周波数 [Hz]"
+   },
+   "pidTuningGyroNotchFiltersGroup": {
+      "message": "ジャイロ ノッチフィルター"
+   },
+   "pidTuningHideUnusedPids": {
+      "message": "未使用なPID値 非表示"
+   },
+   "pidTuningHorizon": {
+      "message": "ホライゾン"
+   },
+   "pidTuningIntegral": {
+      "message": "Integral"
+   },
+   "pidTuningItermRelax": {
+      "message": "I値 リラックス"
+   },
+   "pidTuningItermRelaxAxes": {
+      "message": "軸:"
+   },
+   "pidTuningItermRelaxAxesOptionRP": {
+      "message": "RP"
+   },
+   "pidTuningItermRelaxAxesOptionRPInc": {
+      "message": "RP (インクリメントのみ)"
+   },
+   "pidTuningItermRelaxAxesOptionRPY": {
+      "message": "RPY"
+   },
+   "pidTuningItermRelaxAxesOptionRPYInc": {
+      "message": "RPY (インクリメントのみ)"
+   },
+   "pidTuningItermRelaxHelp": {
+      "message": "速い動きが起きたときのI値の蓄積を制限します。これは特に、ロールやその他の高速動作の終了時にバウンスバックを減らすのに役立ちます。これが有効であると、ジャイロまたはセットポイント (スティック) を使用して速い動きが検出された場合は、値を選択できます。"
+   },
+   "pidTuningItermRelaxType": {
+      "message": "タイプ:"
+   },
+   "pidTuningItermRelaxTypeOptionGyro": {
+      "message": "ジャイロ"
+   },
+   "pidTuningItermRelaxTypeOptionSetpoint": {
+      "message": "セットポイント"
+   },
+   "pidTuningItermRotation": {
+      "message": "I値 ローテーション"
+   },
+   "pidTuningItermRotationHelp": {
+      "message": "ロール中に連続的にヨーイングしたり、ファンネルやその他のトリックを実行したりするとき、機体が回転すると、現在値のI値を他の値に移行し適切に回転させます。この機能はアクロパイロット達が非常に感謝するでしょう。"
+   },
+   "pidTuningLevel": {
+      "message": "アングル / ホライゾン"
+   },
+   "pidTuningLevelAngleLimit": {
+      "message": "角度上限"
+   },
+   "pidTuningLevelHelp": {
+      "message": "以下の値は、アングルとホライゾンの飛行モードの動作を変更します。それぞれのPIDコントローラは異なる値を処理します。 ドキュメントを確認して下さい。"
+   },
+   "pidTuningLevelSensitivity": {
+      "message": "感度"
+   },
+   "pidTuningLoadedProfile": {
+      "message": "Profileの読出し:\u003Cstrong class=\"message-positive\">$1\u003C/strong>"
+   },
+   "pidTuningLoadedRateProfile": {
+      "message": "Rateprofileの読出し:\u003Cstrong class=\"message-positive\">$1\u003C/strong>"
+   },
+   "pidTuningMag": {
+      "message": "コンパス / ヘッディング"
+   },
+   "pidTuningMaxVel": {
+      "message": "最大速度 [deg/s]"
+   },
+   "pidTuningNonProfileFilterSettings": {
+      "message": "Profile毎のPID制御設定"
+   },
+   "pidTuningNonProfilePidSettings": {
+      "message": "Profile毎のPID値 制御設定"
+   },
+   "pidTuningNotchFilterHelp": {
+      "message": "ノッチフィルターには中心周波数とカットオフ周波数があります。 フィルターは対称となり、 中心周波数はフィルターの中心位置で、カットオフ周波数はノッチフィルターの開始位置となります。 たとえばノッチフィルター カットオフ周波数が160Hz、ノッチフィルター中心周波数が260Hzの場合、範囲は160〜360Hzとなり、中心付近の減衰が最も大きくなります。"
+   },
+   "pidTuningPidControllerTip": {
+      "message": "\u003Cb>Legacy vs Betaflight (float):\u003C/b> PIDスケーリングとPIDロジックはまったく同じ仕様です。必ずしも再調整は必要ありません。Legacyは、整数演算に基づく基本的なPIDコントローラである旧ベータ版の進化型演算方式です。 Betaflight PIDコントローラは浮動小数点演算を使用し、マルチローター用に特別に設計された多くの新機能を備えています。\u003Cbr>\u003Cb>Float vs Integer:\u003C/b> PIDスケーリングとPIDロジックはまったく同じ仕様です。再調整は必要ありません。F1ボードにはオンボードFPUがないため、浮動小数点演算によってCPU負荷が増加するため、整数演算にて性能が向上しますが、浮動小数点演算の方がわずかに精度が向上します。"
+   },
+   "pidTuningPidSettings": {
+      "message": "PIDコントローラ設定"
+   },
+   "pidTuningPidTuningTip": {
+      "message": "\u003Cb>Proportional [比例制御]:\u003C/b> マルチローターを飛行させた際の現在のエラー量に比例し、出力を制御するパラメータですが、値を高くすると非常に強い抵抗力も出てしまいます。\u003Cbr>\u003Cb>Integral [積分制御]:\u003C/b> P値が出す補正値を修正します。初期位置を保持し、ドリフトの低減効果を高めますが、値を高くした場合、機体の傾きが初期位置へ戻る際の遅延も増加させてしまいます。\u003Cbr>\u003Cb>Derivative [微分制御]:\u003C/b> P値、I値が出す補正値で修正できない場合、未来予測を含めて補正します。急激な挙動の追従をする際の偏差として値を高くした場合、偏差回復の速度は向上しますが、ノイズは増加してしまいます。\u003Cbr>\u003Cb>レート・Expo:\u003C/b> これらのパラメータに基づいて、スティックのフィーリングを決定します。グラフとLive 3Dモデルを使用して、お気に入りのレート設定を見つけましょう。"
+   },
+   "pidTuningPidTuningTipFeedforward": {
+      "message": "\u003Cb>Proportional [比例制御]:\u003C/b> マルチローターを飛行させた際の現在のエラー量に比例し、出力を制御するパラメータですが、値を高くすると非常に強い抵抗力も出てしまいます。\u003Cbr>\u003Cb>Integral [積分制御]:\u003C/b> P値が出す補正値を修正します。初期位置を保持し、ドリフトの低減効果を高めますが、値を高くした場合、機体の傾きが初期位置へ戻る際の遅延も増加させてしまいます。\u003Cbr>\u003Cb>Derivative [微分制御]:\u003C/b> P値、I値が出す補正値で修正できない場合、未来予測を含めて補正します。急激な挙動の追従をする際の偏差として値を高くした場合、偏差回復の速度は向上しますが、ノイズは増加してしまいます。\u003Cbr>\u003Cb>フィードフォワード:\u003C/b> 通常PIDコントローラはエラーに反応します。フィードフォワードはスティック入力に基づいてエラーを予測し、機体に応答性を与えます。\u003Cbr>\u003Cb>レート・Expo:\u003C/b> これらのパラメータに基づいて、スティックのフィーリングを決定します。グラフとLive 3Dモデルを使用して、お気に入りのレート設定を見つけましょう。"
+   },
+   "pidTuningProfile": {
+      "message": "Profile"
+   },
+   "pidTuningProfileHead": {
+      "message": "Profile"
+   },
+   "pidTuningProfileOption": {
+      "message": "Profile $1"
+   },
+   "pidTuningProfileReset": {
+      "message": "デフォルトProfileをロードしました。"
+   },
+   "pidTuningProfileTip": {
+      "message": "最大3つ (一部のコントローラでは2つ) の異なるPID Profileをフライトコントローラに保存できます。PID Profileには、このタブ内にあるPID、D値セットポイント、アングル / ホライゾンの設定が含まれます。飛行場等にいる場合、簡単なスティックコマンド (オンラインマニュアルを参照) を使用して、Profileを切り替えることができます。"
+   },
+   "pidTuningProportional": {
+      "message": "Proportional"
+   },
+   "pidTuningRate": {
+      "message": "Rate"
+   },
+   "pidTuningRateProfile": {
+      "message": "Rateprofile"
+   },
+   "pidTuningRateProfileOption": {
+      "message": "Rateprofile $1"
+   },
+   "pidTuningRateProfileTip": {
+      "message": "1つのProfileにつき最大3つの異なるRateprofileをフライトコントローラに保存することができます。Rateprofileには、RCレート、レート、RC Expo、スロットル、およびTPAの設定が含まれます。 [調整] タブの [Rateprofile選択] の3つのポジションスイッチを設定することで、Rateprofileの切り替えが可能です。"
+   },
+   "pidTuningRatesCurve": {
+      "message": "レート"
+   },
+   "pidTuningRatesPreview": {
+      "message": "レートプレビュー"
+   },
+   "pidTuningRatesTip": {
+      "message": "レートを調整し、スティックカーブに対しどのように影響するかを確認して下さい"
+   },
+   "pidTuningRcExpo": {
+      "message": "RC Expo"
+   },
+   "pidTuningRcExpoPower": {
+      "message": "RC Expoパワー"
+   },
+   "pidTuningRcExpoPowerHelp": {
+      "message": "RC Expoを計算する際に使用される指数です。Version 3.0.0より前のBetaflightバージョンでは、値は3に固定されています。"
+   },
+   "pidTuningRcRate": {
+      "message": "RC Rate"
+   },
+   "pidTuningReceivedProfile": {
+      "message": "Profileをセット:\u003Cstrong class=\"message-positive\">$1\u003C/strong>"
+   },
+   "pidTuningReceivedRateProfile": {
+      "message": "Rateprofileをセット:\u003Cstrong class=\"message-positive\">$1\u003C/strong>"
+   },
+   "pidTuningResetProfile": {
+      "message": "全Profileをリセット"
+   },
+   "pidTuningShowAllPids": {
+      "message": "全PID値の表示"
+   },
+   "pidTuningSmartFeedforward": {
+      "message": "スマート フィードフォワード"
+   },
+   "pidTuningSmartFeedforwardHelp": {
+      "message": "PIDFにおけるF値の影響を低減します。P値とF値の両方が同じタイミングで有効である場合、D値を上昇させることなくオーバーシュートを回避することができるだけでなく、より大きな値をP値に加えられたとき、F値によって生成される応答効果も低減します。"
+   },
+   "pidTuningStrength": {
+      "message": "強度"
+   },
+   "pidTuningSubTabFilter": {
+      "message": "フィルター設定"
+   },
+   "pidTuningSubTabPid": {
+      "message": "PID設定"
+   },
+   "pidTuningSuperRate": {
+      "message": "Super Rate"
+   },
+   "pidTuningTPA": {
+      "message": "TPA"
+   },
+   "pidTuningTPABreakPoint": {
+      "message": "TPA 区切り点"
+   },
+   "pidTuningThrottleBoost": {
+      "message": "スロットルブースト"
+   },
+   "pidTuningThrottleBoostHelp": {
+      "message": "この機能はスロットルを一時的に上から下に押し上げ、モーターへの加速トルクを上げることができ、より速いスロットル応答を提供します。"
+   },
+   "pidTuningTransition": {
+      "message": "遷移"
+   },
+   "pidTuningUpgradeFirmwareToChangePidController": {
+      "message": "\u003Cspan class=\"message-negative\">PID制御の変更が無効 - CLIにより変更できます。\u003C/span> このファームウェアはAPIバージョン\u003Cspan class=\"message-negative\">$1\u003C/span>ですが、この機能には\u003Cspan class=\"message-positive\">$2\u003C/span>が必要です。"
+   },
+   "pidTuningVbatPidCompensation": {
+      "message": "Vbat PID補正"
+   },
+   "pidTuningVbatPidCompensationHelp": {
+      "message": "Vbatが低下したとき、それを補正するためPID値を増加させます。 これにより、飛行中にさらに一定の飛行特性を与えられます。 適用される補正量は、 $t(tabPower.message) ページで設定された $t(powerBatteryMaximum.message) から計算されるため、適切な値に設定されていることを確認して下さい。"
+   },
+   "pidTuningYawJumpPrevention": {
+      "message": "ヨージャンプ防止"
+   },
+   "pidTuningYawJumpPreventionHelp": {
+      "message": "機体がヨーの最後に飛び跳ねないよう姿勢を保ちます。数値が大きいほど減衰が大きくなります (一昔前のヨーD値のように動作します。これは他の軸のような実際のD値の動作ではありませんでした) 。"
+   },
+   "pidTuningYawLospassFiltersGroup": {
+      "message": "ヨー ローパスフィルター"
+   },
+   "pidTuningYawLowpassFrequency": {
+      "message": "ヨー ローパス カットオフ周波数 [Hz]"
+   },
+   "portOverrideText": {
+      "message": "ポート:"
+   },
+   "portsButtonSave": {
+      "message": "保存して再起動"
+   },
+   "portsConfiguration": {
+      "message": "設定 / MSP"
+   },
+   "portsFirmwareUpgradeRequired": {
+      "message": "ファームウェアの更新が\u003Cspan class=\"message-negative\">必要です\u003C/span>。シリアルポートによる設定はファームウェア &lt; 1.8.0 ではサポートされていません。"
+   },
+   "portsFunction_BLACKBOX": {
+      "message": "ブラックボックスログ"
+   },
+   "portsFunction_ESC_SENSOR": {
+      "message": "ESC"
+   },
+   "portsFunction_GPS": {
+      "message": "GPS"
+   },
+   "portsFunction_IRC_TRAMP": {
+      "message": "IRC Tramp"
+   },
+   "portsFunction_LIDAR_TF": {
+      "message": "Benewake LIDAR"
+   },
+   "portsFunction_MSP": {
+      "message": "MSP"
+   },
+   "portsFunction_RUNCAM_DEVICE_CONTROL": {
+      "message": "RunCamデバイス"
+   },
+   "portsFunction_RX_SERIAL": {
+      "message": "シリアル受信"
+   },
+   "portsFunction_TBS_SMARTAUDIO": {
+      "message": "TBS SmartAudio"
+   },
+   "portsFunction_TELEMETRY_CRSF": {
+      "message": "CRSF"
+   },
+   "portsFunction_TELEMETRY_FRSKY": {
+      "message": "FrSky"
+   },
+   "portsFunction_TELEMETRY_HOTT": {
+      "message": "HoTT"
+   },
+   "portsFunction_TELEMETRY_IBUS": {
+      "message": "iBUS"
+   },
+   "portsFunction_TELEMETRY_JETIXBUS": {
+      "message": "JETIXBUS"
+   },
+   "portsFunction_TELEMETRY_LTM": {
+      "message": "LTM"
+   },
+   "portsFunction_TELEMETRY_MAVLINK": {
+      "message": "MAVLink"
+   },
+   "portsFunction_TELEMETRY_MSP": {
+      "message": "MSP"
+   },
+   "portsFunction_TELEMETRY_SMARTPORT": {
+      "message": "SmartPort"
+   },
+   "portsFunction_TELEMETRY_SRXL": {
+      "message": "SRXL"
+   },
+   "portsHelp": {
+      "message": "\u003Cstrong>注:\u003C/strong> 全ての組み合わせが有効であるとは限りません。フライトコントローラのファームウェアはこれを検出し、シリアル ポートの設定がリセットされます。"
+   },
+   "portsIdentifier": {
+      "message": "識別子"
+   },
+   "portsMSPHelp": {
+      "message": "\u003Cstrong>注:\u003C/strong> 確実に設定内容を把握しない限り、最初のシリアルポートでMSPを\u003Cspan class=\"message-negative\">無効にしないで\u003C/span>下さい。行った場合、ファームウェアの再フラッシュが必要になり、全ての設定が消去される場合があります。"
+   },
+   "portsPeripherals": {
+      "message": "周辺機器"
+   },
+   "portsSelectManual": {
+      "message": "手動選択"
+   },
+   "portsSensorIn": {
+      "message": "センサー入力"
+   },
+   "portsSerialRx": {
+      "message": "シリアル受信"
+   },
+   "portsTelemetryDisabled": {
+      "message": "無効"
+   },
+   "portsTelemetryOut": {
+      "message": "テレメトリー出力"
+   },
+   "powerAmperageHead": {
+      "message": "電流メーター"
+   },
+   "powerAmperageId10": {
+      "message": "バッテリー"
+   },
+   "powerAmperageId50": {
+      "message": "ESCキー組み合わせ"
+   },
+   "powerAmperageId60": {
+      "message": "ESC モーター 1"
+   },
+   "powerAmperageId61": {
+      "message": "ESC モーター 2"
+   },
+   "powerAmperageId62": {
+      "message": "ESC モーター 3"
+   },
+   "powerAmperageId63": {
+      "message": "ESC モーター 4"
+   },
+   "powerAmperageId64": {
+      "message": "ESC モーター 5"
+   },
+   "powerAmperageId65": {
+      "message": "ESC モーター 6"
+   },
+   "powerAmperageId66": {
+      "message": "ESC モーター 7"
+   },
+   "powerAmperageId67": {
+      "message": "ESC モーター 8"
+   },
+   "powerAmperageId68": {
+      "message": "ESC モーター 9"
+   },
+   "powerAmperageId69": {
+      "message": "ESC モーター 10"
+   },
+   "powerAmperageId70": {
+      "message": "ESC モーター 11"
+   },
+   "powerAmperageId71": {
+      "message": "ESC モーター 12"
+   },
+   "powerAmperageId80": {
+      "message": "バーチャル"
+   },
+   "powerAmperageId90": {
+      "message": "MSP"
+   },
+   "powerAmperageOffset": {
+      "message": "オフセット [mA]"
+   },
+   "powerAmperageScale": {
+      "message": "スケール [1/10 mV/A]"
+   },
+   "powerAmperageValue": {
+      "message": "$1 A"
+   },
+   "powerBatteryAmperage": {
+      "message": "電流"
+   },
+   "powerBatteryCapacity": {
+      "message": "容量 (mAh)"
+   },
+   "powerBatteryConnected": {
+      "message": "接続"
+   },
+   "powerBatteryConnectedValueNo": {
+      "message": "いいえ"
+   },
+   "powerBatteryConnectedValueYes": {
+      "message": "はい (セル: $1)"
+   },
+   "powerBatteryCurrentDrawn": {
+      "message": "mAh 使用"
+   },
+   "powerBatteryCurrentMeterSource": {
+      "message": "電流メーターソース"
+   },
+   "powerBatteryCurrentMeterTypeAdc": {
+      "message": "オンボードADC"
+   },
+   "powerBatteryCurrentMeterTypeEsc": {
+      "message": "ESCセンサー"
+   },
+   "powerBatteryCurrentMeterTypeMsp": {
+      "message": "MSPセンサー / OSD予備"
+   },
+   "powerBatteryCurrentMeterTypeNone": {
+      "message": "なし"
+   },
+   "powerBatteryCurrentMeterTypeVirtual": {
+      "message": "バーチャル"
+   },
+   "powerBatteryHead": {
+      "message": "バッテリー"
+   },
+   "powerBatteryMaximum": {
+      "message": "1セルあたりの最大電圧"
+   },
+   "powerBatteryMinimum": {
+      "message": "1セルあたりの最小電圧"
+   },
+   "powerBatteryVoltage": {
+      "message": "電圧"
+   },
+   "powerBatteryVoltageMeterSource": {
+      "message": "電圧メーターソース"
+   },
+   "powerBatteryVoltageMeterTypeAdc": {
+      "message": "オンボードADC"
+   },
+   "powerBatteryVoltageMeterTypeEsc": {
+      "message": "ESCセンサー"
+   },
+   "powerBatteryVoltageMeterTypeNone": {
+      "message": "なし"
+   },
+   "powerBatteryWarning": {
+      "message": "1セルあたりの警告電圧"
+   },
+   "powerButtonSave": {
+      "message": "保存"
+   },
+   "powerFirmwareUpgradeRequired": {
+      "message": "ファームウェアのアップグレードが\u003Cspan class=\"message-negative\">必要です\u003C/span>。使用されるバッテリー / 電流 / 電圧構成API &lt; 1.33.0 (Betaflight release &lt;=3.1.7) はサポートされていません。"
+   },
+   "powerMahValue": {
+      "message": "$1 mAh"
+   },
+   "powerStateHead": {
+      "message": "電源状態"
+   },
+   "powerVoltageDivider": {
+      "message": "分配値"
+   },
+   "powerVoltageHead": {
+      "message": "電圧メーター"
+   },
+   "powerVoltageId10": {
+      "message": "バッテリー"
+   },
+   "powerVoltageId20": {
+      "message": "5V"
+   },
+   "powerVoltageId30": {
+      "message": "9V"
+   },
+   "powerVoltageId40": {
+      "message": "12V"
+   },
+   "powerVoltageId50": {
+      "message": "ESCキー組み合わせ"
+   },
+   "powerVoltageId60": {
+      "message": "ESC モーター 1"
+   },
+   "powerVoltageId61": {
+      "message": "ESC モーター 2"
+   },
+   "powerVoltageId62": {
+      "message": "ESC モーター 3"
+   },
+   "powerVoltageId63": {
+      "message": "ESC モーター 4"
+   },
+   "powerVoltageId64": {
+      "message": "ESC モーター 5"
+   },
+   "powerVoltageId65": {
+      "message": "ESC モーター 6"
+   },
+   "powerVoltageId66": {
+      "message": "ESC モーター 7"
+   },
+   "powerVoltageId67": {
+      "message": "ESC モーター 8"
+   },
+   "powerVoltageId68": {
+      "message": "ESC モーター 9"
+   },
+   "powerVoltageId69": {
+      "message": "ESC モーター 10"
+   },
+   "powerVoltageId70": {
+      "message": "ESC モーター 11"
+   },
+   "powerVoltageId71": {
+      "message": "ESC モーター 12"
+   },
+   "powerVoltageId80": {
+      "message": "セル 1"
+   },
+   "powerVoltageId81": {
+      "message": "セル 2"
+   },
+   "powerVoltageId82": {
+      "message": "セル 3"
+   },
+   "powerVoltageId83": {
+      "message": "セル 4"
+   },
+   "powerVoltageId84": {
+      "message": "セル 5"
+   },
+   "powerVoltageId85": {
+      "message": "セル 6"
+   },
+   "powerVoltageMultiplier": {
+      "message": "倍率値"
+   },
+   "powerVoltageScale": {
+      "message": "スケール"
+   },
+   "powerVoltageValue": {
+      "message": "$1 V"
+   },
+   "rcSmoothingChannelsSmoothedHelp": {
+      "message": "適用するスムージングチャンネル"
+   },
+   "rcSmoothingDerivativeCutoffHelp": {
+      "message": "D値セットポイントフィルターで使用されるカットオフ周波数(Hz)。値を小さくすると入力信号がスムーズとなり、受信機プロトコルの通信が遅延する際に適切に設定できます。ほとんどのユーザは、「自動」となる0としてください。"
+   },
+   "rcSmoothingDerivativeTypeHelp": {
+      "message": "D値セットポイントで使用されるフィルタリング方法のタイプ。ほとんどのユーザは、スムーズさと遅延のバランスが良いため、デフォルト値の「BIQUAD」を使用してください。「PT1」は遅延をわずかに減少させますが、スムーズさは弱くなります。"
+   },
+   "rcSmoothingInputCutoffHelp": {
+      "message": "入力フィルターで使用されるカットオフ周波数(Hz)。値を小さくすると入力信号がスムーズとなり、受信機プロトコルの通信が遅延する際に適切に設定できます。ほとんどのユーザは、「自動」となる0としてください。"
+   },
+   "rcSmoothingInputTypeHelp": {
+      "message": "入力フィルターで使用されるフィルタリング方法のタイプ。ほとんどのユーザは、スムーズさと遅延のバランスが良いため、デフォルト値の「BIQUAD」を使用してください。「PT1」は遅延をわずかに減少させますが、スムーズさは弱くなります。"
+   },
+   "receiverButtonRefresh": {
+      "message": "更新"
+   },
+   "receiverButtonSave": {
+      "message": "保存"
+   },
+   "receiverButtonSticks": {
+      "message": "コントロールスティック"
+   },
+   "receiverChannelDefaultOption": {
+      "message": "初期値"
+   },
+   "receiverChannelMap": {
+      "message": "チャンネルマップ"
+   },
+   "receiverChannelMapTitle": {
+      "message": "ボックスをクリックする事で、独自のチャンネルマップを定義できます"
+   },
+   "receiverDataRefreshed": {
+      "message": "RCチューニングデータ \u003Cstrong>更新しました\u003C/strong>"
+   },
+   "receiverDeadband": {
+      "message": "RC デッドバンド"
+   },
+   "receiverEepromSaved": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "receiverHelp": {
+      "message": "ドキュメントの [受信機] 章をお読み下さい。 シリアルポート(必要な場合)、受信機モード(シリアル / PPM /  PWM)、プロトコル(シリアル受信機の場合)、受信機のバインド、チャンネルマップの設定、送信機のチャンネルエンドポイント / 送信機の全てのチャンネルの1000～2000までのレンジ設定を確認および設定をして下さい。また中央値(デフォルト 1500)、トリムチャンネル 1500とし、スティックのデッドバンドを設定し、送信機がオフまたは範囲外のときの動作を指定します。\u003Cbr />\u003Cspan class=\"message-negative\">重要:\u003C/span> 飛行する前にドキュメントの [フェイルセーフ] 章を読み、フェイルセーフを設定して下さい。"
+   },
+   "receiverHelp3dDeadbandThrottle": {
+      "message": "この (自身の) 値ですが、ニュートラル範囲を広げるには値を大きくします。 \u003Cstrong>この設定は3Dスロットル専用です。\u003C/strong>"
+   },
+   "receiverHelpDeadband": {
+      "message": "この値は、設定値とRC入力がどのくらい差異を許容するかの (自身の) 値です。出力ジッタがある送信機の場合、RC入力がアイドル状態で揺らぎがある場合、この値を大きくしていきます。"
+   },
+   "receiverHelpStickCenter": {
+      "message": "スティックが中央にあるか否かを判断するための (自身の) 値。 (MID_RC)"
+   },
+   "receiverHelpStickMax": {
+      "message": "スティックがコマンド入力の 上 / 右 として認識される (自身の) 最小値。(MAX_CHECK)"
+   },
+   "receiverHelpStickMin": {
+      "message": "スティックがコマンド入力の下 / 左として認識される (自身の) 最大値。(MIN_CHECK)"
+   },
+   "receiverHelpYawDeadband": {
+      "message": "この値は、設定値とRC入力がどのくらい差異を許容するかの (自身の) 値です。出力ジッタがある送信機の場合、RC入力がアイドル状態で揺らぎがある場合、この値を大きくしていきます。\u003Cstrong>この設定はヨー専用です。\u003C/strong>"
+   },
+   "receiverModelPreview": {
+      "message": "プレビュー"
+   },
+   "receiverMspEnableButton": {
+      "message": "コントロール有効"
+   },
+   "receiverMspWarningText": {
+      "message": "これらのスティックは、送信機または受信機が存在しない状態でBetaflightにてアームし、テストすることができます。ただし、\u003Cstrong>この機能を利用する際は飛行目的ではないため、プロペラを取り付けないで下さい。\u003C/strong>\u003Cbr>\u003Cbr>この機能は、機体への信頼性の高い制御機能を保証致しません。\u003Cstrong>プロペラをそのまま外さず放置すると重傷を負う危険性があります。\u003C/strong>"
+   },
+   "receiverRcDerivativeType": {
+      "message": "D値 フィルタータイプ"
+   },
+   "receiverRcDerivativeTypeSelect": {
+      "message": "D値 カットオフ タイプ"
+   },
+   "receiverRcInputType": {
+      "message": "入力 フィルタータイプ"
+   },
+   "receiverRcInputTypeSelect": {
+      "message": "入力 カットオフ タイプ"
+   },
+   "receiverRcInterpolation": {
+      "message": "RC 補間"
+   },
+   "receiverRcInterpolationAuto": {
+      "message": "自動"
+   },
+   "receiverRcInterpolationDefault": {
+      "message": "プリセット"
+   },
+   "receiverRcInterpolationHelp": {
+      "message": "RC送受信システムはPIDループほど高速ではありません。そのためRCシステムからの情報ではPIDループの中に信号の隙間が発生します。このオプションではRCフレームが受信されない間のRC入力の補間を行います。このオプションを使うと制御信号の荒れがなくなり、より明瞭なP値、D値の機体制御が可能となります。"
+   },
+   "receiverRcInterpolationInterval": {
+      "message": "RC補間間隔 [ms]"
+   },
+   "receiverRcInterpolationIntervalHelp": {
+      "message": "ミリ秒単位での手動RC補間モードにおける補間間隔"
+   },
+   "receiverRcInterpolationManual": {
+      "message": "手動"
+   },
+   "receiverRcInterpolationOff": {
+      "message": "オフ"
+   },
+   "receiverRcSmoothing": {
+      "message": "RCスムージング"
+   },
+   "receiverRcSmoothingAuto": {
+      "message": "自動"
+   },
+   "receiverRcSmoothingChannel": {
+      "message": "スムージングチャンネル"
+   },
+   "receiverRcSmoothingDerivativeCutoff": {
+      "message": "D値 カットオフ 周波数"
+   },
+   "receiverRcSmoothingDerivativeManual": {
+      "message": "D値セットポイント カットオフ周波数を自動計算する(推奨)か、ユーザ手動選択するかを設定します。 「手動」を使用する場合、飛行中にパラメータを変更できるCrossfireのような受信プロトコルにはお勧めできません。"
+   },
+   "receiverRcSmoothingDerivativeTypeOff": {
+      "message": "オフ"
+   },
+   "receiverRcSmoothingFilter": {
+      "message": "フィルター"
+   },
+   "receiverRcSmoothingInputHz": {
+      "message": "入力 カットオフ 周波数"
+   },
+   "receiverRcSmoothingInputManual": {
+      "message": "入力フィルターカットオフ周波数を自動計算する(推奨)か、ユーザ手動選択するかを設定します。 「手動」を使用する場合、飛行中にパラメータを変更できるCrossfireのような受信プロトコルにはお勧めできません。"
+   },
+   "receiverRcSmoothingInterpolation": {
+      "message": "補間"
+   },
+   "receiverRcSmoothingManual": {
+      "message": "手動"
+   },
+   "receiverRcSmoothingType": {
+      "message": "スムージングタイプ"
+   },
+   "receiverRcSmoothingTypeHelp": {
+      "message": "使用するRCスムージングタイプ"
+   },
+   "receiverRefreshRateTitle": {
+      "message": "グラフ更新頻度"
+   },
+   "receiverRssiChannel": {
+      "message": "RSSI チャンネル"
+   },
+   "receiverRssiChannelDisabledOption": {
+      "message": "無効"
+   },
+   "receiverStickCenter": {
+      "message": "スティック 中央"
+   },
+   "receiverStickMax": {
+      "message": "スティック 高"
+   },
+   "receiverStickMin": {
+      "message": "スティック 低"
+   },
+   "receiverThrottleExpo": {
+      "message": "スロットルExpo"
+   },
+   "receiverThrottleMid": {
+      "message": "スロットルMID"
+   },
+   "receiverYawDeadband": {
+      "message": "Yaw デッドバンド"
+   },
+   "recevier3dDeadbandThrottle": {
+      "message": "3Dスロットル デッドバンド"
+   },
+   "releaseCheckCached": {
+      "message": "$1リリースのキャッシュされた情報を使用します。"
+   },
+   "releaseCheckFailed": {
+      "message": "\u003Cb>GitHub情報 $1リリースの読込みに失敗した為、キャッシュ情報を使用します。理由: \u003Ccode>$2\u003C/code>\u003C/b>"
+   },
+   "releaseCheckLoaded": {
+      "message": "$1 GitHubより、リリース情報を受信しました。"
+   },
+   "releaseCheckNoInfo": {
+      "message": "$1の利用可能なリリース情報はありません。"
+   },
+   "rememberLastTab": {
+      "message": "接続時に前回のタブを開く"
+   },
+   "runawayTakeoffPreventionDisabled": {
+      "message": "\u003Cstrong>暴走離陸防止機能を一時的に無効\u003C/strong>"
+   },
+   "runawayTakeoffPreventionEnabled": {
+      "message": "\u003Cstrong>暴走離陸防止機能を有効\u003C/strong>"
+   },
+   "sdcardNote": {
+      "message": "飛行ログはフライトコントローラのオンボードSDカードに保存できます。"
+   },
+   "sdcardStatusFileSystem": {
+      "message": "ファイルシステムを開始..."
+   },
+   "sdcardStatusNoCard": {
+      "message": "カードが挿入されていません"
+   },
+   "sdcardStatusReady": {
+      "message": "カード使用可能"
+   },
+   "sdcardStatusReboot": {
+      "message": "致命的なエラー\u003Cbr>再起動して下さい"
+   },
+   "sdcardStatusStarting": {
+      "message": "カードを準備しています..."
+   },
+   "sdcardStatusUnknown": {
+      "message": "不明な状態 $1"
+   },
+   "sensorDataFlashFreeSpace": {
+      "description": "Text of the dataflash image in the header of the page.",
+      "message": "データ書込み: 空き領域"
+   },
+   "sensorDataFlashNotFound": {
+      "description": "Text of the dataflash image in the header of the page.",
+      "message": "データ書込みできません\u003Cbr>チップを確認しました"
+   },
+   "sensorStatusAccel": {
+      "message": "加速度センサー"
+   },
+   "sensorStatusAccelShort": {
+      "description": "Text of the image in the top sensors icons. Please keep it short.",
+      "message": "Accel"
+   },
+   "sensorStatusBaro": {
+      "message": "気圧センサー"
+   },
+   "sensorStatusBaroShort": {
+      "description": "Text of the image in the top sensors icons. Please keep it short.",
+      "message": "Baro"
+   },
+   "sensorStatusGPS": {
+      "message": "GPS"
+   },
+   "sensorStatusGPSShort": {
+      "description": "Text of the image in the top sensors icons. Please keep it short.",
+      "message": "GPS"
+   },
+   "sensorStatusGyro": {
+      "message": "ジャイロスコープ"
+   },
+   "sensorStatusGyroShort": {
+      "description": "Text of the image in the top sensors icons. Please keep it short.",
+      "message": "Gyro"
+   },
+   "sensorStatusMag": {
+      "message": "コンパス"
+   },
+   "sensorStatusMagShort": {
+      "description": "Text of the image in the top sensors icons. Please keep it short.",
+      "message": "Mag"
+   },
+   "sensorStatusSonar": {
+      "message": "超音波距離センサー"
+   },
+   "sensorStatusSonarShort": {
+      "description": "Text of the image in the top sensors icons. Please keep it short.",
+      "message": "Sonar"
+   },
+   "sensorsAccelSelect": {
+      "message": "加速度センサー"
+   },
+   "sensorsAccelTitle": {
+      "message": "加速度センサー - g"
+   },
+   "sensorsBaroSelect": {
+      "message": "気圧センサー"
+   },
+   "sensorsBaroTitle": {
+      "message": "気圧センサー - meters"
+   },
+   "sensorsDebugSelect": {
+      "message": "デバッグ"
+   },
+   "sensorsDebugTitle": {
+      "message": "デバッグ"
+   },
+   "sensorsGyroSelect": {
+      "message": "ジャイロスコープ"
+   },
+   "sensorsGyroTitle": {
+      "message": "ジャイロセンサー - deg/s"
+   },
+   "sensorsInfo": {
+      "message": "更新周期を速く設定し、複数のグラフを同時にレンダリングすると、リソースが重くなりノートPC等を使用するとバッテリーを早く消費してしまう場合があるので注意して下さい。\u003Cbr/>必要とするセンサーのグラフを、適正な更新周期でレンダリングすることをお勧めします。"
+   },
+   "sensorsMagSelect": {
+      "message": "コンパス"
+   },
+   "sensorsMagTitle": {
+      "message": "コンパス - Ga"
+   },
+   "sensorsRefresh": {
+      "message": "更新:"
+   },
+   "sensorsScale": {
+      "message": "スケール:"
+   },
+   "sensorsSonarSelect": {
+      "message": "ソナー 超音波距離センサー"
+   },
+   "sensorsSonarTitle": {
+      "message": "ソナー - cm"
+   },
+   "serialLoggingSupportedNote": {
+      "message": "飛行ログは外部の保存デバイス (OpenLog、もしくは互換製品) にシリアルポートを使って保存できます。[ポート] タブでの設定が必要です。"
+   },
+   "serialPortClosedFail": {
+      "message": "シリアルポートは\u003Cspan class=\"message-negative\">切断できません\u003C/span>"
+   },
+   "serialPortClosedOk": {
+      "message": "シリアルポートは\u003Cspan class=\"message-positive\">正常\u003C/span>に切断しました"
+   },
+   "serialPortOpenFail": {
+      "message": "シリアルポートに\u003Cspan class=\"message-negative\">接続できません\u003C/span>"
+   },
+   "serialPortOpened": {
+      "message": "ID: $1のシリアルポートへ\u003Cspan class=\"message-positive\">正常\u003C/span>に接続しています"
+   },
+   "serialUnrecoverable": {
+      "message": "シリアル接続の回復不能な \u003Cspan class=\"message-negative\">障害\u003C/span> にて切断中..."
+   },
+   "servoNumber1": {
+      "message": "サーボ - 1"
+   },
+   "servoNumber2": {
+      "message": "サーボ - 2"
+   },
+   "servoNumber3": {
+      "message": "サーボ - 3"
+   },
+   "servoNumber4": {
+      "message": "サーボ - 4"
+   },
+   "servoNumber5": {
+      "message": "サーボ - 5"
+   },
+   "servoNumber6": {
+      "message": "サーボ - 6"
+   },
+   "servoNumber7": {
+      "message": "サーボ - 7"
+   },
+   "servoNumber8": {
+      "message": "サーボ - 8"
+   },
+   "servosAngleAtMax": {
+      "message": "最大角度"
+   },
+   "servosAngleAtMin": {
+      "message": "最小角度"
+   },
+   "servosButtonSave": {
+      "message": "保存"
+   },
+   "servosChangeDirection": {
+      "message": "一致する送信機のサーボ有効範囲の変更"
+   },
+   "servosDirectionAndRate": {
+      "message": "レート"
+   },
+   "servosEepromSave": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "servosFirmwareUpgradeRequired": {
+      "message": "サーボはファームウェア &gt;= 1.10.0. が必要でありサポート対象です。"
+   },
+   "servosLiveMode": {
+      "message": "Liveモード有効"
+   },
+   "servosMax": {
+      "message": "最大"
+   },
+   "servosMid": {
+      "message": "中央"
+   },
+   "servosMin": {
+      "message": "最少"
+   },
+   "servosName": {
+      "message": "サーボ"
+   },
+   "servosNormal": {
+      "message": "ノーマル"
+   },
+   "servosReverse": {
+      "message": "リバース"
+   },
+   "servosText": {
+      "message": "サーボ"
+   },
+   "statusbar_cpu_load": {
+      "message": "CPU使用率: $1%"
+   },
+   "statusbar_cycle_time": {
+      "message": "サイクル時間:"
+   },
+   "statusbar_i2c_error": {
+      "message": "I2C エラー:"
+   },
+   "statusbar_packet_error": {
+      "message": "パケットエラー:"
+   },
+   "statusbar_port_utilization": {
+      "message": "ポート使用率:"
+   },
+   "statusbar_usage_download": {
+      "message": "D: $1%"
+   },
+   "statusbar_usage_upload": {
+      "message": "U: $1%"
+   },
+   "stm32AddressLoadFailed": {
+      "message": "オプションバイトセクターのアドレスの読込みに失敗しました。読取り保護が原因の可能性があります。"
+   },
+   "stm32AddressLoadSuccess": {
+      "message": "オプションバイトセクターのアドレスの読込みに成功しました。"
+   },
+   "stm32AddressLoadUnknown": {
+      "message": "オプションバイトセクターのアドレスの呼出しが原因不明のエラーで失敗しました。中止しています。"
+   },
+   "stm32ContactingBootloader": {
+      "message": "ブートローダーに接続中..."
+   },
+   "stm32ContactingBootloaderFailed": {
+      "message": "ブートローダーに接続できません"
+   },
+   "stm32Erase": {
+      "message": "消去中..."
+   },
+   "stm32Flashing": {
+      "message": "書込み中..."
+   },
+   "stm32GlobalErase": {
+      "message": "完全消去を実行中..."
+   },
+   "stm32GlobalEraseExtended": {
+      "message": "完全消去を実行中... (拡張消去)"
+   },
+   "stm32LocalErase": {
+      "message": "ローカル消去を実行中 ..."
+   },
+   "stm32LocalEraseExtended": {
+      "message": "ローカル消去を実行中... (拡張消去)"
+   },
+   "stm32NotReadProtected": {
+      "message": "読取り保護が有効ではありません"
+   },
+   "stm32ProgrammingFailed": {
+      "message": "処理: 失敗"
+   },
+   "stm32ProgrammingSuccessful": {
+      "message": "処理: 成功"
+   },
+   "stm32ReadProtected": {
+      "message": "FCボードは読取り保護されたようです。読取り保護を解除します。切断 / 抜線しないで下さい！"
+   },
+   "stm32ResponseBootloaderFailed": {
+      "message": "ブートローダーからの応答がありません。処理: 失敗"
+   },
+   "stm32TimedOut": {
+      "message": "STM32 - タイムアウトになりました。処理: 失敗"
+   },
+   "stm32UnprotectFailed": {
+      "message": "FCボードの保護を解除できませんでした"
+   },
+   "stm32UnprotectInitFailed": {
+      "message": "非保護なルーチンを開始できませんでした"
+   },
+   "stm32UnprotectSuccessful": {
+      "message": "正常にインポートされました。"
+   },
+   "stm32UnprotectUnplug": {
+      "message": "必要な処置: DFUモードでフライトコントローラとのケーブルを抜き、再度接続して書換えを再試行して下さい！"
+   },
+   "stm32UsbDfuNotFound": {
+      "message": "USBデバイスがDFUモードになっていません"
+   },
+   "stm32Verifying": {
+      "message": "検証中..."
+   },
+   "stm32WrongResponse": {
+      "message": "STM32への通信に失敗; 既定応答: $1 (0x$2) 受信応答: $3 (0x$4)"
+   },
+   "storageDeviceNotReady": {
+      "message": "ストレージデバイスの準備ができていません。microSDカードを利用する場合は、FCボード側が正常に認識しているかを確認して下さい。"
+   },
+   "tabAdjustments": {
+      "message": "調整"
+   },
+   "tabAuxiliary": {
+      "message": "モード"
+   },
+   "tabCLI": {
+      "message": "CLI コマンドライン"
+   },
+   "tabConfiguration": {
+      "message": "基本設定"
+   },
+   "tabFailsafe": {
+      "message": "フェイルセーフ"
+   },
+   "tabFirmwareFlasher": {
+      "message": "ファームフラッシャー"
+   },
+   "tabGPS": {
+      "message": "GPS"
+   },
+   "tabHelp": {
+      "message": "マニュアル & サポート"
+   },
+   "tabLanding": {
+      "message": "ようこそ"
+   },
+   "tabLedStrip": {
+      "message": "LEDストリップ"
+   },
+   "tabLogging": {
+      "message": "テザーロギング"
+   },
+   "tabModeSelection": {
+      "message": "モード選択"
+   },
+   "tabMotorTesting": {
+      "message": "モーター"
+   },
+   "tabOnboardLogging": {
+      "message": "ブラックボックス"
+   },
+   "tabOsd": {
+      "message": "OSD"
+   },
+   "tabPidTuning": {
+      "message": "PIDチューニング"
+   },
+   "tabPorts": {
+      "message": "ポート"
+   },
+   "tabPower": {
+      "message": "電源・バッテリー"
+   },
+   "tabRawSensorData": {
+      "message": "センサー"
+   },
+   "tabReceiver": {
+      "message": "受信機"
+   },
+   "tabServos": {
+      "message": "サーボ"
+   },
+   "tabSetup": {
+      "message": "セットアップ"
+   },
+   "tabSetupOSD": {
+      "message": "OSDセットアップ"
+   },
+   "tabSwitchConnectionRequired": {
+      "message": "いずれかのタブを表示するには、\u003Cstrong>接続\u003C/strong>する必要があります。"
+   },
+   "tabSwitchUpgradeRequired": {
+      "message": "$1タブを使用するには、ファームウェアをBetaflightの最新バージョンに\u003Cstrong>アップグレード\u003C/strong>する必要があります。"
+   },
+   "tabSwitchWaitForOperation": {
+      "message": "今この操作を行うことは\u003Cspan class=\"message-negative\">できません\u003C/span>。現在の操作が完了するまでお待ち下さい..."
+   },
+   "tabTransponder": {
+      "message": "トランスポンダー"
+   },
+   "throttle": {
+      "message": "スロットル"
+   },
+   "transponderButtonSave": {
+      "message": "保存"
+   },
+   "transponderButtonSaveReboot": {
+      "message": "保存して再起動"
+   },
+   "transponderConfiguration1": {
+      "message": "iLap設定"
+   },
+   "transponderConfiguration2": {
+      "message": "aRCiTimer設定"
+   },
+   "transponderConfiguration3": {
+      "message": "ERLT設定"
+   },
+   "transponderConfigurationType": {
+      "message": "トランスポンダー種類"
+   },
+   "transponderData1": {
+      "message": "データ"
+   },
+   "transponderData2": {
+      "message": "トランスポンダー ID"
+   },
+   "transponderData3": {
+      "message": "トランスポンダー ID"
+   },
+   "transponderDataHelp1": {
+      "message": "16進数 0〜9、A〜F"
+   },
+   "transponderDataHelp3": {
+      "message": "ERLT ID 0～63 を選択します。"
+   },
+   "transponderDataInvalid": {
+      "message": "トランスポンダーデータが \u003Cspan class=\"message-negative\">無効です。\u003C/span>"
+   },
+   "transponderEepromSaved": {
+      "message": "EEPROM \u003Cspan class=\"message-positive\">保存しました\u003C/span>"
+   },
+   "transponderHelp1": {
+      "message": "ここにトランスポンダーコードを設定します。注: レースタイミングシステムでは有効なコードのみが認識されます。有効なトランスポンダーコードは、 \u003Ca href=\"http://seriouslypro.com/transponder-codes\" target=\"_blank\">Seriously Pro\u003C/a> から入手できます。"
+   },
+   "transponderHelp2": {
+      "message": "詳細については \u003Ca href=\"http://www.arcitimer.com/\" title=\"aRCiTimer\" target=\"_blank\">aRCiTimer サイト\u003C/a> をご覧下さい。"
+   },
+   "transponderHelp3": {
+      "message": "詳細については \u003Ca href=\"https://github.com/polyvision/EasyRaceLapTimer\" title=\"aRCiTimer\" target=\"_blank\">aRCiTimer site\u003C/a> をご覧下さい。"
+   },
+   "transponderInformation": {
+      "message": "トランスポンダーシステムにより、レース主催者は周回の計測をすることができます。トランスポンダーは機体に取り付けられ、機体がタイミングゲートを通過すると、トラックサイドレシーバーがトランスポンダーコードとラップタイムを記録します。 IRベースのトランスポンダーを取り付けるときは、機体からコース側の受信機に向かって外側に向け、光信号が機体、バッテリーストラップ、ケーブル、プロペラなどで遮断されていないことを確認する必要があります。"
+   },
+   "transponderNotSupported": {
+      "message": "このフライトコントローラのファームウェアは、トランスポンダー機能をサポートしていません。"
+   },
+   "transponderType0": {
+      "message": "なし"
+   },
+   "transponderType1": {
+      "message": "iLap"
+   },
+   "transponderType2": {
+      "message": "aRCiTimer"
+   },
+   "transponderType3": {
+      "message": "ERLT"
+   },
+   "tuningHelp": {
+      "message": "\u003Cb>チューニングTips\u003C/b>\u003Cbr />\u003Cspan class=\"message-negative\">重要:\u003C/span> 最初のフライト中はモーターの温度を確認することが重要です。フィルター値が高くなるほど飛行が軽快となりますが、モーターにはより多くのノイズが発生します。\u003Cbr>デフォルト値である100Hzが最適値となりますが、ノイズ低減設定ではD値フィルターを50Hzに、またはジャイロフィルターの値を下げてみて下さい。"
+   },
+   "uniqueDeviceIdReceived": {
+      "message": "ユニークデバイスID: \u003Cstrong>0x$1\u003C/strong>"
+   },
+   "usbDeviceCloseFail": {
+      "message": "USBデバイスは\u003Cspan class=\"message-negative\">切断できません\u003C/span>"
+   },
+   "usbDeviceClosed": {
+      "message": "USBデバイスは\u003Cspan class=\"message-positive\">正常\u003C/span>に切断しました"
+   },
+   "usbDeviceOpenFail": {
+      "message": "USBデバイスに\u003Cspan class=\"message-negative\">接続できません\u003C/span>"
+   },
+   "usbDeviceOpened": {
+      "message": "ID: $1のUSBデバイスへ\u003Cspan class=\"message-positive\">正常\u003C/span>に接続しました"
+   },
+   "usbDeviceUdevNotice": {
+      "message": "\u003Cstrong>udevルール\u003C/strong> が正しくインストールされていますか？手順についてはドキュメントを参照して下さい。"
+   },
+   "userLanguageSelect": {
+      "message": "言語設定 (変更を有効にするにはConfiguratorを再起動して下さい)"
+   },
+   "versionLabelConfigurator": {
+      "message": "Configurator"
+   },
+   "versionLabelFirmware": {
+      "message": "ファーム"
+   },
+   "versionLabelTarget": {
+      "message": "Target"
+   },
+   "warningTitle": {
+      "message": "警告"
+   }
+}

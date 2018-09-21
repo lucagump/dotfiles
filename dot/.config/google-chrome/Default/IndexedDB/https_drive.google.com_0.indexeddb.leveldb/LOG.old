@@ -1,0 +1,6 @@
+2018/09/21-22:58:04.717 24780 Reusing MANIFEST /home/lucamartinelli/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/09/21-22:58:04.718 24780 Recovering log #44
+2018/09/21-22:58:04.727 24780 Reusing old log /home/lucamartinelli/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000044.log 
+2018/09/21-22:58:12.113 25584 Level-0 table #48: started
+2018/09/21-22:58:12.144 25584 Level-0 table #48: 4911203 bytes OK
+2018/09/21-22:58:12.154 25584 Delete type=0 #44

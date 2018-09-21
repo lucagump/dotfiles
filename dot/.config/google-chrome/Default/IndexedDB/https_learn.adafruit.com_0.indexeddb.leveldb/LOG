@@ -1,0 +1,18 @@
+2018/09/17-18:39:45.257 6214 Reusing MANIFEST /home/lucamartinelli/.config/google-chrome/Default/IndexedDB/https_learn.adafruit.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/09/17-18:39:45.257 6214 Recovering log #15
+2018/09/17-18:39:45.257 6214 Reusing old log /home/lucamartinelli/.config/google-chrome/Default/IndexedDB/https_learn.adafruit.com_0.indexeddb.leveldb/000015.log 
+2018/09/17-18:39:56.346 7815 Current memtable full; waiting...
+2018/09/17-18:39:56.346 15122 Level-0 table #20: started
+2018/09/17-18:39:56.349 15122 Level-0 table #20: 418 bytes OK
+2018/09/17-18:39:56.350 15122 Delete type=0 #15
+2018/09/17-18:39:56.351 15122 Level-0 table #22: started
+2018/09/17-18:39:56.351 15122 Level-0 table #22: 0 bytes OK
+2018/09/17-18:39:56.353 15122 Delete type=0 #19
+2018/09/17-18:39:56.353 15122 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 37 : 1
+2018/09/17-18:39:56.353 15122 Compacting 1@0 + 1@1 files
+2018/09/17-18:39:56.355 15122 Generated table #23@0: 6 keys, 523 bytes
+2018/09/17-18:39:56.355 15122 Compacted 1@0 + 1@1 files => 523 bytes
+2018/09/17-18:39:56.357 15122 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/09/17-18:39:56.357 15122 Delete type=2 #20
+2018/09/17-18:39:56.357 15122 Delete type=2 #17
+2018/09/17-18:39:56.357 15122 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 37 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Download"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Download iCloud for Windows to use iCloud Bookmarks."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Keep your Chrome bookmarks on Windows up to date with the Safari bookmarks on your iPhone, iPad and Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud Bookmarks"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "This extension requires that Chrome is running in desktop mode. Click the Chrome menu and select \"Relaunch Chrome on the desktop\"."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Open iCloud for Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Sign into iCloud to use iCloud Bookmarks."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Your Chrome bookmarks are synced with iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "The extension you are trying to install is designed to run on Windows 7 or 8. If you are using a Mac, your Safari bookmarks will automatically sync with your iPhone, iPad and Mac when you sign in to iCloud on all your devices."
+   }
+}

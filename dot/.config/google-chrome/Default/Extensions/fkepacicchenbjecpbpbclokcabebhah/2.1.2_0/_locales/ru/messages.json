@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Загрузить"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Загрузите iCloud для Windows, чтобы пользоваться Закладками iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Синхронизируйте закладки Chrome в Windows с закладками Safari на Вашем iPhone, iPad и Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Закладки iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Для работы данного расширения требуется перевести Chrome в режим рабочего стола. Для этого нажмите меню «Chrome» и выберите «Перезапустить Chrome в режиме рабочего стола»."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Открыть iCloud для Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Выполните вход в iCloud, чтобы использовать Закладки iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Закладки Chrome синхронизированы с iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Расширение, которое Вы пытаетесь установить, разработано для Windows 7 и Windows 8. Если Вы используете компьютер Mac, Ваши закладки Safari автоматически синхронизируются с закладками на iPhone, iPad и другом компьютере Mac, когда Вы входите в iCloud."
+   }
+}

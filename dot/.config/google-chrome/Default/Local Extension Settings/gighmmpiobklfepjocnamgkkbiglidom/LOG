@@ -1,0 +1,22 @@
+2018/09/21-23:12:01.193 1495 Reusing MANIFEST /home/lucamartinelli/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2018/09/21-23:12:01.195 1495 Recovering log #1854
+2018/09/21-23:12:01.236 1495 Level-0 table #1857: started
+2018/09/21-23:12:01.367 1495 Level-0 table #1857: 3745185 bytes OK
+2018/09/21-23:12:01.381 1495 Delete type=0 #1854
+2018/09/21-23:13:02.699 2457 Level-0 table #1860: started
+2018/09/21-23:13:02.769 2457 Level-0 table #1860: 3745019 bytes OK
+2018/09/21-23:13:02.785 2457 Delete type=0 #1858
+2018/09/21-23:13:09.718 2457 Level-0 table #1862: started
+2018/09/21-23:13:09.934 2457 Level-0 table #1862: 3745181 bytes OK
+2018/09/21-23:13:09.949 2457 Delete type=0 #1859
+2018/09/21-23:13:09.951 2457 Compacting 4@0 + 2@1 files
+2018/09/21-23:13:10.234 2457 Generated table #1863@0: 2 keys, 3745011 bytes
+2018/09/21-23:13:10.248 2457 Generated table #1864@0: 6 keys, 461 bytes
+2018/09/21-23:13:10.248 2457 Compacted 4@0 + 2@1 files => 3745472 bytes
+2018/09/21-23:13:10.264 2457 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/09/21-23:13:10.264 2457 Delete type=2 #1860
+2018/09/21-23:13:10.265 2457 Delete type=2 #1862
+2018/09/21-23:13:10.266 2457 Delete type=2 #1853
+2018/09/21-23:13:10.266 2457 Delete type=2 #1852
+2018/09/21-23:13:10.267 2457 Delete type=2 #1857
+2018/09/21-23:13:10.268 2457 Delete type=2 #1855

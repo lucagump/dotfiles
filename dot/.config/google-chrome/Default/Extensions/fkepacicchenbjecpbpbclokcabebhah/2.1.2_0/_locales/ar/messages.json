@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "تنزيل"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "قم بتنزيل iCloud لـ Windows لاستخدام إشارات iCloud المرجعية."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "حافظ على تحديث الإشارات المرجعية لـ Chrome مع الإشارات المرجعية لـ Safari على الـ iPhone، الـ iPad، والـ Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "إشارات iCloud المرجعية"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "يتطلب هذا الملحق أن يتم تشغيل Chrome في نمط سطح المكتب. انقر فوق قائمة Chrome وقم بتحديد \"إعادة تشغيل Chrome على سطح المكتب\"."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "موافق"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "فتح iCloud لـ Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "قم بتسجيل الدخول في iCloud لاستخدام الإشارات المرجعية في iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "تمت مزامنة الإشارات المرجعية في Chrome مع iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "الملحق الذي تحاول تثبيته مصمم للتشغيل على Windows 7 أو Windows 8. إذا كنت تستخدم جهاز Mac، فستتم مزامنة الإشارات المرجعية في Safari تلقائيًا مع الـ iPhone، الـ iPad، والـ Mac عندما تقوم بتسجيل الدخول إلى iCloud على جميع أجهزتك."
+   }
+}

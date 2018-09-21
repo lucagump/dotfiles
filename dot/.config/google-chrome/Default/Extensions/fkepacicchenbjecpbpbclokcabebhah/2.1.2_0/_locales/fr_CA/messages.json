@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Télécharger"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Télécharger iCloud pour Windows afin d'utiliser les signets iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Synchronisez vos signets Chrome de Windows avec les signets Safari sur vos iPhone, iPad et Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Signets iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Utilisez Chrome en mode Bureau pour que cette extension fonctionne. Cliquez sur le menu Chrome et sélectionnez « Relancer Chrome sur le Bureau »."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Ouvrir iCloud pour Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Connectez-vous à iCloud pour utiliser les signets iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Vos signets Chrome sont synchronisés avec iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "L’extension que vous tentez d’installer est conçue pour Windows 7 ou Windows 8. Si vous utilisez un Mac, vos signets Safari se synchroniseront automatiquement avec vos iPhone, iPad et Mac lorsque vous vous connecterez à iCloud sur ces appareils."
+   }
+}

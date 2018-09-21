@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "ダウンロード"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "iCloud ブックマークを使用するには、iCloud for Windows をダウンロードしてください。"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Windows 上の Chrome のブックマークを iPhone、iPad、および Mac 上の Safari のブックマークと同期してください。"
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud ブックマーク"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "この拡張機能を使用するには、Chrome がデスクトップモードで起動している必要があります。 Chrome のメニューをクリックして、[デスクトップで Chrome を再起動] を選択してください。"
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "iCloud for Windows を開く"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "iCloud ブックマークを使用するには、iCloud にサインインしてください。"
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Chrome ブックマークは iCloud と同期しています。"
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "インストールしようとしている拡張機能は、Windows 7 または 8 上で実行するように設計されています。Mac をお使いの場合、Safari のブックマークは、お使いのすべてのデバイスで iCloud にサインインしたときに iPhone、iPad、および Mac と自動的に同期されます。"
+   }
+}

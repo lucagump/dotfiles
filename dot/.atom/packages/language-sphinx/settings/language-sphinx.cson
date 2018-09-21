@@ -1,0 +1,4 @@
+'.text.sphinx':
+  'editor':
+    'commentStart': '.. '
+    'increaseIndentPattern': '::\\s*$'

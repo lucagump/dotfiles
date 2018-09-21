@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "הורד/י"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "בכדי להשתמש בסימניות iCloud, הורד/י את iCloud ל-Windows."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "שמור/י על עדכניות הסימניות שלך ב-Chrome שב-Windows עם הסימניות של Safari ב-iPhone, ב-iPad וב-Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "סימניות iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "בכדי להשתמש בתוסף זה, יש להפעיל את Chrome ב״מצב שולחן עבודה״. לחץ על התפריט של Chrome ולבחור ״הפעל את Chrome מחדש משולחן העבודה״."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "אישור"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "פתח את iCloud ל-Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "היכנס/י ל-iCloud על-מנת להשתמש בסימניות של iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "סימניות Chrome שלך מסונכרנות עם iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "ההרחבה שהינך מנסה להתקין נועדה לפעול ב-Windows 7 או 8. אם הינך משתמש/ת ב-Mac, הסימניות שלך ב-Safari יסתנכרנו באופן אוטומטי עם ה-iPhone, ה-iPad וה-Mac שלך כאשר תיכנס/י ל-iCloud בכל אחד מהמכשירים שלך."
+   }
+}

@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Λήψη"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Πραγματοποιήστε λήψη του iCloud για Windows για να χρησιμοποιήσετε τους Σελιδοδείκτες iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Διατηρήστε ενημερωμένους τους σελιδοδείκτες σας στο Chrome με τους σελιδοδείκτες Safari σε iPhone, iPad και Mac."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Σελιδοδείκτες iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Η επέκταση αυτή απαιτεί την εκτέλεση του Chrome σε κατάσταση επιφάνειας εργασίας. Κάντε κλικ στο μενού Chrome και επιλέξτε «Επανεκκίνηση του Chrome στην επιφάνεια εργασίας»."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Άνοιγμα του iCloud για Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Συνδεθείτε στο iCloud για τη χρήση των Σελιδοδεικτών iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Οι σελιδοδείκτες σας στο Chrome είναι συγχρονισμένοι με το iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Η επέκταση που προσπαθείτε να εγκαταστήσετε έχει σχεδιαστεί για εκτέλεση σε Windows 7 ή 8. Εάν χρησιμοποιείτε Mac, οι σελιδοδείκτες σας στο Safari θα συγχρονίζονται αυτόματα με τα iPhone, iPad και Mac σας κάθε φορά που συνδέεστε στο iCloud σε όλες τις συσκευές σας."
+   }
+}

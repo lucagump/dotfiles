@@ -1,0 +1,15 @@
+2018/09/19-19:39:30.519 17799 Reusing MANIFEST /home/lucamartinelli/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/09/19-19:39:30.519 17799 Recovering log #38
+2018/09/19-19:39:30.522 17799 Reusing old log /home/lucamartinelli/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000038.log 
+2018/09/19-20:57:56.897 29244 Level-0 table #42: started
+2018/09/19-20:57:56.916 29244 Level-0 table #42: 2107668 bytes OK
+2018/09/19-20:57:56.919 29244 Delete type=0 #38
+2018/09/19-20:57:56.920 29244 Compacting 4@0 + 1@1 files
+2018/09/19-20:57:56.949 29244 Generated table #43@0: 16 keys, 28673 bytes
+2018/09/19-20:57:56.949 29244 Compacted 4@0 + 1@1 files => 28673 bytes
+2018/09/19-20:57:56.951 29244 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/09/19-20:57:56.951 29244 Delete type=2 #31
+2018/09/19-20:57:56.951 29244 Delete type=2 #33
+2018/09/19-20:57:56.951 29244 Delete type=2 #36
+2018/09/19-20:57:56.952 29244 Delete type=2 #39
+2018/09/19-20:57:56.952 29244 Delete type=2 #42

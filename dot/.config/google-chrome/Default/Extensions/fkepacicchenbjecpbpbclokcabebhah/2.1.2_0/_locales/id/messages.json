@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Unduh"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Unduh iCloud untuk Windows untuk menggunakan Penanda iCloud."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Terus perbarui penanda Chrome Anda di Windows dengan penanda Safari di iPhone, iPad, dan Mac Anda."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Penanda iCloud"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Ekstensi ini mengharuskan Chrome untuk dijalankan dalam mode desktop. Klik menu Chrome dan pilih \"Buka ulang Chrome di desktop.\""
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OKE"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Buka iCloud untuk Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Masuk ke iCloud untuk menggunakan Penanda iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Penanda Chrome Anda diselaraskan dengan iCloud."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Ekstensi yang sedang Anda coba instal dirancang untuk dijalankan di Windows 7 atau 8. Jika Anda menggunakan Mac, penanda Safari Anda akan diselaraskan secara otomatis dengan iPhone, iPad, dan Mac saat anda masuk ke iCloud di semua perangkat Anda."
+   }
+}

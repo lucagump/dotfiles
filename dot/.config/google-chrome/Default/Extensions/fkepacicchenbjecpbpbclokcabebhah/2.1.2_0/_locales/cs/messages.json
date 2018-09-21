@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Stáhnout"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Chcete-li používat Záložky na iCloudu, stáhněte si iCloud pro Windows."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Udržujte své záložky v Chromu synchronní se záložkami v Safari na iPhonu, iPadu a Macu."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "Záložky na iCloudu"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Toto rozšíření vyžaduje, aby Chrome pracoval v režimu plochy. Klikněte na nabídku aplikace Chrome a vyberte „Spustit Chrome znovu na klasické ploše“."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "OK"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Otevřít iCloud pro Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Chcete-li používat Záložky na iCloudu, přihlaste se k iCloudu."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Vaše záložky z Chromu jsou synchronizovány s iCloudem."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Rozšíření, které se pokoušíte nainstalovat, je určeno pro Windows 7 nebo 8. Pokud používáte Mac, vaše záložky v Safari budou s iPhonem, iPadem a Macem synchronizovány automaticky poté, co se přihlásíte k iCloudu."
+   }
+}

@@ -1,0 +1,27 @@
+{
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "SoundCloud Downloader"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "css/content.css" ],
+      "js": [ "bower_components/jquery/dist/jquery.js", "scripts/jquery.qrcode-0.11.0.min.js", "scripts/arrive.js", "scripts/contentscript.js" ],
+      "matches": [ "http://*.soundcloud.com/*", "https://*.soundcloud.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwbnWBO2xejG5CnYWMCCf+RIz08100OJ0cb4IbmBZT9T1Ptw9XeVLTLKfxjvU66w7jHzX4zS+wPnPQ7scioEJtXt+JwtZPlwmg7gUlvhEoKCj4zMepjM33NhciWoj45BUTc2uuBaT1StnA5SfqyLblfpHNfID8HEBB8b3i+fy7jRIe4CysqqdpmdyxcS4PHiV9whtP5jSRt2RcNZYkpUT3o1Vl9iYgSoqhn/XRbSCo4TS1h9OPrQoSOXrd0CyWGGuftvVxUtADwsqXmOUnZKfd4qCy0KPXyENMclUwXN0xXTy9XLrJMcVkCh0YmsjeviK/u0Gu13biS+HUJhwhw8/hQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "activeTab", "storage", "downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.61"
+}

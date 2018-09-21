@@ -1,0 +1,26 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/tg=telegramdesktop.desktop
+text/x-arduino=arduino-arduinoide.desktop
+
+[Added Associations]
+application/vnd.debian.binary-package=gnome-software-local-file.desktop;
+text/x-csrc=gedit.desktop;
+text/plain=gedit.desktop;
+application/x-shellscript=vim.desktop;
+text/x-matlab=gedit.desktop;
+application/zip=org.gnome.FileRoller.desktop;
+application/x-raw-disk-image=gnome-disk-image-writer.desktop;
+image/png=eog.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+text/html=google-chrome.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+application/pdf=evince.desktop;
+image/x-portable-pixmap=eog.desktop;
+application/octet-stream=org.gnome.gedit.desktop;
+text/x-c++src=vim.desktop;DigiaQt-qtcreator-community.desktop;
+text/x-makefile=vim.desktop;

@@ -1,0 +1,48 @@
+2018/08/27-18:10:40.654 6216 Reusing MANIFEST /home/lucamartinelli/.config/google-chrome/Default/IndexedDB/https_www.probikeshop.it_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/27-18:10:40.654 6216 Recovering log #184
+2018/08/27-18:10:40.655 6216 Reusing old log /home/lucamartinelli/.config/google-chrome/Default/IndexedDB/https_www.probikeshop.it_0.indexeddb.leveldb/000184.log 
+2018/08/27-18:10:42.499 6217 Current memtable full; waiting...
+2018/08/27-18:10:42.499 6284 Level-0 table #189: started
+2018/08/27-18:10:42.502 6284 Level-0 table #189: 45569 bytes OK
+2018/08/27-18:10:42.505 6284 Delete type=0 #184
+2018/08/27-18:10:42.505 6284 Level-0 table #191: started
+2018/08/27-18:10:42.505 6284 Level-0 table #191: 0 bytes OK
+2018/08/27-18:10:42.508 6284 Delete type=0 #188
+2018/08/27-18:10:42.508 6284 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x00\x00\x05' @ 11054 : 1
+2018/08/27-18:10:42.508 6284 Compacting 1@0 + 1@1 files
+2018/08/27-18:10:42.513 6284 Generated table #192@0: 222 keys, 48991 bytes
+2018/08/27-18:10:42.513 6284 Compacted 1@0 + 1@1 files => 48991 bytes
+2018/08/27-18:10:42.514 6284 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/27-18:10:42.515 6284 Delete type=2 #189
+2018/08/27-18:10:42.515 6284 Delete type=2 #186
+2018/08/27-18:10:42.515 6284 Manual compaction at level-0 from '\x00&\x00\x00\x05' @ 11054 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2018/08/27-18:10:48.111 6199 Current memtable full; waiting...
+2018/08/27-18:10:48.111 6284 Level-0 table #194: started
+2018/08/27-18:10:48.114 6284 Level-0 table #194: 52958 bytes OK
+2018/08/27-18:10:48.117 6284 Delete type=0 #190
+2018/08/27-18:10:48.117 6284 Level-0 table #196: started
+2018/08/27-18:10:48.117 6284 Level-0 table #196: 0 bytes OK
+2018/08/27-18:10:48.119 6284 Delete type=0 #193
+2018/08/27-18:10:48.120 6284 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at '\x00'\x00\x00\x05' @ 11272 : 1
+2018/08/27-18:10:48.120 6284 Compacting 1@0 + 1@1 files
+2018/08/27-18:10:48.126 6284 Generated table #197@0: 224 keys, 15026 bytes
+2018/08/27-18:10:48.126 6284 Compacted 1@0 + 1@1 files => 15026 bytes
+2018/08/27-18:10:48.128 6284 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/27-18:10:48.128 6284 Delete type=2 #194
+2018/08/27-18:10:48.128 6284 Delete type=2 #192
+2018/08/27-18:10:48.128 6284 Manual compaction at level-0 from '\x00'\x00\x00\x05' @ 11272 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2018/08/27-18:11:52.177 6199 Current memtable full; waiting...
+2018/08/27-18:11:52.177 6284 Level-0 table #199: started
+2018/08/27-18:11:52.180 6284 Level-0 table #199: 36795 bytes OK
+2018/08/27-18:11:52.182 6284 Delete type=0 #195
+2018/08/27-18:11:52.182 6284 Level-0 table #201: started
+2018/08/27-18:11:52.182 6284 Level-0 table #201: 0 bytes OK
+2018/08/27-18:11:52.184 6284 Delete type=0 #198
+2018/08/27-18:11:52.184 6284 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x00\x00\x05' @ 11964 : 1
+2018/08/27-18:11:52.184 6284 Compacting 1@0 + 1@1 files
+2018/08/27-18:11:52.187 6284 Generated table #202@0: 225 keys, 13950 bytes
+2018/08/27-18:11:52.187 6284 Compacted 1@0 + 1@1 files => 13950 bytes
+2018/08/27-18:11:52.189 6284 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/27-18:11:52.189 6284 Delete type=2 #197
+2018/08/27-18:11:52.189 6284 Delete type=2 #199
+2018/08/27-18:11:52.189 6284 Manual compaction at level-0 from '\x00(\x00\x00\x05' @ 11964 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,42 @@
+{
+   "downloadButton": {
+      "description": "Download button title",
+      "message": "Preuzmi"
+   },
+   "downloadMessage": {
+      "description": "Download iCloud app",
+      "message": "Preuzmite iCloud za Windows kako biste mogli koristiti iCloud knjižne oznake."
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Ažurirajte knjižne oznake preglednika Chrome u sustavu Windows knjižnim oznakama Safarija s vašeg iPhonea, iPada i Maca."
+   },
+   "extName": {
+      "description": "iCloud Bookmarks",
+      "message": "iCloud knjižne oznake"
+   },
+   "metroMessage": {
+      "description": "Message displayed when loaded in metro mode",
+      "message": "Ova ekstenzija zahtijeva da Chrome radi u načinu rada radne površine. Kliknite izbornik Chrome i odaberite \"Ponovno pokrenite Chrome na radnoj površini\"."
+   },
+   "okButton": {
+      "description": "OK button title",
+      "message": "U redu"
+   },
+   "signinButton": {
+      "description": "Sign in button title",
+      "message": "Otvori iCloud za Windows"
+   },
+   "signinMessage": {
+      "description": "Sign in to iCloud app",
+      "message": "Za korištenje iCloud knjižnih oznaka, prijavite se na iCloud."
+   },
+   "syncedMessage": {
+      "description": "Bookmarks are being synced",
+      "message": "Vaše knjižne oznake iz Chromea se sinkroniziraju s iCloudom."
+   },
+   "unsupportedOS": {
+      "description": "Unsupported OS",
+      "message": "Ekstenzija koju pokušavate instalirati je načinjena za rad u sustavu Windows 7 ili 8. Ako koristite Mac računalo, vaše knjižne oznake Safarija će se automatski sinkronizirati s vašim iPhoneom, iPadom i Macom kad se prijavite na iCloud na svim vašim uređajima."
+   }
+}

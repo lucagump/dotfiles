@@ -1,0 +1,28 @@
+openConnection: connect: File o directory non esistente
+cannot connect to brltty at :0
+
+** (nm-applet:31968): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-mONPPl1cTE: Connessione rifiutata
+
+** (blueman-applet:31971): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-mONPPl1cTE: Connessione rifiutata
+
+** (caffeine-indicator:31963): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-mONPPl1cTE: Connessione rifiutata
+
+(nm-applet:31968): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(caffeine-indicator:31963): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(blueman-applet:31971): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+** (thunar:32064): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-mONPPl1cTE: Connessione rifiutata
+
+** (gnome-terminal.real:32132): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-mONPPl1cTE: Connessione rifiutata
+
+** (exo-open:32320): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-mONPPl1cTE: Connessione rifiutata
+
+** (exo-helper-1:32325): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-mONPPl1cTE: Connessione rifiutata
+
+** (Thunar:32329): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-mONPPl1cTE: Connessione rifiutata
+[1:1:0921/231201.839220:ERROR:webthread_impl_for_utility_thread.cc(19)] Not implemented reached in virtual blink::ThreadScheduler *blink::scheduler::WebThreadImplForUtilityThread::Scheduler() const
+[1468:1468:0921/231203.089342:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+[1468:1468:0921/231325.519401:ERROR:textfield.cc(1763)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
