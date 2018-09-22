@@ -1,3 +1,0 @@
-use sampsite
-db.students.insert([{"student": "Dale Cooper", "street": "Via Boiane"}])
-db.students.find().pretty()
