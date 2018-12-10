@@ -6,8 +6,9 @@
 
 ## `settings`
 
-⋅⋅⋅**Font**: System San Francisco Display 12
-⋅⋅⋅**Editor**: Visual Studio Code Arc+ (Dark Monochrome)
+**Font**: System San Francisco Display 12
+
+**Editor**: Visual Studio Code Arc+ (Dark Monochrome)
 
 ```bash
                           ./+o+-       lucamartinelli@t440
