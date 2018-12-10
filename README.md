@@ -107,6 +107,11 @@ TODO: remove window ghosting
 └── dunstrc
 ```
 
+## `ubuntu.css`
+
+ubuntu.css is located in /usr/share/gnome-shell/theme/
+Move your background to the right directory 
+
 ## `htop`
 
 ```bash
