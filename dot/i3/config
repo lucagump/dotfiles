@@ -1,0 +1,237 @@
+# .__________   _________                _____.__        
+# |__\_____  \  \_   ___ \  ____   _____/ ____\__| ____  
+# |  | _(__  <  /    \  \/ /  _ \ /    \   __\|  |/ ___\ 
+# |  |/       \ \     \___(  <_> )   |  \  |  |  / /_/  >
+# |__/______  /  \______  /\____/|___|  /__|  |__\___  / 
+#           \/          \/            \/        /_____/  
+
+set $mod Mod4
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+font pango: System San Francisco Display 12
+
+focus_follows_mouse yes
+popup_during_fullscreen smart
+new_window pixel
+
+# System Color
+#                       border              background         text                 indicator
+client.focused          $BLACK           $BLACK          $WHITE          #00ff00
+client.unfocused        $inactive-bg-color  $inactive-bg-color $inactive-text-color #00ff00
+client.focused_inactive $inactive-bg-color  $inactive-bg-color $inactive-text-color #00ff00
+client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color          #00ff00
+
+#
+#       TODO: - configure shortcuts switch dualscreen and laptop screen 
+
+#   _________                    .__  _____.__        
+#  /   _____/_____   ____   ____ |__|/ ____\__| ____  
+#  \_____  \\____ \_/ __ \_/ ___\|  \   __\|  |/ ___\ 
+#  /        \  |_> >  ___/\  \___|  ||  |  |  \  \___ 
+# /_______  /   __/ \___  >\___  >__||__|  |__|\___  >
+#         \/|__|        \/     \/                  \/ 
+
+# start a terminal
+bindsym $mod+Return exec i3-sensible-terminal
+
+# kill focused window
+bindsym $mod+q kill
+
+# Telegram
+bindsym $mod+p exec franz  
+
+# Thunar
+bindsym $mod+z exec thunar
+
+# take a screenshot
+bindsym --release Print exec scrot '%Y-%m-%d_$wx$h.png' -e 'mv $f ~/Immagini/'
+
+# start google-chrome-stable
+bindsym $mod+Shift+Return exec google-chrome-stable
+
+# reload the configuration file
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $mod+Shift+e exec "i3-msg exit" 
+
+# exec the lockscreen
+bindsym $mod+x exec ~/.config/i3/lock.sh
+
+# Dual Monitor property 
+bindsym $mod+n exec xrandr --output HDMI-2 --off --output HDMI-1 --off --output DP-1 --off --output eDP-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output DP-2 --mode 1920x1080 --pos 1920x0 --rotate normal
+# Default Monitor
+bindsym $mod+m exec xrandr --output HDMI-2 --off --output HDMI-1 --off --output DP-1 --off --output eDP-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output DP-2 --off
+
+# Set volume increade, decrease mute
+bindsym XF86AudioRaiseVolume exec amixer -D pulse sset Master 5%+
+bindsym XF86AudioLowerVolume exec amixer -D pulse sset Master 5%-
+bindsym XF86AudioMute exec amixer -D pulse set Master 1+ toggle
+
+bindsym XF86MonBrightnessUp exec sudo light -A 10 
+bindsym XF86MonBrightnessDown exec sudo light -U 10
+
+# .__________   __________.__                 __            
+# |__\_____  \  \______   \  |   ____   ____ |  | __  ______
+# |  | _(__  <   |    |  _/  |  /  _ \_/ ___\|  |/ / /  ___/
+# |  |/       \  |    |   \  |_(  <_> )  \___|    <  \___ \ 
+# |__/______  /  |______  /____/\____/ \___  >__|_ \/____  >
+#           \/          \/                 \/     \/     \/ 
+
+bar {
+        status_command i3blocks -c ~/.config/i3/i3blocks.config
+        position bottom
+        mode hide
+    	colors {
+		background $bg-color
+	    	separator $GREY
+		#                  border             background         text
+		focused_workspace  $bg-color             $bg-color             $GREEN
+		inactive_workspace $bg-color             $bg-color             $GREY
+		urgent_workspace   $bg-color             $bg-color             $RED
+	}
+}
+
+# __________        _____.__ 
+# \______   \ _____/ ____\__|
+#  |       _//  _ \   __\|  |
+#  |    |   (  <_> )  |  |  |
+#  |____|_  /\____/|__|  |__|
+#         \/                 
+
+bindsym $mod+d exec rofi -show run -config ~/.config/rofi/config
+
+#   ________                                  .__   
+#  /  _____/  ____   ____   ________________  |  |  
+# /   \  ____/ __ \ /    \_/ __ \_  __ \__  \ |  |  
+# \    \_\  \  ___/|   |  \  ___/|  | \// __ \|  |__
+#  \______  /\___  >___|  /\___  >__|  (____  /____/
+#         \/     \/     \/     \/           \/      
+
+# resize
+bindsym $mod+r mode "resize"
+
+# move through workspace
+bindsym $mod+Left workspace prev
+bindsym $mod+Right workspace next
+
+# alternatively, you can use the cursor keys:
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+# split in horizontal orientation
+bindsym $mod+h split h
+
+# split in vertical orientation
+bindsym $mod+v split v
+
+# enter fullscreen mode for the focused container
+bindsym $mod+f fullscreen toggle
+
+# toggle tiling / floating
+bindsym $mod+Shift+space floating toggle
+
+
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+#   _________ __                 __   ____ ___         
+#  /   _____//  |______ ________/  |_|    |   \______  
+#  \_____  \\   __\__  \\_  __ \   __\    |   /\____ \ 
+#  /        \|  |  / __ \|  | \/|  | |    |  / |  |_> >
+# /_______  /|__| (____  /__|   |__| |______/  |   __/ 
+#         \/           \/                      |__|    
+
+exec_always feh --bg-scale /home/lucamartinelli/Immagini/2.jpg
+exec_always compton --backend glx --vsync opengl
+exec xinput set-prop 11 279 1
+
+exec caffeine-indicator
+exec blueman-applet 
+exec nm-applet
+
+# Touchpad controls
+bindsym XF86TouchpadToggle exec ~/.config/i3/toggletouchpad.sh 
+
+# _________        .__                
+# \_   ___ \  ____ |  |   ___________ 
+# /    \  \/ /  _ \|  |  /  _ \_  __ \
+# \     \___(  <_> )  |_(  <_> )  | \/
+#  \______  /\____/|____/\____/|__|   
+#         \/                          
+
+set $bg-color 	                #2f343f
+set $inactive-bg-color          #2f343f
+set $text-color                 #f3f4f5
+set $inactive-text-color        #676E7D
+set $urgent-bg-color            #E53935
+set $BLACK                      #000000                     
+set $WHITE                      #ffffff
+set $GREY                       #777777
+set $RED                        #bf1515
+set $GREEN                      #10ef1f
+
+#  __      __             __      _________                          
+# /  \    /  \___________|  | __ /   _____/__________    ____  ____  
+# \   \/\/   /  _ \_  __ \  |/ / \_____  \\____ \__  \ _/ ___\/ __ \ 
+#  \        (  <_> )  | \/    <  /        \  |_> > __ \\  \__\  ___/ 
+#   \__/\  / \____/|__|  |__|_ \/_______  /   __(____  /\___  >___  >
+#        \/                   \/        \/|__|       \/     \/    \/ 
+
+set $workspace1 ""
+set $workspace2 ""
+set $workspace3 ""
+set $workspace4 ""
+set $workspace5 "" 
+set $workspace6 ""
+set $workspace7 "" 
+set $workspace8 "" 
+set $workspace9 ""
+set $workspace0 ""
+
+# switch to workspace
+bindsym $mod+1 workspace $workspace1
+bindsym $mod+2 workspace $workspace2
+bindsym $mod+3 workspace $workspace3
+bindsym $mod+4 workspace $workspace4
+bindsym $mod+5 workspace $workspace5
+bindsym $mod+6 workspace $workspace6
+bindsym $mod+7 workspace $workspace7
+bindsym $mod+8 workspace $workspace8
+bindsym $mod+9 workspace $workspace9
+bindsym $mod+0 workspace $workspace0
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $workspace1
+bindsym $mod+Shift+2 move container to workspace $workspace2
+bindsym $mod+Shift+3 move container to workspace $workspace3
+bindsym $mod+Shift+4 move container to workspace $workspace4
+bindsym $mod+Shift+5 move container to workspace $workspace5
+bindsym $mod+Shift+6 move container to workspace $workspace6
+bindsym $mod+Shift+7 move container to workspace $workspace7
+bindsym $mod+Shift+8 move container to workspace $workspace8
+bindsym $mod+Shift+9 move container to workspace $workspace9
+bindsym $mod+Shift+0 move container to workspace $workspace0
+
+assign [class="TelegramDesktop"] $workspace3
+assign [class="Franz"] $workspace3
+
+for_window [class="^.*"] border pixel 1
+
+for_window [class="EagleSteeringWheel_x86" instance="EagleSteeringWheel_x86"] floating enable
