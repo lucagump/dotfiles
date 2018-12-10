@@ -1,6 +1,6 @@
 # dotfiles
 
-![](lucacaloria.mp4)
+![](lucacaloria.gif)
 
 ## `settings`
 
