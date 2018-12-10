@@ -99,6 +99,12 @@ TODO: remove window ghosting
 ```bash
 └── config.yml
 ```
+## `dunst`
+
+```bash
+└── dunstrc
+```
+
 ## `htop`
 
 ```bash
