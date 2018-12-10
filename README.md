@@ -1,5 +1,7 @@
 # dotfiles
 
+![](lucacaloria.mp4)
+
 ## `settings`
 
 Font: System San Francisco Display 12
