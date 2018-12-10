@@ -1,13 +1,13 @@
-# dotfiles
-
-## Me trying to get through life
+# Me trying to get through life
 
 ![](lucacaloria.gif)
 
+> Arch is for Pussy. Hannah Montana Linux is for Man
+
 ## `settings`
 
-Font: System San Francisco Display 12
-Editor: Visual Studio Code Arc+ (Dark Monochrome)
+⋅⋅⋅**Font**: System San Francisco Display 12
+⋅⋅⋅**Editor**: Visual Studio Code Arc+ (Dark Monochrome)
 
 ```bash
                           ./+o+-       lucamartinelli@t440
