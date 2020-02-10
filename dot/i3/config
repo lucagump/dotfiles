@@ -7,10 +7,14 @@
 
 set $mod Mod4
 
+gaps inner 25
+gaps outer 10 
+
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
-font pango: System San Francisco Display 12
+#font pango: System San Francisco Display 13
+font pango: Ubuntu 13
 
 focus_follows_mouse yes
 popup_during_fullscreen smart
@@ -18,13 +22,10 @@ new_window pixel
 
 # System Color
 #                       border              background         text                 indicator
-client.focused          $BLACK           $BLACK          $WHITE          #00ff00
+client.focused          $BLACK              $BLACK             $GREY                #00ff00
 client.unfocused        $inactive-bg-color  $inactive-bg-color $inactive-text-color #00ff00
 client.focused_inactive $inactive-bg-color  $inactive-bg-color $inactive-text-color #00ff00
-client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color          #00ff00
-
-#
-#       TODO: - configure shortcuts switch dualscreen and laptop screen 
+client.urgent           $urgent-bg-color    $urgent-bg-color   $GREY                #00ff00
 
 #   _________                    .__  _____.__        
 #  /   _____/_____   ____   ____ |__|/ ____\__| ____  
@@ -36,43 +37,71 @@ client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color      
 # start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
 
+# Start Visual Studio Code Bitch
+bindsym $mod+c exec code 
+
+bindsym $mod+y exec ~/.config/i3/yeelight-pink.sh
+bindsym $mod+u exec ~/.config/i3/yeelight-white.sh
+
 # kill focused window
 bindsym $mod+q kill
 
-# Telegram
-bindsym $mod+p exec franz  
+# Bluetooth Manager
 
-# Thunar
-bindsym $mod+z exec thunar
+bindsym $mod+b exec blueman-manager
+
+# Audio Manager
+
+bindsym $mod+n exec pavucontrol
+
+# Desktop Manager
+
+bindsym $mod+a exec arandr
+
+# Home Desktop config
+
+bindsym $mod+m exec xrandr --output DP-2-2 --auto --left-of eDP-1 
+
+# kill all windows in a Workspace
+
+bindsym $mod+Shift+q focus parent,kill
+
+# Telegram
+bindsym $mod+p exec telegram-desktop
+
+# Gnome Calculator
+bindsym $mod+g exec gnome-calculator
+
+# Thunar/Nautilus
+bindsym $mod+z exec nautilus
 
 # take a screenshot
-bindsym --release Print exec scrot '%Y-%m-%d_$wx$h.png' -e 'mv $f ~/Immagini/'
+bindsym --release Print exec scrot '%Y-%m-%d_$wx$h.png' -e 'mv $f ~/Pictures/Screenshot' && notify-send -t 800 -u normal "Smile!"
 
 # start google-chrome-stable
-bindsym $mod+Shift+Return exec google-chrome-stable
+bindsym $mod+Shift+Return exec chromium-browser
 
 # reload the configuration file
-bindsym $mod+Shift+c reload
+bindsym $mod+Shift+c reload  
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
-bindsym $mod+Shift+r restart
+bindsym $mod+Shift+r restart 
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-msg exit" 
-
+bindsym $mod+Shift+e exec "i3-msg exit"  
 # exec the lockscreen
 bindsym $mod+x exec ~/.config/i3/lock.sh
 
-# Dual Monitor property 
-bindsym $mod+n exec xrandr --output HDMI-2 --off --output HDMI-1 --off --output DP-1 --off --output eDP-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output DP-2 --mode 1920x1080 --pos 1920x0 --rotate normal
-# Default Monitor
-bindsym $mod+m exec xrandr --output HDMI-2 --off --output HDMI-1 --off --output DP-1 --off --output eDP-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output DP-2 --off
-
 # Set volume increade, decrease mute
-bindsym XF86AudioRaiseVolume exec amixer -D pulse sset Master 5%+
-bindsym XF86AudioLowerVolume exec amixer -D pulse sset Master 5%-
-bindsym XF86AudioMute exec amixer -D pulse set Master 1+ toggle
+bindsym XF86AudioRaiseVolume exec exec ~/.config/i3/volume.sh up
+bindsym XF86AudioLowerVolume exec exec ~/.config/i3/volume.sh down 
+bindsym XF86AudioMute exec ~/.config/i3/volume.sh mute
 
-bindsym XF86MonBrightnessUp exec sudo light -A 10 
-bindsym XF86MonBrightnessDown exec sudo light -U 10
+bindsym XF86MonBrightnessUp exec brightlight -i 50 && notify-send -t 200 "BRIGHTLIGHT" increase   
+bindsym XF86MonBrightnessDown exec brightlight -d 50 && notify-send -t 200 "BRIGHTLIGHT" decrease
+bindsym --release Caps_Lock exec pkill -SIGRTMIN+11 i3blocks
+
+
+# bindsym XF86MonBrightnessUp exec xrandr --output eDP-1 --brightness 1.05
+# bindsym XF86MonBrightnessDown exec xrandr --output eDP-1 --brightness 0.4
 
 # .__________   __________.__                 __            
 # |__\_____  \  \______   \  |   ____   ____ |  | __  ______
@@ -83,17 +112,27 @@ bindsym XF86MonBrightnessDown exec sudo light -U 10
 
 bar {
         status_command i3blocks -c ~/.config/i3/i3blocks.config
-        position bottom
-        mode hide
-    	colors {
-		background $bg-color
-	    	separator $GREY
-		#                  border             background         text
-		focused_workspace  $bg-color             $bg-color             $GREEN
-		inactive_workspace $bg-color             $bg-color             $GREY
-		urgent_workspace   $bg-color             $bg-color             $RED
-	}
+        position top
+        #mode hide
+        colors {
+                background $BLACK
+                separator  $BLACK
+                #                  border             background         text
+                focused_workspace  $BLACK             $BLACK             $ORANGE
+                inactive_workspace $BLACK             $BLACK             $GREY
+                urgent_workspace   $BLACK             $BLACK             $RED
+        }
 }
+
+#__________      .__         ___.
+#\______   \____ |  | ___.__.\_ |__ _____ _______
+# |     ___/  _ \|  |<   |  | | __ \\__  \\_  __ \
+# |    |  (  <_> )  |_\___  | | \_\ \/ __ \|  | \/
+# |____|   \____/|____/ ____| |___  (____  /__|
+#                     \/          \/     \/
+
+# exec_always polybar example
+
 
 # __________        _____.__ 
 # \______   \ _____/ ____\__|
@@ -123,6 +162,7 @@ bindsym $mod+Shift+Left move left
 bindsym $mod+Shift+Down move down
 bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
+bindsym Mod1+ctrl+Tab workspace next
 
 # split in horizontal orientation
 bindsym $mod+h split h
@@ -131,7 +171,7 @@ bindsym $mod+h split h
 bindsym $mod+v split v
 
 # enter fullscreen mode for the focused container
-bindsym $mod+f fullscreen toggle
+bindsym $mod+f fullscreen toggle 
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -141,10 +181,10 @@ bindsym $mod+Shift+space floating toggle
 mode "resize" {
         
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 10 px or 10 ppt
-        bindsym Down resize grow height 10 px or 10 ppt
-        bindsym Up resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
+        bindsym Left resize shrink width 15 px
+        bindsym Down resize grow height 15 px
+        bindsym Up resize shrink height 15 px
+        bindsym Right resize grow width 15 px 
 
         # back to normal: Enter or Escape
         bindsym Return mode "default"
@@ -158,17 +198,21 @@ mode "resize" {
 # /_______  /|__| (____  /__|   |__| |______/  |   __/ 
 #         \/           \/                      |__|    
 
-exec_always feh --bg-scale /home/lucamartinelli/Immagini/2.jpg
-exec_always compton --backend glx --vsync opengl
-exec xinput set-prop 11 279 1
+exec_always feh --bg-scale /home/lucamartinelli/Pictures/2_m.jpg
+exec_always compton --backend glx --vsync opengl 
+#exec_always xcompmgr
+#exec xinput set-prop 11 279 1
 
-exec --no-startup-id dunst &
-exec caffeine-indicator
-exec blueman-applet 
-exec nm-applet
+exec --no-startup-id dunst -c ~/.config/dunst/dunstrc
+exec --no-startup-id caffeine-indicator
+exec --no-startup-id blueman-applet 
+exec --no-startup-id nm-applet
 
 # Touchpad controls
-bindsym XF86TouchpadToggle exec ~/.config/i3/toggletouchpad.sh 
+#bindsym XF86TouchpadToggle exec ~/.config/i3/toggletouchpad.sh 
+
+# The HYP€$T Shortcut
+# tizonia --spotify-playlist-id "lso2srqk44tsiu0l4579927x9:playlist:4hCQNJXRXOQNokU0xnWZGH"
 
 # _________        .__                
 # \_   ___ \  ____ |  |   ___________ 
@@ -183,6 +227,7 @@ set $text-color                 #f3f4f5
 set $inactive-text-color        #676E7D
 set $urgent-bg-color            #E53935
 set $BLACK                      #000000                     
+set $ORANGE                     #ffb600
 set $WHITE                      #ffffff
 set $GREY                       #777777
 set $RED                        #bf1515
@@ -195,16 +240,16 @@ set $GREEN                      #10ef1f
 #   \__/\  / \____/|__|  |__|_ \/_______  /   __(____  /\___  >___  >
 #        \/                   \/        \/|__|       \/     \/    \/ 
 
-set $workspace1 ""
-set $workspace2 ""
+set $workspace1 ""
+set $workspace2 ""
 set $workspace3 ""
-set $workspace4 ""
-set $workspace5 "" 
+set $workspace4 ""
+set $workspace5 "" 
 set $workspace6 ""
-set $workspace7 "" 
+set $workspace7 "" 
 set $workspace8 "" 
-set $workspace9 ""
-set $workspace0 ""
+set $workspace9 ""
+set $workspace0 ""
 
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
@@ -230,9 +275,24 @@ bindsym $mod+Shift+8 move container to workspace $workspace8
 bindsym $mod+Shift+9 move container to workspace $workspace9
 bindsym $mod+Shift+0 move container to workspace $workspace0
 
-assign [class="TelegramDesktop"] $workspace3
-assign [class="Franz"] $workspace3
+bindsym $mod+Shift+minus move scratchpad
+bindsym $mod+minus scratchpad show
 
-for_window [class="^.*"] border pixel 1
+for_window [class="^.*"] border pixel 0
 
+for_window [class="Yad"] floating enable
+
+for_window [class="Arandr"] floating enable, move position 700 px 200 px, exec xdotool search --class Arandr getwindowpid 
+
+# for_window [class="TelegramDesktop"] floating enable, move position 550 px 90 px, exec xdotool search --class TelegramDesktop getwindowpid 
+
+for_window [class="Pavucontrol"] floating enable, resize set 700 580, move position 990 px 200 px, exec xdotool search --class pavucontrol getwindowpid 
+
+for_window [class="Blueman-manager"] floating enable, resize set 600 580, move position 330 px 200 px, exec xdotool search --class blueman-manager getwindowpid 
+
+for_window [class="Gnome-calculator"] floating enable, move position 550 px 200 px, exec xdotool search --class Gnome-calculator getwindowpid 
+
+for_window [class="VirtualBox Machine"] floating enable
+
+for_window [class="EagleSteeringWheel" instance="EagleSteeringWheel"] floating enable
 for_window [class="EagleSteeringWheel_x86" instance="EagleSteeringWheel_x86"] floating enable
